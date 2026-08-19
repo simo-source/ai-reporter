@@ -1,0 +1,15 @@
+{
+  "name": "the-primary-record-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.13.2",
+    "marked": "^15.0.12",
+    "yaml": "^2.8.1"
+  }
+}

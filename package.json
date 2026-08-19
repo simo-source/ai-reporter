@@ -1,0 +1,21 @@
+{
+  "name": "the-primary-record",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "ingest": "node scripts/ingest/run.mjs",
+    "validate": "node scripts/validate-article.mjs",
+    "validate:all": "node scripts/validate-article.mjs --all",
+    "preflight": "node scripts/preflight.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "site:dev": "npm --prefix site run dev",
+    "site:build": "npm --prefix site run build",
+    "gate": "node scripts/preflight.mjs && node scripts/validate-article.mjs --all"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}

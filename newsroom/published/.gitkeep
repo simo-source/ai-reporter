@@ -1,0 +1,1 @@
+Keep this directory empty until a piece passes `npm run validate`. The site treats an empty record as a valid state.

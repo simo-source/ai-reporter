@@ -1,0 +1,33 @@
+---
+name: investigation-state
+description: Keeps a multi-day investigation organized across sessions using git files — status, hypothesis, claim ledger, evidence log, traces. Use when opening, continuing, parking, or killing an investigation.
+---
+
+# Investigation state
+
+Git is memory. If it is not in the investigation folder, you do not know it.
+
+## Folder
+
+```
+newsroom/investigations/<yyyy-nnn-slug>/
+  assignment.md
+  status.yml
+  hypothesis.md
+  timeline.md
+  claim-ledger.yml
+  evidence-log.md
+  evidence/
+  traces/
+  gaps.md
+```
+
+`status.yml` fields: `id`, `mode`, `opened`, `updated`, `status` (`active` | `parked` | `killed` | `ready-to-write` | `published`), `next_action`.
+
+## Rules
+
+- Facts, inferences, and hypotheses live in different files. Do not promote a hypothesis to a fact by rewriting it.
+- Every evidence file gets URL, retrieved date, hash or filename, and a short excerpt.
+- After two cycles with no new primary document, park or kill. Write why in `gaps.md`.
+- Append traces of the run (what you searched, what you opened) to `traces/YYYY-MM-DD.md`.
+- Update `newsroom/state.json` `open_investigations` to match reality.

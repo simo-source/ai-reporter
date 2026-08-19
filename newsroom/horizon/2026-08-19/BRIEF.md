@@ -1,0 +1,243 @@
+# Horizon brief — 2026-08-19
+
+Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
+
+## sec-edgar
+- **4 - TCW Private Asset Income Fund (0002036272) (Issuer)**
+  - when: 2026-08-19T17:35:38-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2036272/000180178526000004/0001801785-26-000004-index.htm
+  - Filed: 2026-08-19 AccNo: 0001801785-26-000004 Size: 4 KB
+- **4 - ROONEY ROBERT GERALD (0001801785) (Reporting)**
+  - when: 2026-08-19T17:35:38-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1801785/000180178526000004/0001801785-26-000004-index.htm
+  - Filed: 2026-08-19 AccNo: 0001801785-26-000004 Size: 4 KB
+- **4 - Cloudflare, Inc. (0001477333) (Issuer)**
+  - when: 2026-08-19T17:35:32-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1477333/000147328926000025/0001473289-26-000025-index.htm
+  - Filed: 2026-08-19 AccNo: 0001473289-26-000025 Size: 30 KB
+- **4 - SEIFERT THOMAS J (0001473289) (Reporting)**
+  - when: 2026-08-19T17:35:32-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1473289/000147328926000025/0001473289-26-000025-index.htm
+  - Filed: 2026-08-19 AccNo: 0001473289-26-000025 Size: 30 KB
+- **4 - Mirchandani Sanjay (0001765820) (Reporting)**
+  - when: 2026-08-19T17:35:29-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1765820/000176582026000016/0001765820-26-000016-index.htm
+  - Filed: 2026-08-19 AccNo: 0001765820-26-000016 Size: 7 KB
+- **4 - COMMVAULT SYSTEMS INC (0001169561) (Issuer)**
+  - when: 2026-08-19T17:35:29-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1169561/000176582026000016/0001765820-26-000016-index.htm
+  - Filed: 2026-08-19 AccNo: 0001765820-26-000016 Size: 7 KB
+- **4 - McBee Brannin (0002058103) (Reporting)**
+  - when: 2026-08-19T17:35:20-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2058103/000176962826000388/0001769628-26-000388-index.htm
+  - Filed: 2026-08-19 AccNo: 0001769628-26-000388 Size: 63 KB
+- **4 - CoreWeave, Inc. (0001769628) (Issuer)**
+  - when: 2026-08-19T17:35:20-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1769628/000176962826000388/0001769628-26-000388-index.htm
+  - Filed: 2026-08-19 AccNo: 0001769628-26-000388 Size: 63 KB
+- **144 - ADI GLOBAL DISTRIBUTION INC. (0002105139) (Subject)**
+  - when: 2026-08-19T17:35:08-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2105139/000195004726008436/0001950047-26-008436-index.htm
+  - Filed: 2026-08-19 AccNo: 0001950047-26-008436 Size: 6 KB
+- **144 - Geldmacher Jay L (0001462488) (Reporting)**
+  - when: 2026-08-19T17:35:08-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1462488/000195004726008436/0001950047-26-008436-index.htm
+  - Filed: 2026-08-19 AccNo: 0001950047-26-008436 Size: 6 KB
+- **4 - Chime Financial, Inc. (0001795586) (Issuer)**
+  - when: 2026-08-19T17:34:49-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1795586/000149439326000011/0001494393-26-000011-index.htm
+  - Filed: 2026-08-19 AccNo: 0001494393-26-000011 Size: 5 KB
+- **4 - Troughton Mark T (0001494393) (Reporting)**
+  - when: 2026-08-19T17:34:49-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1494393/000149439326000011/0001494393-26-000011-index.htm
+  - Filed: 2026-08-19 AccNo: 0001494393-26-000011 Size: 5 KB
+
+## federal-register
+- **Agency Information Collection Activities: Proposed Collection; Comment Request**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/C1-2026-15326/agency-information-collection-activities-proposed-collection-comment-request
+  - Health and Human Services Department, Agency for Healthcare Research and Quality — Notice
+- **Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components Into the United States**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16979/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the
+  - Executive Office of the President — Presidential Document
+- **Gardenia Blue Interest Group; Filing of Color Additive Petition**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16944/gardenia-blue-interest-group-filing-of-color-additive-petition
+  - Health and Human Services Department, Food and Drug Administration — Proposed Rule — The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by Gardenia Blue Interest Group (GBIG or petitioner), c/o Exponent, Inc., proposing that we amend our color additive regulations to expand the safe use of gardenia (genipin) blue in various foods at levels consistent with good manufacturing practice. The petition also proposes to lower the specification for arseni
+- **International Association of Color Manufacturers; Filing of Color Additive Petition**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition
+  - Health and Human Services Department, Food and Drug Administration — Proposed Rule — The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by the International Association of Color Manufacturers, proposing that we amend our color additive regulations to provide for the safe use of acetone as a solvent in the manufacture of carrot oil. The petition also proposes to add heavy metal limits and secondary names for carrot oil. FDA may also consider other
+- **Food Additives Permitted in Feed and Drinking Water of Animals; Chromium DL-methionine Chelate**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate
+  - Health and Human Services Department, Food and Drug Administration — Rule — The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium DL- methionine chelate as a nutritional source of chromium in cattle feed. This action is in response to a food additive petition filed by Zinpro Corp.
+- **GNT USA, LLC.; Filing of Color Additive Petition**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16939/gnt-usa-llc-filing-of-color-additive-petition
+  - Health and Human Services Department, Food and Drug Administration — Proposed Rule — The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by GNT USA, LLC., c/o Exponent, Inc., proposing that we amend our color additive regulations to provide for the safe use of safflower (Carthamus tinctorius L.) extract as a color additive in various foods at levels consistent with good manufacturing practices.
+- **Air Plan Approval; South Carolina; Minor Source Permit Program Revisions**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16937/air-plan-approval-south-carolina-minor-source-permit-program-revisions
+  - Environmental Protection Agency — Proposed Rule — The U.S. Environmental Protection Agency (EPA or Agency) is proposing to approve changes to South Carolina's State Implementation Plan (SIP) to revise regulations prescribing minor source permit program requirements, including minor new source review (NSR) requirements, in SIP revisions submitted by the State of South Carolina on October 1, 2007, July 18, 2011, August 8, 2014, April 24, 2020, and July 23, 2025. This action is being proposed pursu
+- **Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16932/air-plan-partial-approval-and-partial-conditional-approval-south-carolina-control-of-oxides-of
+  - Environmental Protection Agency — Proposed Rule — The U.S. Environmental Protection Agency (EPA or Agency) is proposing to partially approve and partially conditionally approve changes to South Carolina's State Implementation Plan (SIP) to revise source testing requirements and regulations prescribing control requirements for certain stationary sources of nitrogen oxides (NO X ) submitted by the State of South Carolina, through the South Carolina Department of Environmental Services (SC
+- **Air Plan Approval; South Carolina; Minor Source Permit Program Revisions**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16930/air-plan-approval-south-carolina-minor-source-permit-program-revisions
+  - Environmental Protection Agency — Proposed Rule — The U.S. Environmental Protection Agency (EPA or Agency) is proposing action on changes to South Carolina's State Implementation Plan (SIP) to revise regulations prescribing minor source permitting program requirements, including minor new source review (NSR) requirements, involving, in part, minor source permitting public participation, in SIP revisions submitted by the State of South Carolina through the South Carolina Department of Health and
+- **Lower Saranac Hydro Partners, LLC; Notice of Revised Procedural Schedule**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16928/lower-saranac-hydro-partners-llc-notice-of-revised-procedural-schedule
+  - Energy Department, Federal Energy Regulatory Commission — Notice
+- **Combined Notice of Filings #1**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16927/combined-notice-of-filings-1
+  - Energy Department, Federal Energy Regulatory Commission — Notice
+- **Banister Hydro, Inc.; Notice of Authorization for Continued Project Operation**
+  - when: 2026-08-19
+  - url: https://www.federalregister.gov/documents/2026/08/19/2026-16926/banister-hydro-inc-notice-of-authorization-for-continued-project-operation
+  - Energy Department, Federal Energy Regulatory Commission — Notice
+
+## gao
+- **Priority Open Recommendations: National Aeronautics and Space Administration**
+  - when: Wed, 19 Aug 2026 08:25:45 -0400
+  - url: https://www.gao.gov/products/gao-26-109162
+  - What GAO Found In August 2025, GAO identified three priority recommendations for the National Aeronautics and Space Administration (NASA). Since then, NASA has not implemented any priority recommendations. In July 2026, GAO identified an additional priority recommendation, bringing the total to four. GAO is highlighting the following three areas that warrant timely and focused attention: &nbsp;Monitoring program costs, &nbsp;Managing cybersecurity risks, and &nbsp;Using federal contractin
+- **Defense Health Care: DOD Should Assess Its Needs for Managing Potential Brain Health Effects from Weapons Blast Exposures**
+  - when: Tue, 18 Aug 2026 06:59:03 -0400
+  - url: https://www.gao.gov/products/gao-26-107829
+  - What GAO Found The Department of Defense (DOD) and its components—relevant DOD offices and the military departments (Army, Navy, and Air Force)—are taking steps to prevent and mitigate the brain health effects of blast exposure. In 2024, DOD established several blast overpressure requirements, including one requiring that brain health be monitored. Specifically, this requires that all high-risk active duty service members complete a baseline cognitive assessment in fiscal year 2025 and all new
+- **Time to Hire: Using More Reliable Data Could Help GAO Monitor The Length of Its Hiring Process**
+  - when: Mon, 17 Aug 2026 12:01:46 -0400
+  - url: https://www.gao.gov/products/oig-26-1
+  - What the OIG Found GAO aims to provide Congress, the heads of executive agencies, and the public with timely, fact-based, non-partisan information that can be used to improve government and save taxpayers billions of dollars. To execute its mission, GAO relies on a highly-qualified workforce that includes employees in mission-critical occupations (MCO) such as contracting, human resources management, and information technology management. In FY 2024, GAO’s hiring of MCO employees took about 10
+- **National Crisis and Support Hotlines: Contact Volume Increased and Operations Remained Relatively Consistent in 2025**
+  - when: Thu, 13 Aug 2026 07:27:58 -0400
+  - url: https://www.gao.gov/products/gao-26-109046
+  - What GAO Found The 988 Suicide &amp; Crisis Lifeline provides free, confidential 24/7 support for anyone experiencing mental health distress, suicidal thoughts, or substance use crises. The National Maternal Mental Health Hotline provides free, confidential emotional support, resources, and referrals to pregnant and postpartum women experiencing mental health challenges. Both of these hotlines, within the Department of Health and Human Services (HHS), are operated by nonfederal entities—primari
+- **Priority Open Recommendations: Office of Management and Budget**
+  - when: Tue, 11 Aug 2026 07:28:47 -0400
+  - url: https://www.gao.gov/products/gao-26-108991
+  - Why GAO Did This Study In August 2024, GAO identified 37 priority recommendations for the Office of Management and Budget (OMB). Since then, OMB has implemented 11 of those recommendations. In August 2026, GAO identified an additional seven priority recommendations, removed the priority designation from five, and closed eight others as no longer valid, bringing the total number to 20. GAO is highlighting the following three areas that warrant timely and focused attention: &nbsp;Combatting f
+- **Airports: Online Information Is Widely Available for General Aviation Fuel Prices but Not for Required Fees**
+  - when: Tue, 11 Aug 2026 07:10:04 -0400
+  - url: https://www.gao.gov/products/gao-26-108578
+  - What GAO Found Fixed base operators (FBO) offer services at airports—such as fueling, parking, and maintenance—for general aviation pilots and other users. These users often seek information about fuel prices and fees for FBO services before taking a trip. Stakeholders that GAO interviewed said pilots obtain information from multiple sources, including websites and calls to FBOs, depending on the purpose of their trip. GAO compared information about fuel prices and fees that it obtained through
+- **Army Depot Maintenance: Information on Workload, Workforce, and Challenges**
+  - when: Mon, 10 Aug 2026 08:08:08 -0400
+  - url: https://www.gao.gov/products/gao-26-108681
+  - What GAO Found The Anniston and Red River Army Depots, among other things, perform maintenance and repairs on ground vehicles, including vehicles such as tanks, personnel carriers, and self-propelled artillery systems; trucks for hauling fuel and supplies; and light armored vehicles for transporting personnel and cargo. The maintenance and repairs performed at both depots include overhauls, major repairs, repairable parts, and other depot work. The annual total workload at Anniston Army Depot
+- **2026 Filing Season: Preliminary Observations on IRS Performance**
+  - when: Mon, 10 Aug 2026 07:01:28 -0400
+  - url: https://www.gao.gov/products/gao-26-109074
+  - What GAO Found The Internal Revenue Service’s (IRS) overall processing performance during the 2026 filing season was similar to 2025. IRS processed about 98 percent of the 177 million individual and business returns that it received during the 2026 filing season—the same percentage as last year. However, according to IRS, unavailable processing systems and reduced staffing delayed paper return processing. IRS said the systems were not available due in part to recent staff losses that delayed pr
+- **State Department: Standards for Overseas Housing Need Review**
+  - when: Mon, 10 Aug 2026 07:28:52 -0400
+  - url: https://www.gao.gov/products/gao-26-107965
+  - What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, housing in the Washington, D.C., area has been increasing in cost and decreasing in square footage. In addition, State’s method for measuring overseas housing does not al
+- **Combating Fraud: Managing Risks in Federally Funded, State-Administered Programs [Reissued with revisions on Aug. 7, 2026]**
+  - when: Thu, 23 Jul 2026 07:00:30 -0400
+  - url: https://www.gao.gov/products/gao-26-109100
+  - What GAO Found Twenty programs, supporting a broad range of services from health care to disaster assistance, made up nearly 90 percent of federal obligations among programs administered by state and other government entities with obligations of over $100 million in fiscal year 2025. The 20 programs collectively accounted for $1.1 trillion in total federal obligations that year. Subrecipients, contractors, and others can also be involved in these programs, which can be helpful in delivering ben
+- **DOGE Wall of Receipts: More Transparency Needed on How Savings Are Derived from Contract, Grant, and Lease Terminations**
+  - when: Thu, 06 Aug 2026 08:22:09 -0400
+  - url: https://www.gao.gov/products/gao-26-108615
+  - What GAO Found The Department of Government Efficiency (DOGE) began posting its estimated savings on a web page known as the Wall of Receipts on February 17, 2025. As of July 7, 2026, the Wall of Receipts reported savings of $110 billion across contracts, grants, and leases, but some savings estimates are incorrect or lack supporting evidence. While DOGE provided some information about estimated savings, several issues limit the transparency and reliability of these reported savings. DOGE wa
+- **Semiconductors: Commerce Needs Plan to Meet CHIPS for America R&D Requirements**
+  - when: Thu, 06 Aug 2026 07:37:32 -0400
+  - url: https://www.gao.gov/products/gao-26-109121
+  - What GAO Found The Department of Commerce has continued to implement the semiconductor facilities and equipment incentives program, and awardees have made progress on milestones. Since July 2025, Commerce has awarded nine new projects, for a total of 49 projects across 24 companies. When setting award amounts, Commerce considered new factors as compared to prior awards, such as whether the company would provide equity in exchange for funding. Commerce also amended existing awards for 14 compani
+
+## courtlistener
+- **Integración De Las Salas De Despacho Durante Los Meses De Mayo Y Junio De 2018**
+  - when: 2028-04-13T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10791709/integracion-de-las-salas-de-despacho-durante-los-meses-de-mayo-y-junio-de/
+  - EN EL TRIBUNAL SUPREMO DE PUERTO RICO In re: 2018 TSPR 58 Integración de las Salas de Despacho durante los meses de mayo y junio de 200 DPR ____ 2018 Número del Caso: ES-2018-1 Fecha: 13 de abril de 2018 Materia: Resolución del Tribunal. Este documento constituye un documento oficial del Tribunal Supremo que está sujeto a los cambios y correcciones del proceso de compilación y publicación oficial de las decisiones Original document
+- **Williams Companies, Inc. v. PA PUC**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953486/williams-companies-inc-v-pa-puc/
+  - IN THE COMMONWEALTH COURT OF PENNSYLVANIA Williams Companies, Inc., : : Petitioner : : v. : No. 1232 C.D. 2024 : Argued: September 10, 2025 Pennsylvania Public : Utility Commission, : : Respondent : BEFORE: HONORABLE Original document
+- **In the Matter of B.H., Alleged to be Seriously Mentally Impaired**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953640/in-the-matter-of-bh-alleged-to-be-seriously-mentally-impaired/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-1569 Filed August 19, 2026 _______________ In the Matter of B.H., Alleged to be Seriously Mentally Impaired B.H., Respondent-Appellant. _______________ Appeal from the Iowa District Court for Johnson County, The Honorable Elizabeth Dupuich, Judge Original document
+- **Bank of Am., N.A. v. Ragnauth**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953838/bank-of-am-na-v-ragnauth/
+  - Bank of Am., N.A. v Ragnauth 2026 NY Slip Op 05001 August 19, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Bank of America, National Association, etc., respondent, v Bhagwandai Ragnauth, et al., appellants, et al., defendants. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided Original document
+- **In Re: Apellis Pharm., Inc. Securities Litigation v.**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953845/in-re-apellis-pharm-inc-securities-litigation-v/
+  - United States Court of Appeals For the First Circuit No. 25-1383 IN RE: APELLIS PHARMACEUTICALS, INC. SECURITIES LITIGATION RAY PELECKAS; MICHIGAN LABORERS’ PENSION FUND, Plaintiffs, Appellants, JUDITH M. SODERBERG, individually and on behalf of all others similarly situated; RAUL PRADO RUIZ, Plaintiffs, v. APELLIS PHARMACEUTICALS, INC Original document
+- **Laurel Hill Mgmt. Servs., Inc v. La-Z-Boy Inc.**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953777/laurel-hill-mgmt-servs-inc-v-la-z-boy-inc/
+  - RECOMMENDED FOR PUBLICATION Pursuant to Sixth Circuit I.O.P. 32.1(b) File Name: 26a0237p.06 UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT ┐ LAUREL HILL MANAGEMENT SERVICES, INC.; │ MINIMALLY INVASIVE SURGICAL ASSOCIATES; Original document
+- **Glixon v. Highland Care Ctr., Inc.**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953830/glixon-v-highland-care-ctr-inc/
+  - Glixon v Highland Care Ctr., Inc. 2026 NY Slip Op 05010 August 19, 2026 Appellate Division, Second Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. Scott Glixon, etc., respondent, v Highland Care Center, Inc., etc., appellant, et al., defendants. Supreme Court of the State of New York, Appellate Division, Second Judicial Department Decided on August 19 Original document
+- **Wong v. Blanche**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953495/wong-v-blanche/
+  - 22-6185 Wong v. Blanche United States Court of Appeals For the Second Circuit August Term 2024 Argued: May 8, 2025 Decided: August 19, 2026 No. 22-6185 KWOK SUM WONG, Petitioner, Original document
+- **State of Iowa v. Plu Reh**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953613/state-of-iowa-v-plu-reh/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-0223 Filed August 19, 2026 _______________ State of Iowa, Plaintiff–Appellee, v. Plu Reh, Defendant–Appellant. _______________ Appeal from the Iowa District Court for Polk County Original document
+- **State of Iowa v. Walter Leon Conkright**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953607/state-of-iowa-v-walter-leon-conkright/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-0555 Filed August 19, 2026 _______________ State of Iowa, Plaintiff–Appellee, v. Walter Leon Conkright, Defendant–Appellant. _______________ Appeal from the Iowa District Court for Linn County, Original document
+- **Adan Aguirre Jr. v. State**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953516/adan-aguirre-jr-v-state/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ August 19, 2026 The Court of Appeals hereby passes the following order: A26A2044. AGUIRRE v. THE STATE. The above referenced appeal was docketed on May 15, 2026. On May 27, Appellant moved for an extension of time in which to file his enumeration of errors and brief. We granted Appellant’s motion, extending his filing date to June Original document
+- **Jacob Colfax Knapp v. State of Iowa**
+  - when: 2026-08-19T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10953637/jacob-colfax-knapp-v-state-of-iowa/
+  - IN THE COURT OF APPEALS OF IOWA _______________ No. 25-1186 Filed August 19, 2026 _______________ Jacob Colfax Knapp, Plaintiﬀ–Appellant, v. State of Iowa, Defendant–Appellee. _______________ Appeal from the Iowa District Court for Johnson Original document
+
+## uk-legislation
+- **The Air Navigation (Restriction of Flying) (Trawsfynydd) Regulations 2026**
+  - when: 2026-08-18T11:05:46+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/932
+- **The Air Navigation (Restriction of Flying) (Billing, Northampton) (Emergency) Regulations 2026**
+  - when: 2026-08-18T10:30:26.444289+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/931
+- **The Air Navigation (Restriction of Flying) (Dowlais, South Wales) (Emergency) (No. 2) Regulations 2026**
+  - when: 2026-08-17T12:22:39+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/930
+- **The Air Navigation (Restriction of Flying) (Llantrisant, South Wales) (Emergency) Regulations 2026**
+  - when: 2026-08-17T11:22:17.069799+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/928
+- **The Air Navigation (Restriction of Flying) (Blaenavon, South Wales) (Emergency) Regulations 2026**
+  - when: 2026-08-17T11:22:11.022607+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/929
+- **The Air Navigation (Restriction of Flying) (Ferndale, South Wales) (Emergency) Regulations 2026**
+  - when: 2026-08-17T11:22:06.564322+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/927
+- **The Air Navigation (Restriction of Flying) (Dowlais, South Wales) (Emergency) Regulations 2026**
+  - when: 2026-08-17T11:17:03.017339+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/926
+- **The Air Navigation (Restriction of Flying) (Deri, South Wales) (Emergency) Regulations 2026**
+  - when: 2026-08-17T11:07:01.073235+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/925
+- **The Air Navigation (Restriction of Flying) (Pontypridd, South Wales) (Emergency) Regulations 2026**
+  - when: 2026-08-17T10:41:49.207955+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/924
+- **Correction Slip**
+  - when: 2026-08-17T08:34:34+01:00
+  - url: http://www.legislation.gov.uk/wsi/2026/19/pdfs/wsics_20260019_we_001.pdf
+  - These Regulations amend various Regulations which make provision about, and in connection with, student finance. Mae’r Rheoliadau hyn yn diwygio amryw Reoliadau sy’n gwneud darpariaeth ynghylch cyllid myfyrwyr, ac mewn cysylltiad ag ef.
+- **Correction Slip**
+  - when: 2026-08-17T11:24:56+01:00
+  - url: http://www.legislation.gov.uk/uksi/1997/622/pdfs/uksics_19970622_en_001.pdf
+  - This Order designates the areas in the counties specified in Article 2 and the Schedules as rural areas for the purposes of section 17 of the Housing Act 1996 (the right to acquire) and section 1AA(3)(a) of the Leasehold Reform Act 1967 (additional right to enfranchise). The right of tenants of registered social landlords to acquire their homes under sections 16 and 17 of the 1996 Act and the right of tenants with long leases to enfranchise under section 1AA of the 1967 Act do not apply in respe
+- **The Air Navigation (Restriction of Flying) (Lewes, East Sussex) (Emergency) (No. 2) Regulations 2026**
+  - when: 2026-08-14T17:32:33.551267+01:00
+  - url: http://www.legislation.gov.uk/id/uksi/2026/923

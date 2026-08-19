@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+site/.astro/
+site/dist/
+newsroom/investigations/**/evidence/raw/
+newsroom/investigations/**/interviews/
+*.pem
+*.key
+credentials.json

@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import { listPublished, getPublished } from "../../lib/published.js";
+
+export async function getStaticPaths() {
+  const articles = await listPublished();
+  return articles.map((article) => ({ params: { slug: article.slug } }));
+}
+
+const { slug } = Astro.params;
+const article = await getPublished(slug);
+if (!article) {
+  throw new Error(`Missing article ${slug}`);
+}
+---
+
+<Base title={article.title} description={article.dek || article.finding}>
+  <article class="piece">
+    <p class="kicker">Investigation · {article.date}</p>
+    <h1>{article.title}</h1>
+    {article.dek && <p class="dek">{article.dek}</p>}
+    <div class="prose" set:html={article.html} />
+    {Array.isArray(article.sources) && article.sources.length > 0 && (
+      <section class="evidence">
+        <h2>Evidence</h2>
+        <ol>
+          {article.sources.map((source) => (
+            <li>
+              <a href={source.url}>{source.title || source.url}</a>
+              <div class="mute">
+                {source.type} · {source.locator} · retrieved {source.retrieved}
+              </div>
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+  </article>
+</Base>

@@ -1,0 +1,42 @@
+---
+import Base from "../layouts/Base.astro";
+import { readdir, readFile } from "node:fs/promises";
+import { existsSync } from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { marked } from "marked";
+
+const dir = path.resolve(
+  path.dirname(fileURLToPath(import.meta.url)),
+  "../../../newsroom/corrections",
+);
+
+let notes = [];
+if (existsSync(dir)) {
+  const files = (await readdir(dir)).filter((n) => n.endsWith(".md"));
+  for (const name of files) {
+    const raw = await readFile(path.join(dir, name), "utf8");
+    notes.push({ name, html: marked.parse(raw, { async: false }) });
+  }
+}
+---
+
+<Base title="Corrections" description="Corrections and unpublishing log.">
+  <p class="kicker">Accountability</p>
+  <h1 style="font-size:2rem;letter-spacing:-0.03em;">Corrections</h1>
+  <p>
+    If a published claim is wrong, the desk appends a correction here and, when
+    needed, updates or removes the investigation. The publisher may also
+    unpublish by deleting the file.
+  </p>
+  {notes.length === 0 ? (
+    <p class="mute">No corrections yet.</p>
+  ) : (
+    notes.map((note) => (
+      <section class="evidence">
+        <h2>{note.name}</h2>
+        <div class="prose" set:html={note.html} />
+      </section>
+    ))
+  )}
+</Base>

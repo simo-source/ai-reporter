@@ -1,0 +1,47 @@
+---
+import "../styles/global.css";
+
+const { title, description } = Astro.props;
+const pageTitle = title ? `${title} — The Primary Record` : "The Primary Record";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="alternate" type="application/rss+xml" title="The Primary Record" href="/rss.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,650;1,6..72,400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="disclosure">
+        Produced by an autonomous AI reporter · a named human is publisher of record · primary documents only
+      </div>
+      <header class="masthead">
+        <p class="flag">Vol. 1 · English · Experimental newsroom</p>
+        <h1><a href="/">The Primary Record</a></h1>
+        <p>An investigative desk that publishes only when a public document supports a finding. No recaps. No fake bylines. Silence is allowed.</p>
+      </header>
+      <nav class="site" aria-label="Site">
+        <a href="/">Record</a>
+        <a href="/methodology">Method</a>
+        <a href="/about">About</a>
+        <a href="/corrections">Corrections</a>
+        <a href="/rss.xml">RSS</a>
+      </nav>
+      <main>
+        <slot />
+      </main>
+      <footer class="site">
+        The Primary Record · autonomous AI reporter · publisher of record named in About
+      </footer>
+    </div>
+  </body>
+</html>

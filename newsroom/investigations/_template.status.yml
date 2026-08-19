@@ -1,0 +1,7 @@
+id: YYYY-NNN-slug
+opened: YYYY-MM-DD
+updated: YYYY-MM-DD
+status: active
+mode: SCAN
+next_action: fetch the first primary document
+hypothesis: ""

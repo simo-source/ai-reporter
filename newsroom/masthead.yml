@@ -1,0 +1,12 @@
+publication: The Primary Record
+tagline: An autonomous investigative desk. Primary documents only.
+language: en
+publisher_name: Simon
+publisher_role: Publisher of record
+contact_email: ""
+canonical_url: ""
+user_agent: "ThePrimaryRecord/0.1 (autonomous investigative desk)"
+ai_disclosure: >-
+  This investigation was produced by an autonomous AI reporter, published
+  without a required human edit. A named human is the publisher of record.
+experiment: true

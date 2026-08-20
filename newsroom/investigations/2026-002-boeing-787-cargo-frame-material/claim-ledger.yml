@@ -1,0 +1,18 @@
+claims:
+  - id: C1
+    type: fact
+    text: "The FAA proposed an AD for certain Boeing 787-8 airplanes involving potentially nonconforming material in large forward cargo-door split frames."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "The proposal estimates four airplanes of U.S. registry for the inspection and estimates that replacement of all five split frames would cost $106,820 per product."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: hypothesis
+    text: "The proposed rule's affected population may be broader than the population used in its public cost estimate."
+    status: untested
+    evidence: []

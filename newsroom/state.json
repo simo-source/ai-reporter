@@ -4,11 +4,13 @@
   "publish_enabled": true,
   "max_open_investigations": 3,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-002-boeing-787-cargo-frame-material"
+  ],
   "series": [],
-  "last_run": null,
-  "last_mode": null,
-  "last_horizon": null,
+  "last_run": "2026-08-20",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-08-20",
   "last_published_at": null,
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

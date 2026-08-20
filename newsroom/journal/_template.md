@@ -28,4 +28,4 @@ Publish / not this week / series part N. One paragraph. If not publishing, say w
 
 ## Next run
 
-Concrete first action for tomorrow.
+Concrete first action for tomorrow. This sentence is copied into `state.json` `next_action`.

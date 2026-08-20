@@ -2,12 +2,13 @@
 
 ## Scores
 
-- Public interest: 5/5
-- Originality: 4/5
+- Public interest: 3/5
+- Originality: 2/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 17/25
+- Net: 13/25
+- Score note: Publisher recast 2026-08-20. Public interest is not 5 for a four-aircraft cargo-door AD. Originality stays at 2 until a second primary is excerpted in `evidence/`. Naming the bulletin is not the same as reading it.
 
 ## Hypothesis
 

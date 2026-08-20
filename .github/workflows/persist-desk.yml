@@ -1,0 +1,36 @@
+name: persist-desk
+
+# Cloud runs land on cursor/* branches. Main is the next run's memory.
+# Auto-merge newsroom work. Never auto-merge a publish.
+
+on:
+  push:
+    branches:
+      - "cursor/**"
+
+jobs:
+  merge-to-main:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Merge onto main unless this run published
+        env:
+          SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          changed="$(git diff --name-only origin/main..."$SHA")"
+          echo "$changed"
+          if echo "$changed" | grep -E '^newsroom/published/.+\.md$' | grep -v '\.gitkeep$'; then
+            echo "Published article in this branch — leaving it off main for the publisher."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B main origin/main
+          git merge --no-edit "$SHA"
+          git push origin main

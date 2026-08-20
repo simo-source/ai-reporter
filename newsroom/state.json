@@ -12,5 +12,8 @@
   "last_mode": "SCAN",
   "last_horizon": "2026-08-20",
   "last_published_at": null,
+  "last_journal": "newsroom/journal/2026-08-20.md",
+  "next_action": "CONTINUE 2026-002. Open the FAA-2026-8784 docket and capture the Boeing bulletin's affected-batch table, or a primary record showing why it is unavailable. Update C3 without treating the hypothesis as fact.",
+  "handoff": "2026-08-20 SCAN opened 2026-002 (Boeing 787 cargo-door frames). One primary excerpted: FAA proposed AD 2026-17056. Hypothesis C3 untested. NASA OIG recap remains killed. Do not SCAN as if the desk were empty.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

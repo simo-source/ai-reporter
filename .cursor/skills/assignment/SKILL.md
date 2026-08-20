@@ -11,13 +11,22 @@ Pick work that can become a discovery or an argued view after days of reading. N
 
 Score 1–5 on each, then write one sentence for “what would be new”:
 
-- public interest (money, power, safety, rights, environment)
+- public interest (money, power, safety, rights, environment — at scale)
 - originality versus `published/`, `killfile.md`, and the source’s own summary
 - document-nativeness (can this be proven without a news article?)
 - room to grow (series, more documents, a pivot)
 - legal risk (subtract)
 
-Originality is 1 if a careful reader of the first PDF’s summary already has the finding. Cap originality at 2 unless you can name the **second** document or the pattern across time.
+Public interest 5 is for large populations, large money, or rights at scale. A four-aircraft cargo-door directive is not a 5.
+
+## Originality is a score cap, not a reading cap
+
+Read as many documents as the run allows. The cap only stops a single-document recap from looking like a discovery.
+
+- **1** if a careful reader of the first document’s summary already has the finding
+- **at most 2** until a **second** primary has been retrieved **and excerpted** under `evidence/`
+- Naming a second URL you have not opened does **not** raise the cap
+- **3–5** only after that second excerpt exists, and only if document 1 alone would not have been enough
 
 Reject immediately if:
 
@@ -36,4 +45,4 @@ Write `newsroom/leads/inbox/<id>.md` with:
 - why it might be wrong
 - whether it could be a series
 
-Start at most one new investigation per day. Prefer `CONTINUE`. Cap open investigations at three.
+Start at most one new investigation per day, and only if none are already open. Prefer `CONTINUE`. Cap open investigations at three.

@@ -31,5 +31,6 @@ newsroom/investigations/<yyyy-nnn-slug>/
 - After five consecutive CONTINUE days with no new primary document, park or kill. Write why in `gaps.md`.
 - Do not commit PDFs or zips. URL, retrieved date, locator, short excerpt.
 - Append traces of the run (what you searched, what you opened) to `traces/YYYY-MM-DD.md`.
-- Also append a human-readable day to `newsroom/journal/YYYY-MM-DD.md`. The desk journal is mandatory even if the investigation folder is unchanged.
+- Also append a human-readable day to `newsroom/journal/YYYY-MM-DD.md` and copy it to `newsroom/journal/latest.md`. The desk journal is mandatory even if the investigation folder is unchanged.
+- Copy `status.yml` `next_action` into `newsroom/state.json` `next_action`. Write a 2–4 sentence `handoff` the next clone can trust.
 - Update `newsroom/state.json` `open_investigations` to match reality.

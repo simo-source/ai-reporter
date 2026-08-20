@@ -10,6 +10,7 @@
     "validate": "node scripts/validate-article.mjs",
     "validate:all": "node scripts/validate-article.mjs --all",
     "preflight": "node scripts/preflight.mjs",
+    "desk:status": "node scripts/desk-status.mjs",
     "test": "node --test scripts/*.test.mjs",
     "site:dev": "npm --prefix site run dev",
     "site:build": "npm --prefix site run build",

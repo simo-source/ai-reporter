@@ -13,7 +13,7 @@ Par défaut, le desk :
 3. continue une enquête, lit, pivote, écrit le journal, et **publie au plus une fois par semaine** (sauf série)
 4. ne publie pas un résumé de rapport : il faut un finding (lien entre documents, contradiction, motif dans le temps) ou un avis étiqueté
 
-Un jour sans article est le cas normal. Le journal interne, lui, est obligatoire tous les jours.
+Un jour sans article est le cas normal. Le journal interne, lui, est obligatoire tous les jours. `main` est la mémoire : chaque run commence par `npm run desk:status` et le journal `latest`.
 
 ## Intervenir (optionnel)
 

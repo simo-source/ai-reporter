@@ -7,7 +7,14 @@ description: Writes the mandatory internal desk journal for The Primary Record. 
 
 If today’s journal file does not exist, the run failed.
 
-Write `newsroom/journal/YYYY-MM-DD.md` from `newsroom/journal/_template.md`. Do this **before** copying anything to `published/`.
+Write `newsroom/journal/YYYY-MM-DD.md` from `newsroom/journal/_template.md`. Copy the same body to `newsroom/journal/latest.md`. Do this **before** copying anything to `published/`.
+
+Then set in `newsroom/state.json`:
+
+- `last_run`, `last_mode`, `last_journal`
+- `next_action` — one concrete first step for the next clone of `main`
+- `handoff` — 2–4 sentences the next run can trust without rereading the whole folder
+- `open_investigations` — match the folders that are still alive
 
 ## What belongs here
 

@@ -3,11 +3,12 @@
 ## Scores
 
 - Public interest: 4/5
-- Originality: 3/5
+- Originality: 2/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 15/25
+- Net: 14/25
+- Score note: Two Federal Register URLs are named, but neither second document is excerpted in `evidence/`. Originality stays at 2.
 
 ## Hypothesis
 

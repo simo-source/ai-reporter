@@ -3,11 +3,12 @@
 ## Scores
 
 - Public interest: 5/5
-- Originality: 3/5
+- Originality: 2/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 16/25
+- Net: 15/25
+- Score note: Originality capped at 2 until a second primary (NNSA/DOE budget or procurement record) is excerpted. The GAO summary alone is not a finding.
 
 ## Hypothesis
 

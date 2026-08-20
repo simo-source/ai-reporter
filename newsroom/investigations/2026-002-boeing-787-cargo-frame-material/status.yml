@@ -3,7 +3,7 @@ opened: 2026-08-20
 updated: 2026-08-20
 status: active
 mode: CONTINUE
-next_action: fetch the FAA-2026-8784 docket materials and the incorporated Boeing requirements bulletin
+next_action: recheck FAA-2026-8784 for the incorporated Boeing bulletin or locate an official FAA/NARA availability record; if the bulletin appears, capture Appendix A and compare its affected batches with the four-aircraft cost estimate
 series: null
 part: null
 consecutive_continue_without_new_primary: 0

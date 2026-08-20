@@ -3,54 +3,54 @@
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **N-PX - EAGLE ROCK INVESTMENT COMPANY, LLC (0001911407) (Filer)**
-  - when: 2026-08-20T10:46:10-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1911407/000195175726001350/0001951757-26-001350-index.htm
-  - Filed: 2026-08-20 AccNo: 0001951757-26-001350 Size: 3 KB
-- **N-23C3A - Diamond Hill Securitized Credit Fund (0002022290) (Filer)**
-  - when: 2026-08-20T10:45:15-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2022290/000139834426015019/0001398344-26-015019-index.htm
-  - Filed: 2026-08-20 AccNo: 0001398344-26-015019 Size: 84 KB
-- **D - THI0626 a Series of CGF2021 LLC (0002140153) (Filer)**
-  - when: 2026-08-20T10:44:42-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2140153/000214015326000001/0002140153-26-000001-index.htm
-  - Filed: 2026-08-20 AccNo: 0002140153-26-000001 Size: 7 KB Item 3C: Investment Company Act Section 3(c) Item 3C.1: Section 3(c)(1)
-- **N-PX - DENVER WEALTH MANAGEMENT, INC. (0001909800) (Filer)**
-  - when: 2026-08-20T10:44:42-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1909800/000195175726001349/0001951757-26-001349-index.htm
-  - Filed: 2026-08-20 AccNo: 0001951757-26-001349 Size: 3 KB
-- **N-PX - LGT CAPITAL PARTNERS LTD. (0001641992) (Filer)**
-  - when: 2026-08-20T10:44:31-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1641992/000164199226000011/0001641992-26-000011-index.htm
-  - Filed: 2026-08-20 AccNo: 0001641992-26-000011 Size: 101 KB
-- **4 - Kreter Kristopher (0001933750) (Reporting)**
-  - when: 2026-08-20T10:43:49-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1933750/000193375026000003/0001933750-26-000003-index.htm
-  - Filed: 2026-08-20 AccNo: 0001933750-26-000003 Size: 5 KB
-- **4 - INDEPENDENT BANK CORP /MI/ (0000039311) (Issuer)**
-  - when: 2026-08-20T10:43:49-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/39311/000193375026000003/0001933750-26-000003-index.htm
-  - Filed: 2026-08-20 AccNo: 0001933750-26-000003 Size: 5 KB
-- **N-PX - DSG Capital Advisors, LLC (0002060765) (Filer)**
-  - when: 2026-08-20T10:43:34-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2060765/000195175726001348/0001951757-26-001348-index.htm
-  - Filed: 2026-08-20 AccNo: 0001951757-26-001348 Size: 3 KB
-- **N-PX - Cornerstone Select Advisors, LLC (0002055366) (Filer)**
-  - when: 2026-08-20T10:43:18-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2055366/000110465926099069/0001104659-26-099069-index.htm
-  - Filed: 2026-08-20 AccNo: 0001104659-26-099069 Size: 3 KB
-- **D - MVP Ventures III QP LP (0002146031) (Filer)**
-  - when: 2026-08-20T10:43:05-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2146031/000214603126000001/0002146031-26-000001-index.htm
-  - Filed: 2026-08-20 AccNo: 0002146031-26-000001 Size: 7 KB Item 3C: Investment Company Act Section 3(c) Item 3C.7: Section 3(c)(7)
-- **N-PX - Draper Asset Management, LLC (0001847921) (Filer)**
-  - when: 2026-08-20T10:42:34-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1847921/000195175726001347/0001951757-26-001347-index.htm
-  - Filed: 2026-08-20 AccNo: 0001951757-26-001347 Size: 3 KB
-- **424B2 - CITIGROUP INC (0000831001) (Filer)**
-  - when: 2026-08-20T10:42:15-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/831001/000191870426024334/0001918704-26-024334-index.htm
-  - Filed: 2026-08-20 AccNo: 0001918704-26-024334 Size: 1 MB
+- **N-PX - Flight Deck Capital, LP (0001861705) (Filer)**
+  - when: 2026-08-20T11:33:57-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1861705/000186170526000004/0001861705-26-000004-index.htm
+  - Filed: 2026-08-20 AccNo: 0001861705-26-000004 Size: 11 KB
+- **424B2 - Morgan Stanley Finance LLC (0001666268) (Filer)**
+  - when: 2026-08-20T11:33:43-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1666268/000183988226040830/0001839882-26-040830-index.htm
+  - Filed: 2026-08-20 AccNo: 0001839882-26-040830 Size: 649 KB
+- **424B2 - MORGAN STANLEY (0000895421) (Filer)**
+  - when: 2026-08-20T11:33:43-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/895421/000183988226040830/0001839882-26-040830-index.htm
+  - Filed: 2026-08-20 AccNo: 0001839882-26-040830 Size: 649 KB
+- **SCHEDULE 13G - Reda Joseph (0001952100) (Filed by)**
+  - when: 2026-08-20T11:33:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1952100/000121390026091964/0001213900-26-091964-index.htm
+  - Filed: 2026-08-20 AccNo: 0001213900-26-091964 Size: 17 KB
+- **SCHEDULE 13G - 22nd Century Group, Inc. (0001347858) (Subject)**
+  - when: 2026-08-20T11:33:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1347858/000121390026091964/0001213900-26-091964-index.htm
+  - Filed: 2026-08-20 AccNo: 0001213900-26-091964 Size: 17 KB
+- **485BXT - Roundhill ETF Trust (0001976517) (Filer)**
+  - when: 2026-08-20T11:32:49-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1976517/000139834426015026/0001398344-26-015026-index.htm
+  - Filed: 2026-08-20 AccNo: 0001398344-26-015026 Size: 29 KB
+- **485BXT - Roundhill ETF Trust (0001976517) (Filer)**
+  - when: 2026-08-20T11:32:49-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1976517/000139834426015026/0001398344-26-015026-index.htm
+  - Filed: 2026-08-20 AccNo: 0001398344-26-015026 Size: 29 KB
+- **144 - Gibson Christopher (0001856369) (Reporting)**
+  - when: 2026-08-20T11:32:23-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1856369/000195917326006256/0001959173-26-006256-index.htm
+  - Filed: 2026-08-20 AccNo: 0001959173-26-006256 Size: 23 KB
+- **144 - RECURSION PHARMACEUTICALS, INC. (0001601830) (Subject)**
+  - when: 2026-08-20T11:32:23-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1601830/000195917326006256/0001959173-26-006256-index.htm
+  - Filed: 2026-08-20 AccNo: 0001959173-26-006256 Size: 23 KB
+- **424B2 - UBS AG (0001114446) (Filer)**
+  - when: 2026-08-20T11:32:19-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1114446/000183988226040828/0001839882-26-040828-index.htm
+  - Filed: 2026-08-20 AccNo: 0001839882-26-040828 Size: 971 KB
+- **497 - TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT 11 (0001140019) (Filer)**
+  - when: 2026-08-20T11:32:04-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1140019/000114001926000110/0001140019-26-000110-index.htm
+  - Filed: 2026-08-20 AccNo: 0001140019-26-000110 Size: 389 KB
+- **D - MGB 2026 Investors LLC (0002142431) (Filer)**
+  - when: 2026-08-20T11:31:38-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2142431/000214243126000001/0002142431-26-000001-index.htm
+  - Filed: 2026-08-20 AccNo: 0002142431-26-000001 Size: 8 KB Item 3C: Investment Company Act Section 3(c) Item 3C.1: Section 3(c)(1)
 
 ## federal-register
 - **Airworthiness Directives; The Boeing Company Airplanes**
@@ -165,42 +165,42 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-08-20T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10953967/joshua-warschaw-v-sm-multifamily-llc-etc/
   - Third District Court of Appeal State of Florida Opinion filed August 20, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D25-2198 Lower Tribunal No. 25-150673-CC-23 ________________ Joshua Warschaw, Appellant, Original document
+- **Trustees of the University of PA v. N. Braas (WCAB)**
+  - when: 2026-08-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10954084/trustees-of-the-university-of-pa-v-n-braas-wcab/
+  - IN THE COMMONWEALTH COURT OF PENNSYLVANIA Trustees of the University of : Pennsylvania, : Petitioner : : v. : No. 481 C.D. 2025 : Natalie Braas, Corey Grink, : Argued: May 13, 2026 and Dean Kenniff (Workers’ : Compensation Appeal Board), : Respondents Original document
+- **Oca - Asian Pacific American Advocates v. Rubio**
+  - when: 2026-08-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10954030/oca-asian-pacific-american-advocates-v-rubio/
+  - UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA OCA – ASIAN PACIFIC AMERICAN AD- VOCATES et al., Plaintiffs, Civil Action No. 25-287 (TJK) v. MARCO A. RUBIO et al., Defendants. MEMORANDUM Plaintiff OCA—an organization that works “to advance the social, political, and economic well-being Original document
 - **James-Mikal Steven Alexander v. State of Florida**
   - when: 2026-08-20T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10953984/james-mikal-steven-alexander-v-state-of-florida/
   - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-0539 LT Case No. 2024-MM-011280-A _____________________________ JAMES-MIKAL STEVEN ALEXANDER, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the County Court for Duval County. Audrey McKibbin Moran, Judge. Charlie Cofer, Public Defender Original document
+- **Matter of Kenney**
+  - when: 2026-08-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10954061/matter-of-kenney/
+  - Matter of Kenney 2026 NY Slip Op 05058 August 20, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of Sara O'Connor Kenney, a Disbarred Attorney. (Attorney Registration No. 4477089.) Decided and Entered:August 20, 2026 PM-183-26 Calendar Date: July 20, 2026 Before: Garry, P.J., Aarons, Pritzker, Fisher And Mcshan Original document
+- **Harris-Campbell v. Treasury**
+  - when: 2026-08-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10954028/harris-campbell-v-treasury/
+  - Case: 24-1470 Document: 80 Page: 1 Filed: 08/20/2026 United States Court of Appeals for the Federal Circuit ______________________ DENISE LAVETTE HARRIS-CAMPBELL, Petitioner v. DEPARTMENT OF THE TREASURY, Respondent ______________________ 2024-1470 ______________________ Petition for review of the Merit Systems Protection Original document
+- **Matter of Kent**
+  - when: 2026-08-20T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10954060/matter-of-kent/
+  - Matter of Kent 2026 NY Slip Op 05059 August 20, 2026 Appellate Division, Third Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This decision is uncorrected and subject to revision before publication in the Official Reports. In the Matter of Brian Dooley Kent, an Attorney. (Attorney Registration No. 5646625.) Decided and Entered:August 20, 2026 PM-184-26 Calendar Date: June 15, 2026 Before: Garry, P.J., Reynolds Fitzgerald, Fisher, Mackey And Corcoran Original document
 - **Christopher J. Hranek v. State of Florida**
   - when: 2026-08-20T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10953986/christopher-j-hranek-v-state-of-florida/
   - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2026-1992 LT Case No. 16-2017-CF-002854-A _____________________________ CHRISTOPHER J. HRANEK, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.850 Appeal from the Circuit Court for Duval County. R. Anthony Salem, Judge. Christopher J. Hranek, Monticello Original document
-- **Barbara Garcia v. Velocity Investments, LLC**
+- **Gordon v. Collins**
   - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10953973/barbara-garcia-v-velocity-investments-llc/
-  - Third District Court of Appeal State of Florida Opinion filed August 20, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D25-2087 Lower Tribunal No. 24-211006-SP-23 ________________ Barbara Garcia, Appellant, Original document
-- **State v. Taylor**
+  - url: https://www.courtlistener.com/opinion/10954029/gordon-v-collins/
+  - Case: 25-1461 Document: 42 Page: 1 Filed: 08/20/2026 United States Court of Appeals for the Federal Circuit ______________________ VAUGHN M. GORDON, Claimant-Appellant v. DOUGLAS A. COLLINS, SECRETARY OF VETERANS AFFAIRS, Respondent-Appellee ______________________ 2025-1461 ______________________ Original document
+- **Vogel v. Palmieri Interni, Inc.**
   - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10953948/state-v-taylor/
-  - [Until this opinion appears in the Ohio Official Reports advance sheets, it may be cited as State v. Taylor, Slip Opinion No. 2026-Ohio-3189.] NOTICE This slip opinion is subject to formal revision before it is published in an advance sheet of the Ohio Official Reports. Readers are requested to promptly notify the Reporter of Decisions, Supreme Court of Ohio, 65 South Front Street, Columbus, Ohio 43215, of any typographical or Original document
-- **Julio Juan Garcia v. State of Florida**
-  - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10953966/julio-juan-garcia-v-state-of-florida/
-  - Third District Court of Appeal State of Florida Opinion filed August 20, 2026. Not final until disposition of timely filed motion for rehearing. ________________ No. 3D25-2411 Lower Tribunal No. F20-14622B ________________ Julio Juan Garcia, Appellant, Original document
-- **VMSC Curazao N v. v. Caterpillar Credito S.A. De C.V.**
-  - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10953960/vmsc-curazao-n-v-v-caterpillar-credito-sa-de-cv/
-  - Third District Court of Appeal State of Florida Opinion filed August 20, 2026. Not final until disposition of timely filed motion for rehearing. No. 3D25-1220 Lower Tribunal No. 24-12963-CA-01 VMSC Curazao N.V., et al., Appellants, vs. Caterpillar Credito S.A. De C Original document
-- **Lou Anne Nacol v. Storms Roofing and Construction, LLC, D/B/A Storms Construction and Ashley Storms**
-  - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10954013/lou-anne-nacol-v-storms-roofing-and-construction-llc-dba-storms/
-  - In the Court of Appeals Sixth Appellate District of Texas at Texarkana No. 06-25-00098-CV LOU ANNE NACOL, Appellant V. STORMS ROOFING AND CONSTRUCTION, LLC, D/B/A STORMS CONSTRUCTION AND ASHLEY STORMS, Appellees On Appeal from the 162nd District Court Dallas County, Texas Original document
-- **Jane S. Buffett, Individually, Etc. v. Richard Mozenter, as Co-Trustee, Etc.**
-  - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10953977/jane-s-buffett-individually-etc-v-richard-mozenter-as-co-trustee/
-  - DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA FOURTH DISTRICT JAMES W. BUFFETT, individually, Appellant, v. RICHARD MOZENTER, as Co-Trustee, Appellee. No. 4D2026-0573 [August 20, 2026] Appeal of a nonfinal order from the Circuit Court for the Fifteenth Judicial Circuit, Palm Original document
-- **Joseph Gordon Young v. Commonwealth of Kentucky**
-  - when: 2026-08-20T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10953996/joseph-gordon-young-v-commonwealth-of-kentucky/
-  - RENDERED: AUGUST 20, 2026 TO BE PUBLISHED Supreme Court of Kentucky 2025-SC-0487-MR JOSEPH GORDON YOUNG APPELLANT ON APPEAL FROM JEFFERSON CIRCUIT COURT V. HONORABLE JENNIFER WILCOX, JUDGE NOS. 23-CR-001227 &amp; 25-CR-001259 Original document
+  - url: https://www.courtlistener.com/opinion/10954062/vogel-v-palmieri-interni-inc/
+  - [Cite as Vogel v. Palmieri Interni, Inc., 2026-Ohio-3228.] COURT OF APPEALS OF OHIO EIGHTH APPELLATE DISTRICT COUNTY OF CUYAHOGA MARK VOGEL, ET AL., : Plaintiffs-Appellants, : No. 115742 v. : PALMIERI INTERNI INC., Original document
 
 ## uk-legislation
 - **Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026**

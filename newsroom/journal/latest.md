@@ -2,37 +2,36 @@
 
 ## Mode
 
-`SCAN`
+`CONTINUE`
 
-No investigation was open in `state.json`, and the horizon supplied several new primary-document leads. I selected SCAN rather than WRITE or PUBLISH because no original finding is established yet. The publisher's NASA recap override and killfile also rule out continuing or rewriting the prior subject.
+An active investigation remains in `state.json`, so the desk continued 2026-002 instead of scanning for a new subject. Preflight exited 0 with autonomous operation; dependencies were installed because `yaml` was missing, and the primary-document horizon was refreshed. The investigation's first action was to inspect FAA-2026-8784 and determine whether the incorporated Boeing bulletin was publicly present.
 
 ## What I read
 
-- `newsroom/horizon/2026-08-20/BRIEF.md` and source JSON — refreshed primary intake from SEC EDGAR, Federal Register, GAO, CourtListener, and UK legislation; used only for lead discovery.
-- Federal Register document 2026-17056, https://www.federalregister.gov/documents/2026/08/20/2026-17056/airworthiness-directives-the-boeing-company-airplanes — FAA proposal concerning potentially nonconforming 787-8 cargo-door split-frame material; pp. 53787–53788, “Background” and “Costs of Compliance,” and p. 53789, proposed AD paragraphs (c), (e), and (g).
-- SEC Form 4 index for Independent Bank Corp., accession 0001933750-26-000003 — confirmed the filing is a routine ownership-change record; no investigation started from it. Locator: SEC accession number and filing-detail page.
-- Federal Register API metadata for document 2026-17056 — confirmed docket FAA-2026-8784, comment deadline October 5, 2026, and the incorporated Boeing bulletin. Locator: `document_number`, `docket_ids`, `comments_close_on`, and `pdf_url` fields.
+- `newsroom/horizon/2026-08-20/BRIEF.md` and refreshed source JSON — primary-document intake from SEC EDGAR, Federal Register, GAO, CourtListener, and UK legislation; used for discovery and continuity, not as proof of a new finding.
+- Federal Register document 2026-17056, https://www.federalregister.gov/documents/2026/08/20/2026-17056/airworthiness-directives-the-boeing-company-airplanes — the proposal identifies Boeing Requirements Bulletin B787-81205-SB530106-00 RB, Issue 001, and says its Appendix A contains affected batch numbers; “Material Incorporated by Reference,” pp. 53788 and 53790.
+- Federal Register full text, https://www.federalregister.gov/documents/full_text/text/2026/08/20/2026-17056.txt — confirms the proposal's four-airplane U.S.-registry estimate and the incorporation language; pp. 53788–53790, “Costs of Compliance,” proposed AD paragraphs (c), (g), and (k).
+- Regulations.gov docket API, https://api.regulations.gov/v4/documents?filter%5BdocketId%5D=FAA-2026-8784&page%5Bsize%5D=50&api_key=DEMO_KEY — returned one document, `FAA-2026-8784-0001`, the NPRM; JSON `totalElements` and `data[0]`.
+- Regulations.gov attachment API, https://api.regulations.gov/v4/documents/FAA-2026-8784-0001/attachments?api_key=DEMO_KEY — returned an empty `data` array, so no bulletin attachment was captured; this is a docket-state observation, not proof that the bulletin is unavailable through all channels.
 
 ## Leads
 
-- **Started:** `2026-08-20-boeing-787-material-trace` — 13/25 (publisher recast: public interest 3, originality 2 until the Boeing bulletin is excerpted). The FAA proposal's four-U.S.-aircraft cost estimate can be tested against the incorporated batch list and docket records.
-- **Parked:** `2026-08-20-nuclear-fuel-cost-visibility` — 15/25 (originality capped at 2). Needs GAO appendices and DOE/NNSA cost or procurement records.
-- **Parked:** `2026-08-20-army-network-scale-baseline` — 15/25 (originality capped at 2). Needs GAO tables and Army C2 Fix/NGC2 acquisition records.
-- **Parked:** `2026-08-20-sba-size-standard-shift` — 14/25 (originality capped at 2). Needs the proposed tables, revised methodology, and prior SBA standards.
-- **Parked:** `2026-08-20-dsca-workforce-reform-tracker` — 14/25 (originality capped at 2). Needs provision-level implementation records beyond the GAO summary.
+- No new lead was started. The existing Boeing investigation remains the only active thread.
+- The parked nuclear-fuel, Army-network, SBA-size-standard, and DSCA-workforce leads remain parked because their needed appendices, tables, or implementation records were not examined and a recap would not be original.
+- The NASA OIG subject remains killed under the publisher override and killfile.
 
 ## Investigation work
 
-The active investigation is `2026-002-boeing-787-cargo-frame-material`. E1 records the FAA proposal with a URL, retrieval date, page/section locators, and a short excerpt. The current facts are limited to the proposal's described supplier notice, its applicability language, and its estimated four U.S.-registered airplanes. The untested hypothesis is a possible difference between the affected batch population and the cost-estimate population. Next action: fetch the FAA-2026-8784 docket and the incorporated Boeing Requirements Bulletin.
+`2026-002-boeing-787-cargo-frame-material` now has E2, a primary docket-metadata record. It establishes that the public FAA-2026-8784 docket response contained only the NPRM and no attachment at retrieval, but it does not supply the Boeing bulletin's Appendix A and does not test whether the affected population is broader than the four-aircraft cost estimate. C3 remains an untested hypothesis; no claim of undercounting or regulatory error is warranted.
 
 ## Pivots and dead ends
 
-The NASA OIG/GAO open-recommendations subject was not pursued, rewritten, merged, or published because the 2026-08-20 publisher override and killfile identify it as a recap of the source's own summary. Routine SEC ownership and prospectus filings were screened but not advanced without a document-native hypothesis.
+The docket search did not yield the incorporated requirements bulletin, so the batch-population comparison could not be performed. I did not treat search snippets or secondary coverage as evidence, and I did not pursue the killed NASA recap or turn the FAA proposal's own summary into a finding.
 
 ## Publish decision
 
-Not publishing this week. The FAA lead has one primary document and an untested hypothesis; it is not yet a publishable finding. Publication would require at least the FAA proposal plus the incorporated bulletin or docket record, a reproducible scope comparison, and a skeptic review. No article was copied to `drafts/` or `published/`.
+Not publishing this week. The investigation has two primary records but still lacks the affected-batch table or an official availability record sufficient to reconcile scope. A publishable result would require Appendix A or equivalent primary batch data, a reproducible comparison to the four-aircraft estimate, and a skeptic review. No article was copied to `drafts/` or `published/`.
 
 ## Next run
 
-Open the FAA-2026-8784 docket and capture the Boeing bulletin's affected-batch table or a primary record showing why it is unavailable; then update C3 without treating the hypothesis as fact.
+Recheck FAA-2026-8784 for the incorporated Boeing bulletin or locate an official FAA/NARA availability record; if the bulletin appears, capture Appendix A and compare its affected batches with the four-aircraft cost estimate.

@@ -16,3 +16,9 @@ claims:
     text: "The proposed rule's affected population may be broader than the population used in its public cost estimate."
     status: untested
     evidence: []
+  - id: C4
+    type: fact
+    text: "On 2026-08-20, the public FAA-2026-8784 docket API listed the NPRM as its only document and returned no attachments for that document."
+    status: supported
+    evidence:
+      - E2

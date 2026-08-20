@@ -1,0 +1,26 @@
+claims:
+  - id: C1
+    text: "The GAO's official reports feed says NASA had not implemented any of three priority recommendations GAO identified in August 2025, and that GAO identified a fourth in July 2026."
+    type: fact
+    sources: [E1]
+    status: proven
+  - id: C2
+    text: "NASA's official annual report says 94 GAO and NASA OIG recommendations in 48 public reports were open for one year or more as of December 31, 2025."
+    type: fact
+    sources: [E2]
+    status: proven
+  - id: C3
+    text: "NASA lists GAO-20-68 Recommendation 4, a request for an Artemis III life-cycle cost estimate, under Open, Will not Implement and says it tracks Artemis costs by major component or element rather than by mission or flight."
+    type: fact
+    sources: [E2]
+    status: proven
+  - id: C4
+    text: "NASA lists GAO-24-106624 Recommendation 1, an implementation plan with timelines for spacecraft cybersecurity controls, under Open, Will not Implement and says it did not agree that such a plan was needed."
+    type: fact
+    sources: [E2]
+    status: proven
+  - id: C5
+    text: "NASA OIG's 2022 report said four cost-estimating recommendations remained unresolved after NASA did not concur with them."
+    type: context
+    sources: [E3]
+    status: proven

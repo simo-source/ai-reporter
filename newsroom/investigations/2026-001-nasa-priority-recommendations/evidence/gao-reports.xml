@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/scripts/rss.xsl" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+      <atom:link href="https://www.gao.gov/rss/reports.xml" rel="self" type="application/rss+xml"/>
+      <title>Reports News from the GAO</title>
+      <description>Reports News from the GAO.</description>
+      <link>https://www.gao.gov/rss/reports.xml</link>
+      <lastBuildDate>Thu, 20 Aug 2026 07:15:54 -0400</lastBuildDate>
+      <generator>GAO</generator>
+      <image>
+          <url>https://www.gao.gov/themes/custom/gao_uswds/img/gao-logo-rss.gif</url>
+          <title>Reports News from the GAO</title>
+          <link>https://www.gao.gov/rss/reports.xml</link>
+          <description>Feed provided by GAO.</description> 
+      </image>
+
+            <item>
+                <title>Priority Open Recommendations: National Aeronautics and Space Administration</title>
+                <link>https://www.gao.gov/products/gao-26-109162</link>
+                <description>
+What GAO Found
+
+In August 2025, GAO identified three priority recommendations for the National Aeronautics and Space Administration (NASA). Since then, NASA has not implemented any priority recommendations.
+
+In July 2026, GAO identified an additional priority recommendation, bringing the total to four. GAO is highlighting the following three areas that warrant timely and focused attention:
+
+
+	&amp;nbsp;Monitoring program costs,
+	&amp;nbsp;Managing cybersecurity risks, and
+	&amp;nbsp;Using federal contracting metrics.
+
+
+Addressing GAO's recommendations in these areas would enhance NASA's efforts to improve transparency into Artemis program and mission costs; help NASA understand its cybersecurity risks by performing an organization-wide cybersecurity risk assessment to identify and mitigate the highest priority cyber threats across the enterprise; and position NASA to make more informed management decisions and potentially save millions of dollars in its procurements. Taking action to implement all of GAO's open priority recommendations would help enhance the efficiency and effectiveness of operations across NASA.
+
+Why GAO Did This Study
+
+Priority open recommendations are the GAO recommendations that warrant priority attention from heads of key departments or agencies because their implementation could save large amounts of money; improve congressional and/or executive branch decision-making on major issues; eliminate mismanagement, fraud, and abuse; or make progress toward addressing a high risk or duplication issue, among other benefits. Since 2015, GAO has sent letters to selected agencies to highlight the importance of implementing such recommendations.
+
+For more information, contact Timothy J. DiNapoli at dinapolit@gao.gov.`
+</description>
+                <pubDate>Wed, 19 Aug 2026 08:25:45 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-109162</guid>
+            </item>
+            <item>
+                <title>Defense Health Care: DOD Should Assess Its Needs for Managing Potential Brain Health Effects from Weapons Blast Exposures</title>
+                <link>https://www.gao.gov/products/gao-26-107829</link>
+                <description>
+What GAO Found
+
+The Department of Defense (DOD) and its components—relevant DOD offices and the military departments (Army, Navy, and Air Force)—are taking steps to prevent and mitigate the brain health effects of blast exposure. In 2024, DOD established several blast overpressure requirements, including one requiring that brain health be monitored. Specifically, this requires that all high-risk active duty service members complete a baseline cognitive assessment in fiscal year 2025 and all new service members complete one during initial military training. DOD also required tracking service members’ exposures to blast overpressure. As of fiscal year 2025, components have begun to implement tracking requirements, including updating the centralized data system to be able to track exposures.
+
+Figure: Number of Cognitive Assessments Completed in Fiscal Year 2025
+
+Note: For more details, see fig. 4 in GAO-26-107829.
+
+According to DOD documentation and interviews, DOD components faced resource challenges:
+
+
+	Cognitive assessments. DOD component officials reported that implementation was hindered by resource constraints, such as insufficient staff and technology to conduct the assessments, and that these challenges may affect their ability to meet additional requirements going forward. Such requirements expand assessments to all active and reserve service members, along with the goal to repeat assessments every 5 years.
+	Exposure tracking. DOD component officials reported a lack of industrial hygiene personnel to complete exposure tracking requirements. Required tracking includes information about weapons systems used and exposures from those weapons for any service members exposed. Such tracking creates a record of the hazards that a service member is exposed to during their military service.
+
+
+DOD officials said that because of the need to expeditiously begin cognitive assessments and start exposure tracking efforts, there was not an opportunity to fully evaluate and ensure they allocated the resources necessary, as required by DOD policy and guidance. Officials said a 1-year pilot starting summer 2026 of a new cognitive assessment tool may address resource issues, but DOD did not have documented plans to assess this. DOD officials said they also have efforts underway to assess industrial hygiene resources needed for exposure tracking but such efforts have not been finalized. These efforts are important first steps, but comprehensive assessments would provide a sound foundation for ensuring the resources needed to implement DOD’s requirements. Such assessments would ultimately strengthen DOD’s ability to identify and provide treatment to service members who may need medical care and help ensure vital records are maintained about their exposures during military service.
+
+Why GAO Did This Study
+
+There is growing evidence that using certain weapons that produce high levels of what is called blast overpressure (the sudden onset of a pressure wave) can affect service members’ brain health. Symptoms of blast overpressure exposure can include headaches, memory loss, and, most seriously, traumatic brain injury.
+
+DOD is responsible for management of blast overpressure effects and issued a key memo with requirements for DOD components in August 2024. The requirements include prevention efforts such as mandated stand-off distances when firing weapons and monitoring efforts such as conducting periodic cognitive assessments.
+
+A report accompanying the National Defense Authorization Act for Fiscal Year 2025 includes a provision for GAO to examine DOD’s efforts related to blast overpressure. Among other things, this report examines the status of implementation of DOD’s requirements and challenges DOD encountered in implementation.
+
+GAO reviewed DOD policies and guidance and obtained DOD data on cognitive assessments completed in fiscal year 2025. GAO conducted interviews with DOD components and site visits to four military installations. The installations were selected to include an initial military training site, a site with special operations forces, and military department representation.
+
+</description>
+                <pubDate>Tue, 18 Aug 2026 06:59:03 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-107829</guid>
+            </item>
+            <item>
+                <title>Time to Hire: Using More Reliable Data Could Help GAO Monitor The Length of Its Hiring Process</title>
+                <link>https://www.gao.gov/products/oig-26-1</link>
+                <description>
+What the OIG Found
+
+GAO aims to provide Congress, the heads of executive agencies, and the public with timely, fact-based, non-partisan information that can be used to improve government and save taxpayers billions of dollars. To execute its mission, GAO relies on a highly-qualified workforce that includes employees in mission-critical occupations (MCO) such as contracting, human resources management, and information technology management.
+
+In FY 2024, GAO’s hiring of MCO employees took about 103 days on average, which is longer than its internal target of 98 or 101 days (depending on the application review process used), OPM’s goal of 80 days for executive branch agencies, and executive branch agencies’ reported time frames depicted on OPM’s public dashboard. GAO competes with the private sector and other federal agencies to hire highly-qualified employees. Hiring employees more quickly could decrease the risk of GAO losing qualified candidates to other opportunities and improve its ability to meet the needs of Congress. In addition, the agency’s internally-reported calculations on the timeliness of hiring excluded about 30 percent of the employees hired in MCOs and were based on inaccurate dates for when hiring actions began. Finally, GAO’s internal reporting and hiring guidance had different targets for how long the hiring process should take. By using reliable data and targets for the length of its hiring process, GAO may be better able to meet its hiring timeliness goals.
+
+Why the OIG Did This Evaluation
+
+The agency’s ability to provide timely, quality reports to Congress and to ensure the accountability of the federal government to the American people depends on hiring knowledgeable, skilled employees.
+
+In fiscal year 2024, GAO highlighted managing a quality workforce—including hiring—as one of its top management challenges. The OIG conducted this evaluation to assess the timeliness of GAO’s hiring process.
+
+</description>
+                <pubDate>Mon, 17 Aug 2026 12:01:46 -0400</pubDate>
+                <guid isPermaLink="false">/products/oig-26-1</guid>
+            </item>
+            <item>
+                <title>National Crisis and Support Hotlines: Contact Volume Increased and Operations Remained Relatively Consistent in 2025</title>
+                <link>https://www.gao.gov/products/gao-26-109046</link>
+                <description>
+What GAO Found
+
+The 988 Suicide &amp;amp; Crisis Lifeline provides free, confidential 24/7 support for anyone experiencing mental health distress, suicidal thoughts, or substance use crises. The National Maternal Mental Health Hotline provides free, confidential emotional support, resources, and referrals to pregnant and postpartum women experiencing mental health challenges. Both of these hotlines, within the Department of Health and Human Services (HHS), are operated by nonfederal entities—primarily by local crisis contact centers and a contractor, respectively—while the Substance Abuse and Mental Health Services Administration (SAMHSA) and Health Resources and Services Administration (HRSA) are responsible for oversight.
+
+In addition, the Veterans Crisis Line offers specialized, confidential support to veterans, service members, and their families. The Department of Veterans Affairs (VA) operates the Veterans Crisis Line and employs its crisis responders.
+
+Contact volume for the three hotlines generally increased throughout fiscal year 2025, based on available monthly agency data GAO reviewed. For example, for the 988 Suicide &amp;amp; Crisis Lifeline, volume increased for each contact method in FY 2025, with an overall increase of 23 percent compared to FY 2024 (see figure). In addition, trends and fluctuations in volume and performance metrics for the 988 Suicide &amp;amp; Crisis Lifeline and Veterans Crisis Line during fiscal year 2025 were generally similar to prior years, based on previous GAO reporting on these hotlines. Agency data also show that the federal agencies responsible for the three hotlines experienced some reductions of staff who oversee or operate the hotlines during fiscal year 2025. At the same time, selected stakeholders representing users of all three hotlines said that they experienced consistent services during the fiscal year.
+
+988 Lifeline Contact Volume by Method, July 2022 Through September 2025
+
+
+
+Why GAO Did This Study
+
+In early 2025, HHS and VA announced plans to implement the President’s February 2025 executive order to reduce the size of the federal workforce.
+
+GAO was asked for information on the operations and workforce of these three national crisis and support hotlines. This report describes what available monthly data covering fiscal year 2025 show for the hotlines, including data on staffing, contact metrics, and quality metrics.
+
+GAO obtained and reviewed available fiscal year 2025 data from SAMHSA, HRSA, and VA, and compared these data to similar data from previous GAO reports, when available. GAO also interviewed agency officials and representatives of nine external stakeholders, selected for their experience with the hotlines.
+
+For more information, contact Alyssa M. Hundrup at hundrupa@gao.gov.
+</description>
+                <pubDate>Thu, 13 Aug 2026 07:27:58 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-109046</guid>
+            </item>
+            <item>
+                <title>Priority Open Recommendations: Office of Management and Budget</title>
+                <link>https://www.gao.gov/products/gao-26-108991</link>
+                <description>
+Why GAO Did This Study
+
+In August 2024, GAO identified 37 priority recommendations for the Office of Management and Budget (OMB). Since then, OMB has implemented 11 of those recommendations.
+
+In August 2026, GAO identified an additional seven priority recommendations, removed the priority designation from five, and closed eight others as no longer valid, bringing the total number to 20. GAO is highlighting the following three areas that warrant timely and focused attention:
+
+
+	&amp;nbsp;Combatting federal fraud,
+	&amp;nbsp;Reducing improper payments, and
+	&amp;nbsp;Fully developing a federal program inventory.
+
+
+Addressing GAO's recommendations in these areas would provide OMB with tools to better understand and monitor government spending, reduce governmentwide fraud and waste, and track federal programs. Taking action to implement all of GAO's open priority recommendations would help enhance the efficiency and effectiveness of OMB's operations.
+
+What GAO Found
+
+Priority open recommendations are the GAO recommendations that warrant priority attention from heads of key departments or agencies because their implementation could save large amounts of money; improve congressional and/or executive branch decision-making on major issues; eliminate mismanagement, fraud, and abuse; or make progress toward addressing a high risk or duplication issue, among other benefits. Since 2015, GAO has sent letters to selected agencies to highlight the importance of implementing such recommendations.
+
+For more information, contact: Cardell Johnson at JohnsonCD1@gao.gov.
+</description>
+                <pubDate>Tue, 11 Aug 2026 07:28:47 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108991</guid>
+            </item>
+            <item>
+                <title>Airports: Online Information Is Widely Available for General Aviation Fuel Prices but Not for Required Fees</title>
+                <link>https://www.gao.gov/products/gao-26-108578</link>
+                <description>
+What GAO Found
+
+Fixed base operators (FBO) offer services at airports—such as fueling, parking, and maintenance—for general aviation pilots and other users. These users often seek information about fuel prices and fees for FBO services before taking a trip. Stakeholders that GAO interviewed said pilots obtain information from multiple sources, including websites and calls to FBOs, depending on the purpose of their trip. GAO compared information about fuel prices and fees that it obtained through covert phone calls to 45 FBOs with information that it obtained through online sources. GAO found that fuel prices were readily available online and generally matched the information obtained through phone calls. In instances where prices differed, the difference was usually less than $0.50 per gallon. GAO also found that, for those FBOs that said they have required fees for services over the phone, the information about those fees was limited online.
+
+Illustration of Fixed Base Operator Services at Airports
+
+
+
+Representatives of selected FBOs that GAO interviewed said they have taken steps to improve the availability of information online about fuel prices and fees for their services. These steps included, for larger FBOs with multiple locations, setting and updating fuel prices and fees centrally at the corporate level. The representatives cited factors that affect FBOs’ ability to put information on fuel prices and fees online and keep it up to date. For example, some FBOs charge fees for special events, and they said it can be challenging to provide information online about those fees because they vary based on supply and demand.
+
+Pilots’ groups that GAO interviewed said they were generally satisfied with the availability of information on fuel prices and fees for FBO services. However, selected stakeholders cited a few concerns about the availability of information on certain fees, such as for special events. Federal Aviation Administration (FAA) officials said they were not aware of any formal complaints, and Federal Trade Commission (FTC) officials said they were not aware of any administrative actions or enforcement decisions related to the transparency of FBOs’ fuel prices or fees.
+
+Why GAO Did This Study
+
+The FAA Reauthorization Act of 2024 includes a provision for GAO to review the efforts of FBOs to improve the online transparency of prices and fees for aviation users.
+
+This report provides information on the extent to which FBOs offer information about fuel prices and fees for their services, steps selected FBOs have taken to improve the availability of information online and factors affecting their ability to do so, and selected stakeholders’ views on the availability of this information.
+
+GAO reviewed relevant laws and regulations. GAO also obtained information about fuel prices and fees for services by posing as recreational pilots in covert phone calls to 45 FBOs at 40 airports that were selected to reflect a range of sizes and geographic diversity. GAO compared that information with information available online. Finally, GAO interviewed FAA and FTC officials, as well as representatives of FBOs and selected stakeholders, including pilot groups and aviation industry organizations.
+
+For more information, contact Danielle Giese at GieseD@gao.gov.
+</description>
+                <pubDate>Tue, 11 Aug 2026 07:10:04 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108578</guid>
+            </item>
+            <item>
+                <title>Army Depot Maintenance: Information on Workload, Workforce, and Challenges</title>
+                <link>https://www.gao.gov/products/gao-26-108681</link>
+                <description>
+What GAO Found
+
+The Anniston and Red River Army Depots, among other things, perform maintenance and repairs on ground vehicles, including vehicles such as tanks, personnel carriers, and self-propelled artillery systems; trucks for hauling fuel and supplies; and light armored vehicles for transporting personnel and cargo. The maintenance and repairs performed at both depots include overhauls, major repairs, repairable parts, and other depot work.
+
+The annual total workload at Anniston Army Depot varied and slightly declined overall when comparing FY 2021 to FY 2025. The depot workload at Red River Army Depot generally trended up when comparing FY 2021 to FY 2025. The largest share of the workload at both depots involved repairing parts to be reused on ground vehicles.
+
+Total Workload in Dollars Spent Per Year, FY 2021-2025
+
+
+
+Note: This figure includes work for Army customers, foreign militaries, and other Department of Defense and federal entities.
+
+Overall, the size of both depots’ workforce decreased when comparing FY 2021 to FY 2025. The permanent and term-limited workforce at both depots decreased while the contractor workforce at both depots increased. The increases in contractor personnel tempered the losses in permanent and term-limited staff.
+
+Maintenance challenges faced by depot maintainers at both depots included the condition of vehicles upon arrival at the depot, the availability of parts and current technical data, workload planning, and old maintenance equipment.
+
+Why GAO Did This Study
+
+The Army spent more than $7.1 billion operating its Anniston and Red River Depots from fiscal year (FY) 2021 through FY 2025. The Army spent most spent of this money maintaining and repairing ground vehicles.
+
+House Report 119-231 (2025) accompanying a bill for the National Defense Authorization Act for Fiscal Year 2026 includes a provision for GAO to review the work performed at Army depots that primarily maintain and repair ground vehicles. This report provides information for Anniston and Red River Army Depots on how the ground vehicle-related workload and workforce has changed from FY 2021 through FY 2025, how the type of work has changed during this period, and challenges these depots face performing maintenance and repairs on ground vehicles.
+
+We collected and analyzed Anniston and Red River Depots’ workload data in terms of the numbers of overhauls, major repair work, repairable parts, and other work performed at the depots for FY 2021 through FY 2025. We also collected and analyzed cost data and type and amounts of work to examine trends in depot workload. We also collected and analyzed the depots’ personnel rosters for FY 2021 through FY 2025 including data about total employees and their occupations.
+
+GAO interviewed officials from Army Materiel Command; Tank-Automotive and Armaments Command Organic Industrial Base and Integrated Logistics Support Center; and both depots. GAO also visited both depots and met with division, branch, and line supervisors about challenges the depots face performing maintenance and repairs on ground vehicles.
+
+For more information, contact Diana Maurer at maurerd@gao.gov.
+</description>
+                <pubDate>Mon, 10 Aug 2026 08:08:08 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108681</guid>
+            </item>
+            <item>
+                <title>2026 Filing Season: Preliminary Observations on IRS Performance</title>
+                <link>https://www.gao.gov/products/gao-26-109074</link>
+                <description>
+What GAO Found
+
+The Internal Revenue Service’s (IRS) overall processing performance during the 2026 filing season was similar to 2025. IRS processed about 98 percent of the 177 million individual and business returns that it received during the 2026 filing season—the same percentage as last year. However, according to IRS, unavailable processing systems and reduced staffing delayed paper return processing. IRS said the systems were not available due in part to recent staff losses that delayed programming updates. IRS sent about half of paper returns to outside vendors to scan and submit to IRS electronically, but paper return processing took longer than prior years. For example, on average, it took IRS a month to process an individual paper return—about twice as long as last year.
+
+In addition to paper return processing delays, refund issuance was delayed for some taxpayers. In response to a 2025 executive order, IRS began phasing out paper check refunds. As a result, IRS delayed millions of refunds for taxpayers who did not provide direct deposit information. IRS officials told GAO that, as of early May 2026, they sent about 4.2 million notices to taxpayers requesting banking information to issue their refunds via direct deposit. Taxpayers who did not respond within 30 days would receive a refund by paper check after 6 weeks.
+
+Volumes and Timeliness to Issue Refunds via Paper Check and Direct Deposit, as of Early April, 2024–2026 
+
+
+
+Note: See figure 3 in GAO-26-109074 for information on comparing data across years.
+
+More taxpayers used self-service options during the 2026 filing season compared to prior years. For example, IRS received about 3 million fewer calls than last year (about 28 million), but more calls were answered by automation (41 percent) compared to last year (34 percent). Also, with fewer staff during the 2026 filing season and IRS’s efforts to balance workload on phones and correspondence, customer service representatives answered about 2 million fewer telephone calls compared to last year. Average call wait time increased to 8 minutes compared to 3 minutes in 2025. In addition, IRS served about 15 percent fewer taxpayers in person in 2026 than it did during the 2025 filing season (626,000 compared to 740,000). IRS officials attributed this decline to fewer open locations and less demand for in-person service.
+
+Why GAO Did This Study
+
+IRS entered the 2026 filing season with fewer staff and new tax provisions to implement. GAO was asked to provide preliminary observations and data on IRS’s 2026 filing season performance. This report describes IRS’s performance during the 2026 filing season compared to prior years related to (1) processing tax returns and issuing refunds; and (2) providing customer service.
+
+GAO examined IRS's goals and performance data on processing individual and business returns and providing customer service (via online, telephone, correspondence, and in person) during the 2026 filing season, which occurred from January 26, 2026, to April 15, 2026. GAO compared these data to performance data for the 2021 to 2025 filing seasons and determined reasons for any differences. GAO also interviewed IRS officials for contextual factors related to IRS's performance.
+
+For more information, contact Jessica Lucas-Judy at lucasjudyj@gao.gov.
+</description>
+                <pubDate>Mon, 10 Aug 2026 07:01:28 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-109074</guid>
+            </item>
+            <item>
+                <title>State Department: Standards for Overseas Housing Need Review</title>
+                <link>https://www.gao.gov/products/gao-26-107965</link>
+                <description>
+What GAO Found
+
+The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, housing in the Washington, D.C., area has been increasing in cost and decreasing in square footage. In addition, State’s method for measuring overseas housing does not align with the domestic industry standards typically followed by housing appraisers in the U.S., which may prevent State from comparing its overseas housing to housing in the Washington D.C. area. Without reviewing and updating, as applicable, its overseas housing policy, State may be paying for larger residential units than necessary for its Foreign Service personnel.
+
+State’s posts largely adhered to overseas housing cost and space standards, with 87 percent and 81 percent of units meeting those standards, respectively. Posts must request waivers to exceed these standards. Rental cost waivers resulted in overages of under 2 percent of annual lease costs in 2025, representing $8.8 million of the total $497 million in lease costs. GAO found the use of cost and space waivers varied by rank, family size, and locality. For example, executive officers and smaller families most frequently used cost and space waivers. Additionally, posts designated with more difficult living conditions used space waivers more frequently and exceeded standards by the largest margin.
+
+Examples of Residences Provided to Foreign Service Personnel Living Overseas
+
+
+
+State officials from the three posts that GAO selected for illustrative purposes, in Côte d’Ivoire, France, and Thailand, identified various challenges that limited their ability to provide and manage overseas housing for Foreign Service personnel. The challenges included resource constraints, limited suitable housing, and disparate systems tracking housing data. State’s Staff Housing Opportunity Purchase program aims to address some of these challenges by enabling eligible posts to acquire residential properties using proceeds from the global sales of excess properties. This initiative supports the provision of high-quality housing while generating long-term savings for the U.S. government through reduced lease costs, according to State officials.
+
+Why GAO Did This Study
+
+Around the world, State employees play critical roles in achieving U.S. foreign policy. State seeks to provide Foreign Service personnel serving abroad with safe and secure housing at a cost most advantageous to the U.S. government.
+
+GAO was asked to review the housing benefit for Foreign Service personnel serving abroad. This report examines (1) the extent to which State updates its overseas housing standards to ensure they align with its goal of providing adequate housing, (2) the extent to which State adheres to its overseas housing standards at posts, and (3) the challenges State faces in adhering to its overseas housing standards at selected posts.
+
+GAO reviewed relevant laws, policies, and guidance documents, and collected State data on overseas housing for fiscal year 2025 to analyze housing availability, size, costs, and waivers. GAO analyzed changes to housing affordability and Foreign Service personnel salaries in the Washington, D.C., area from 1993 to 2023—the latest available data. GAO also interviewed State officials at headquarters and at three overseas posts. GAO selected these posts to illustrate conditions for different regions, a range of embassy sizes, a mix of both owned and leased properties, and a mix of space and cost waivers.
+
+
+</description>
+                <pubDate>Mon, 10 Aug 2026 07:28:52 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-107965</guid>
+            </item>
+            <item>
+                <title>Combating Fraud: Managing Risks in Federally Funded, State-Administered Programs [Reissued with revisions on Aug. 7, 2026]</title>
+                <link>https://www.gao.gov/products/gao-26-109100</link>
+                <description>
+What GAO Found
+
+Twenty programs, supporting a broad range of services from health care to disaster assistance, made up nearly 90 percent of federal obligations among programs administered by state and other government entities with obligations of over $100 million in fiscal year 2025. The 20 programs collectively accounted for $1.1 trillion in total federal obligations that year. Subrecipients, contractors, and others can also be involved in these programs, which can be helpful in delivering benefits and services. However, this decentralized structure can leave programs vulnerable to fraud schemes involving all these groups.
+
+Information about fraud risks specific to each of the 20 selected programs varies, in part, because federal agencies have not fully assessed their risks. Of the 20 programs, five documented evidence consistent with identifying risks and assessing the likelihood of those risks to prioritize action; the other 15 did not have such documented evidence.
+
+GAO’s review of information from GAO, Office of Inspector General, and state audit reports identified both general and specific fraud risks facing federally funded, state-administered programs.
+
+Examples of General Fraud Risks in Federally Funded, State-Administered Programs
+
+
+
+Examples of specific fraud risks GAO identified in the 20 selected programs included cases where a consultant was convicted of falsifying permits used during a $4.3 million airport improvement project; households receiving housing assistance vouchers were underreporting income and landlords were receiving payments for vacant units; and an individual allegedly ran a fraud scheme involving student financial aid applications for over 1,200 people to over 100 schools in 24 states.
+
+GAO’s prior work and experiences from the United States and other countries provide insights that can help federal and state agencies, Congress, and others combat fraud. Federal and state agencies can better manage fraud risks and prevent fraud by
+
+
+	applying GAO frameworks for managing fraud risks and improper payments, as well as other leading practices;
+	leveraging available federal analytic resources, such as the Do Not Pay program, to verify recipient identity and eligibility before issuing federal funds; and
+	implementing recommendations from GAO and other oversight entities that would address existing program vulnerabilities.
+
+
+Key insights for Congress and federal agencies focus on efforts in three areas: (1) enhancing analytics for detecting fraud, (2) increasing transparency with prevention activities through reporting and data, and (3) adapting approaches to federal programs and professions to address evolving fraud threats.
+
+Why GAO Did This Study
+
+GAO estimated that the federal government loses between $233 billion and $521 billion annually to fraud, according to data from fiscal years 2018 through 2022. This represented 3 percent to 7 percent of average federal obligations government-wide. While fraud risks can vary substantially by program, every dollar or resource diverted to fraudsters hinders the federal government’s ability to achieve its goals.
+
+GAO was asked to review fraud risks in federally funded, state-administered programs. This report—the first in a body of work—provides information on 20 of the largest programs, how they are administered and overseen, what is known about fraud risks and related risk factors in these programs, and examples of leading practices and controls to address the risks.
+
+GAO reviewed USAspending.gov data for fiscal year 2025 to identify and select programs. It also reviewed program information, such as from GAO, Congressional Research Service, Office of Inspector General, and state audit organization reports; federal laws, regulations, and agency documents requested from the 20 selected programs; and fraud cases adjudicated by the Department of Justice. GAO reviewed existing research and criteria on practices and controls to address fraud risks, including GAO's Fraud Risk Framework and those identified by experts within the U.S. and internationally.
+
+
+</description>
+                <pubDate>Thu, 23 Jul 2026 07:00:30 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-109100</guid>
+            </item>
+            <item>
+                <title>DOGE Wall of Receipts: More Transparency Needed on How Savings Are Derived from Contract, Grant, and Lease Terminations</title>
+                <link>https://www.gao.gov/products/gao-26-108615</link>
+                <description>
+What GAO Found
+
+The Department of Government Efficiency (DOGE) began posting its estimated savings on a web page known as the Wall of Receipts on February 17, 2025. As of July 7, 2026, the Wall of Receipts reported savings of $110 billion across contracts, grants, and leases, but some savings estimates are incorrect or lack supporting evidence. While DOGE provided some information about estimated savings, several issues limit the transparency and reliability of these reported savings.
+
+
+	DOGE was not transparent regarding methodologies used to calculate savings. Specifically, DOGE did not use its stated methodology to calculate the majority of savings associated with the contracts reported as terminated. For grants, DOGE did not provide sufficient information to verify the method used to calculate 96 percent of DOGE-reported savings. Similarly, the Wall of Receipts does not include an explanation of how the savings from terminated leases were calculated.
+	The Wall of Receipts includes leases identified for termination before DOGE was established. Specifically,108 of the 264 leases identified for termination on the Wall of Receipts, about $15.3 million of the total $53.5 million in savings, were already in process for termination when DOGE was established.
+	GAO’s review of selected contracts identified potential cost savings, but the basis for some reported savings is unknown. For example, DOGE reported $1.7 billion in savings on the Department of Defense’s Defense Health Agency contract for IT services at more than 700 military treatment facilities worldwide. While DOGE initially identified the contract for termination, in the end, no action was taken to terminate the contract, or to reduce scope, value, or funding. Thus, no savings were achieved.
+
+
+While the Wall of Receipts includes some information about the data and sources underlying reported savings, it does not sufficiently disclose limitations affecting data quality. GAO’s key practices for transparently reporting government information state that federal government websites should disclose known data quality issues and limitations.
+
+DOGE launched the initial iteration of the Wall of Receipts in February 2025 less than a month after the entity was established in January 2025. Since the initial launch, there have been no updates on the site to shed additional light on the cost savings methodology or to disclose any data limitations. As of July 7, 2026, the web page remains live. Because U.S. DOGE Service officials did not respond to requests for information, GAO could not determine the reasons why DOGE did not disclose data quality issues and limitations when the website first went live or at any time since then. Publicly reporting government data, such as on the Wall of Receipts, can have significant value. However, conveying the methodologies used to calculate savings, as well as any data limitations on the Wall of Receipts, would provide policymakers and the public with the needed caveats to better interpret and use the information.
+
+Why GAO Did This Study
+
+Federal agencies obligated more than $2 trillion for contracts, grants, and leases in fiscal year 2025. In an effort to transform federal spending and ensure transparency, the President issued several executive orders, including Executive Order 14158 to establish DOGE. Additionally, agencies were directed to establish agency DOGE teams and consult with these teams to review federal contracts, grants, and real estate.
+
+GAO was asked to evaluate DOGE’s savings estimates listed on the Wall of Receipts for contract, grant, and lease terminations. This report assesses (1) the methodologies DOGE used to estimate savings from contracts, grants, and leases reported as terminated, and (2) the extent to which DOGE discloses any data limitations. This review covered savings data reported on the Wall of Receipts for contracts, grants, and leases from January 20, 2025, through July 7, 2026.
+
+GAO analyzed data from the Wall of Receipts, publicly available federal databases, and information sources such as USASpending.gov. GAO also interviewed officials from selected federal agencies about the contracts or leases in their purview. DOGE did not respond to GAO’s request for information or interviews.
+
+
+</description>
+                <pubDate>Thu, 06 Aug 2026 08:22:09 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108615</guid>
+            </item>
+            <item>
+                <title>Semiconductors: Commerce Needs Plan to Meet CHIPS for America R&amp;D Requirements</title>
+                <link>https://www.gao.gov/products/gao-26-109121</link>
+                <description>
+What GAO Found
+
+The Department of Commerce has continued to implement the semiconductor facilities and equipment incentives program, and awardees have made progress on milestones. Since July 2025, Commerce has awarded nine new projects, for a total of 49 projects across 24 companies. When setting award amounts, Commerce considered new factors as compared to prior awards, such as whether the company would provide equity in exchange for funding. Commerce also amended existing awards for 14 companies. As of April 2026, awardees had completed all required milestones by their due dates, but some milestones had fallen behind anticipated schedules. Commerce has disbursed $13.1 billion to awardees—approximately 42 percent of the total $31.5 billion in direct funding.
+
+Commerce initially established key advanced microelectronics R&amp;amp;D activities but later canceled awards representing $7.8 billion of the $11 billion appropriated. The agency significantly revised its approach to align with current administration priorities but did not have a plan or timeline for fully meeting statutory requirements—specifically those related to the National Semiconductor Technology Center, National Advanced Packaging Manufacturing Program (NAPMP), and Industrial Advisory Committee. For example, Commerce canceled the center’s award in 2025, but its plan to reestablish the center is not sufficiently detailed to show how it will meet relevant statutory requirements. Commerce also canceled or paused NAPMP awards and has not renewed the advisory committee charter. Without a detailed plan for reestablishing these entities in line with statute, Commerce may miss opportunities to advance U.S. semiconductor technologies, leaving the U.S. reliant on other countries.
+
+Commerce’s Changes to Advanced Microelectronics R&amp;amp;D Activities
+
+
+
+Why GAO Did This Study
+
+Semiconductors, also called chips, are small electronic devices that are critical to nearly all industries. A recent global semiconductor shortage exposed long-term risks in the supply chain.
+
+The William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (as amended, the FY21 NDAA) authorized Commerce to incentivize semiconductor facilities and equipment projects and support advanced microelectronics R&amp;amp;D.
+
+The FY21 NDAA also includes a provision for GAO to issue a series of reports. This second report updates GAO’s December 2025 report on the status of financial assistance awards and projects funded under the semiconductor incentives program as of June 5, 2026, and assesses the status of Commerce’s efforts on the advanced microelectronics R&amp;amp;D programs, among other objectives.
+
+GAO analyzed Commerce documents, including project milestone and disbursement documentation. In addition, GAO reviewed requirements in the FY21 NDAA and compared Commerce’s efforts to those requirements. GAO also interviewed Commerce officials.
+
+
+</description>
+                <pubDate>Thu, 06 Aug 2026 07:37:32 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-109121</guid>
+            </item>
+            <item>
+                <title>Federal Student Loans: Education Could Better Coordinate with Servicers When Making Program Changes</title>
+                <link>https://www.gao.gov/products/gao-26-107780</link>
+                <description>
+What GAO Found
+
+The Department of Education provides student loan servicers with instruction for implementing program changes via formal documents known as change requests. Change requests outline new or modified requirements for servicers and can vary in their complexity. For example, Education could require servicers to carry out tasks ranging from sending straightforward borrower communications to implementing major repayment plan changes.
+
+Examples of Tasks Student Loan Servicers Carry Out for Education
+
+
+
+The servicers reported facing challenges in implementing Education’s instruction for program changes. All four servicers raised concerns about the number of clarifying questions they needed answered to implement some requested changes. GAO found that the lack of clear up-front instruction sometimes resulted in extensive back-and-forth between Education and servicers. For example, GAO observed a change request that resulted in six rounds of questions and answers with servicers over a 2-month period. All four servicers said instruction could be improved if Education coordinated with them before or immediately after requesting a change, such as by meeting to walk through new requirements.
+
+Education officials acknowledged the value of coordinating early with servicers, but the agency has not consistently undertaken such coordination. Education said that early coordination with servicers was done at staff discretion and was based on factors such as the change request’s complexity. In June 2025, officials said that early coordination was not common, citing insufficient time as a key barrier. Yet, three servicers said that early coordination allows them to respond more quickly to Education’s requests. In December 2025, Education officials said that early coordination with servicers had recently improved. For example, they said they proactively solicited servicer input on draft requirements related to new student loan repayment plans, which led them to revise the related change requests before formally sending them to servicers.
+
+Education guidance states that it can share information with servicers when developing new requirements, but it does not specify criteria for when staff should conduct early coordination. While recent reports of improved early coordination are a positive change, Education does not have formal criteria to ensure it consistently identifies early coordination opportunities and maintains increased coordination. Developing and implementing formal criteria could help ensure that Education provides servicers with the information they need to implement requested changes in a timely and efficient manner.
+
+Why GAO Did This Study
+
+As of September 2025, Education held over $1.6 trillion in outstanding federal student loans. To administer these loans, Education contracts with student loan servicers. Significant program changes have added new complexities to servicers’ responsibilities. For example, under Education’s direction, servicers implemented temporary initiatives and major changes to the repayment plans available to borrowers.
+
+GAO was asked to review Education’s instruction to loan servicers. This report examines Education’s instruction to servicers for program changes.
+
+GAO reviewed Education’s instruction to servicers, including 68 change requests associated with key program changes that the agency issued between the start of the COVID-19 payment pause in March 2020 and December 2024. GAO interviewed officials from Education and the four loan servicers it had contracts with when the payment pause ended in August 2023. GAO also reviewed relevant federal laws and regulations.
+
+
+</description>
+                <pubDate>Thu, 06 Aug 2026 09:22:58 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-107780</guid>
+            </item>
+            <item>
+                <title>Wearable Technologies: Potential Benefits and Challenges in Clinical Decision-Making</title>
+                <link>https://www.gao.gov/products/gao-26-107847</link>
+                <description>
+What GAO Found
+
+Wearable devices (wearables) with health-related features have the potential to be used in clinical decision-making (see figure). Wearables can be either medical or wellness devices, and their features can be augmented by artificial intelligence (AI). Wearables use sensors to track vital signs and establish patient health baselines; alert users, caregivers, or clinicians of medical events or suggested lifestyle changes; and provide additional assessments of user data that can be sent to a clinician for interpretation. Clinicians could use such data as a source of information when diagnosing and treating patients.
+
+Examples of wearables that could be used in clinical decision-making
+
+
+
+Wearables increase the amount of information considered during clinical decision-making, which may allow for quicker diagnoses by clinicians, more personalized care plans, and improved patient compliance. Wearables may also benefit underserved populations by expanding remote patient monitoring. However, wearables vary in accuracy and reliability.
+
+AI has the potential to increase the capabilities of wearables by, for example, improving autonomous decision-making. However, the extent to which wearables will be able to make clinical decisions autonomously is unclear at this time.
+
+GAO identified challenges to using wearables for clinical decision-making, including challenges related to ensuring wearables benefit patients as intended, integrating wearables into clinical workflows, and navigating the health technology market.
+
+GAO developed three policy options that could help address the challenges and enhance the benefits of using wearables in clinical decision-making. The first is the status quo, whereby policymakers would continue with current efforts and activities in the field. The other two policy options identify possible new actions by policymakers, which may include legislative bodies, government agencies, standards-setting organizations, industry, and other groups. See below for details of the policy options and relevant opportunities and considerations.
+
+Policy Options Help Address Challenges with Use of Wearables in Clinical Decision-Making
+
+
+
+
+
+	
+		
+			
+			&amp;nbsp;
+			
+		
+		
+			
+			Continue the status quo (report page 24)
+
+			Policymakers could continue ongoing digital health technology activities, and policymakers outside of government could continue voluntarily testing the use of wearables for clinical purposes.
+
+			&amp;nbsp;
+
+			&amp;nbsp;
+			
+			
+			Opportunities
+
+			
+				Monitoring and assessing recent and ongoing activities related to digital health technologies, including wearables, may help address some of the challenges GAO identified. Such challenges include ensuring patient health benefits, integrating wearables into clinical workflows, and navigating the health technology market.
+			
+			
+		
+		
+			
+			Considerations
+
+			
+				Some of the challenges GAO identified may remain unaddressed by recent or ongoing activities, and some activities may worsen some challenges.
+			
+			
+		
+		
+			
+			&amp;nbsp;
+			
+		
+		
+			
+			Integration of wearables into clinical workflows (report page 26)
+
+			Policymakers could refine the clinical workflows and technology infrastructure of medical facilities to support the integration of wearables into clinical decision-making.
+
+			&amp;nbsp;
+
+			&amp;nbsp;
+			
+			
+			Opportunities
+
+			
+				Improving clinical workflow integration could help establish common practices for receiving, responding to, and protecting patient health data, which could protect privacy and improve patient outcomes.
+				It could also help clarify clinician responsibilities surrounding the use of wearables data in clinical decision-making, which could ease liability concerns.
+			
+			
+		
+		
+			
+			Considerations
+
+			
+				Resource requirements for wearables integration could shift resources away from other priorities.
+				Patients and clinicians may experience variable results according to the local implementation strategy.
+				If administrators improve the integration of selected wearables, the use of wearables not selected may decline.
+			
+			
+		
+		
+			
+			&amp;nbsp;
+			
+		
+		
+			
+			Improvements to wearables performance (report page 27)
+
+			Policymakers could incentivize manufacturers to improve the performance of wearables by building and maintaining a comprehensive public database of recommended wearables that have completed a selected, independent certification process. Clinicians and patients could then use the database to help find certified devices.
+
+			&amp;nbsp;
+
+			&amp;nbsp;
+			
+			
+			Opportunities
+
+			
+				Testing and disclosure of wearables performance could help medical facility administrators, clinicians, and patients make more informed decisions about the benefits and risks of selecting specific wearables.
+				Encouraging companies to maintain a certification may increase manufacturer testing of wearables’ effect on patient health and safety.
+			
+			
+		
+		
+			
+			Considerations
+
+			
+				Incentivizing participation in a certification process that is separate from the Food and Drug Administration’s review process may create confusion for wearables manufacturers, clinicians, and patients, with potential effects on patient safety.
+				Research and development costs may rise significantly, hindering the market for new wearables and potentially advantaging larger, established manufacturers.
+			
+			
+		
+	
+
+
+Source: GAO. | GAO-26-107847
+
+Why GAO Did This Study
+
+Because wearables may facilitate more timely and personalized patient care, manufacturers and medical association representatives have suggested increasing their integration into clinical decision-making. In addition, in 2025 leaders at the Department of Health and Human Services announced support for increasing the use of wearables in health care.
+
+GAO was asked to review the potential role of wearables in clinical decision-making. This report examines (1) the potential benefits and challenges of using wearables in clinical decision-making, (2) the potential benefits and challenges of using AI to augment the decision-making capabilities of such wearables, and (3) what policy options might help address challenges and enhance benefits associated with the use of wearables in clinical decision-making.
+
+To conduct this engagement, GAO reviewed scientific literature, federal agency guidance, and other documents; interviewed a wide range of stakeholders and agency representatives; and conducted site visits to laboratories, medical and research centers, and manufacturers to better understand these technologies.
+
+For more information, contact Sarah Harvey at HarveyS@gao.gov.
+</description>
+                <pubDate>Thu, 06 Aug 2026 07:28:53 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-107847</guid>
+            </item>
+            <item>
+                <title>International Agreements: DOD Has Opportunities to Improve Internal Communication and Oversight</title>
+                <link>https://www.gao.gov/products/gao-26-108249</link>
+                <description>
+What GAO Found
+
+The Department of Defense (DOD) uses international agreements and arrangements to achieve political, economic, and military objectives. For example, these could include cooperatively developing and producing a military system with a foreign partner. From fiscal years 2021 through 2025, DOD established 303 acquisition-related international arrangements with an associated dollar value of $64 billion. However, both the number and dollar value of these arrangements declined over this period. DOD officials said that factors like personnel shortages and lengthy review and approval timelines contributed to this decline.
+
+Decline in DOD International Arrangements, Fiscal Years (FY) 2021–2025
+
+
+
+DOD’s internal coordination and communication for international arrangements varied. Apart from occasional difficulties, officials said that coordination between the Under Secretary of Defense (USD)-level offices—Acquisition and Sustainment (A&amp;amp;S), Office of General Counsel, and Policy—is working relatively well. However, communication between USD-level offices and the military departments about some key changes has not been timely. For example, changes to the application of cost-sharing requirements were not broadly communicated when they occurred and were instead shared on an agreement-by-agreement basis. According to military department officials, they subsequently had to adjust and renegotiate multiple arrangements, and some foreign partners opted out of arrangements entirely.
+
+DOD has not yet fully identified or responded to the challenges it faces in establishing these arrangements, and its approach to managing these challenges has at times been ad hoc and reactive. Using a tailored version of GAO’s enterprise risk management framework, GAO identified benefits that DOD could realize by implementing a more systematic approach for managing challenges. For example, USD(A&amp;amp;S) could use available data to better leverage resources and pinpoint and monitor challenges to improve oversight. Ultimately, a more systematic approach could help ensure that DOD is better positioned to meet strategic goals for cost-sharing and defense industrial base improvements, while also reducing rework, wasted effort, and costs.
+
+Why GAO Did This Study
+
+DOD relies on international arrangements to achieve various purposes, including for acquisition activities like increasing access to needed parts, technologies, and resources. Responsibilities for developing these arrangements are dispersed throughout DOD, with the military departments developing and negotiating them, and USD offices reviewing and approving them.
+
+A Senate report includes a provision for GAO to review DOD’s coordination for international arrangements. GAO’s report examines (1) data trends for selected arrangements for fiscal years 2021–2025; and (2) the extent to which DOD offices coordinate and communicate regarding these arrangements; and (3) assesses DOD’s approach to identifying and addressing challenges for these arrangements.
+
+To conduct this work, GAO analyzed military department data for selected arrangements established during fiscal years 2021–2025; reviewed relevant statutes, regulations, and DOD policies; and interviewed DOD officials.
+
+
+</description>
+                <pubDate>Thu, 06 Aug 2026 07:33:49 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108249</guid>
+            </item>
+            <item>
+                <title>Carbon Capture Tax Credit: Actions Needed to Improve Federal Administration and Evaluation of Tax Expenditure</title>
+                <link>https://www.gao.gov/products/gao-26-107711</link>
+                <description>
+What GAO Found
+
+The Carbon Oxide Sequestration Credit (45Q) is a tax credit provided for certain carbon oxides that are captured at emission sources or directly from the air and either stored underground or used to produce products. The credit has been amended multiple times, including by the 2022 Inflation Reduction Act (IRA), which added new credit features. More recently, the One Big Beautiful Bill Act created parity in credit values across uses of captured carbon. As of March 2026, there were 33 carbon capture facilities in the U.S., with additional facilities planned. The number of 45Q credit claims more than tripled from 2019 to 2023, according to IRS data.
+
+The Internal Revenue Service (IRS) has taken several actions to administer the 45Q credit and mitigate potential noncompliance. However, taxpayers using carbon to produce products face compliance burdens, delays, and uncertainty in claiming the credit. GAO identified areas in the approval process for carbon utilization where IRS and the Department of Energy (DOE) could potentially minimize compliance burden and improve certainty for taxpayers. Pursuing such opportunities—for example, streamlining certain processes, or clarifying acceptable datasets that can be used to calculate carbon displaced—could improve the process and help minimize delays for both agencies and taxpayers.
+
+
+
+Multiple potential goals, the lack of a designated agency to evaluate the effectiveness of the credit, and data limitations complicate Congress’s ability to understand the performance of the 45Q credit. Even so, periodic reviews of tax expenditures are crucial for informed oversight. GAO has previously recommended various actions Congress and agencies could take to improve oversight for other tax expenditures, such as identifying what should be analyzed and by whom. In this report, GAO identified key questions for Congress to consider directing agencies to analyze to help determine the performance of the credit. These key questions are: (1) how well the credit is working to achieve its goals, (2) how efficiently the credit is performing and (3) how the credit compares to other policy tools.
+
+Why GAO Did This Study
+
+The 45Q credit was created in 2008 to incentivize the development of carbon capture technology and reduce carbon emissions. Carbon capture involves complex and novel technology, and the 45Q credit could result in potentially substantial revenue expenditures.
+
+The IRA includes a provision for GAO to review the distribution and use of IRA funds. This report assesses (1) IRS’s administration of the 45Q credit, and (2) the challenges in evaluating the effectiveness of the credit. GAO reviewed agency policies and procedures and interviewed officials from IRS, DOE, and the Environmental Protection Agency. GAO also interviewed selected external stakeholders knowledgeable about the 45Q credit, representing advocacy, research, and industry. GAO also conducted two site visits to carbon capture sites in Houston, Texas.
+
+
+</description>
+                <pubDate>Thu, 06 Aug 2026 07:25:05 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-107711</guid>
+            </item>
+            <item>
+                <title>DOGE: Information on Personnel and Ethics Activities</title>
+                <link>https://www.gao.gov/products/gao-26-108403</link>
+                <description>
+What GAO Found
+
+GAO identified 206 Department of Government Efficiency (DOGE) personnel who held positions in the Executive Office of the President (EOP) from January 20, 2025, through January 31, 2026. These individuals held positions at the U.S. DOGE Service (USDS), White House Office, and Office of Management and Budget (OMB). Some of these DOGE personnel were also detailed to other executive agencies outside of EOP. USDS is responsible for coordinating with executive agencies to advance DOGE’s initiatives.
+
+Coordination Between U.S. DOGE Service and Other Federal Entities
+
+
+
+Of the 206 personnel GAO identified, administration officials characterized four as DOGE leaders. The other 202 personnel held positions at either USDS or the White House Office. These personnel held positions as employees, as detailees to these components from other federal agencies, and as volunteers. Twenty-seven of the 206 were special government employees (SGE). At least 128, including one SGE, had separated from their EOP positions by January 31, 2026.
+
+EOP officials told GAO that DOGE personnel within EOP receive the same ethics and records management training as other EOP personnel. However, EOP did not respond to GAO’s requests for access to training records and financial disclosures for DOGE personnel. As a result, GAO could not determine all DOGE personnel who received training or completed financial disclosures with EOP.
+
+Nine executive agencies provided information on ethics and records management activities for 64 DOGE personnel who held positions at those agencies and also within EOP. According to this information, 49 completed ethics training, 18 completed records management training, and 38 filed financial disclosures with those agencies during the time frame of GAO’s review. Officials from the nine agencies told GAO that some of the 28 personnel they identified as detailees should have completed these activities with their home agencies. Officials from six agencies told GAO that no individuals at those agencies met GAO’s scoping criteria. Ten did not provide requested information timely or at all. As a result, GAO could not determine all DOGE personnel who held positions, received training, or completed financial disclosures with these 10 agencies.
+
+Officials from the Office of Government Ethics, the supervising ethics office for the executive branch, told GAO that they have limited responsibilities concerning the activities of DOGE personnel and do not oversee executive branch employees. Officials said their office has not reviewed an EOP ethics program since 2023 and has no plans to review USDS’s program in the next 4 years because the temporary organization within USDS terminated on July 4, 2026.
+
+Why GAO Did This Study
+
+In January and February 2025, several executive orders directed DOGE to implement a series of government reform initiatives, including to reform the federal workforce and reduce spending. DOGE personnel include SGEs. SGEs may have substantial financial interests outside the federal government that can conflict with their federal responsibilities. Appropriate ethics and records management practices can help support ethical behavior.
+
+GAO was asked to review the employment status of selected DOGE personnel and their activities. This report examines information about (1) the federal positions of EOP DOGE personnel, and (2) their completion of ethics and records management training and their filing of financial disclosures.
+
+For this review, GAO defined EOP DOGE personnel as those who held positions (1) as USDS personnel from January 20, 2025, through January 31, 2026; or (2) as personnel at other EOP components (White House Office or OMB) who assisted USDS or federal agencies in advancing DOGE’s initiatives during this time frame. This included individuals who were detailed from EOP to other agencies or from other agencies to EOP. GAO reviewed information from court filings, the administration, and executive agencies about identified personnel’s federal positions. GAO also reviewed information from these sources about identified personnel’s ethics and records management training and their filing of financial disclosures. In addition, GAO interviewed Office of Government Ethics and National Archives and Records Administration officials about their efforts to support EOP ethics and records management activities for DOGE personnel. GAO requested interviews with EOP, but EOP did not respond to these requests.
+
+For more information, contact Jessica Lucas-Judy at lucasjudyj@gao.gov.
+</description>
+                <pubDate>Wed, 05 Aug 2026 07:12:34 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108403</guid>
+            </item>
+            <item>
+                <title>College Athletics: Most Programs Spend More Than They Generate in Revenue</title>
+                <link>https://www.gao.gov/products/gao-26-108640</link>
+                <description>
+What GAO Found
+
+Intercollegiate athletics at four-year colleges in the National Collegiate Athletic Association (NCAA) are organized into divisions, subdivisions, and conferences. Division I (DI) colleges compete at the highest level and can offer students full athletics scholarships. Division II (DII) colleges typically offer partial athletics scholarships. In both divisions, expenses for most athletic programs were greater than the revenue they generated, according to GAO’s analysis of NCAA data for the 2014–15 and 2023–24 academic years.
+
+In the 2023–24 academic year, the 352 DI colleges reported spending a total of $20.8 billion on athletics, which largely went to team and game expenses (including travel, equipment, and medical expenses), coach and support staff compensation, and athletics scholarships. The 69 “Power” colleges in the most competitive DI conferences accounted for more than half of this spending.
+
+To help cover athletics expenses, DI college athletics programs generated $13.1 billion in revenue during the 2023–24 academic year. Power colleges generated $10 billion of this total amount, primarily through the sale of media rights to broadcast games, game day revenue (including ticket sales), and donations.
+
+Across DI colleges, 94 percent of athletics programs, including 49 of the 69 Power colleges, spent more than they generated in revenue in the 2023–24 academic year. The median college reported a gap of $20.6 million. This gap was larger than the median a decade earlier ($12.3 million). Over this period, spending increased more than generated revenue in all DI subdivisions.
+
+As generated revenue generally did not cover program expenses, most DI colleges reported contributing substantial funding to support athletics programs. Colleges contributed a total of $7.2 billion in the 2023–24 academic year. These college contributions are funded by tuition and fees paid by students, as well as other unrestricted funds from the college, such as income from investments. College contributions indirectly include federal funds students receive in federal student aid to pay their tuition and fees (see figure).
+
+College Contributions for Division I College Athletics Programs, Based on Academic Year 2023–24 Data
+
+
+
+Note: Amounts reflected are illustrative estimates and do not reflect actual student payments to athletics programs.
+
+All DII athletics programs spent more than the revenue they generated in the 2023–24 academic year. Combined, they spent $2.7 billion that year. To help cover this spending, they generated $0.4 billion and received $2.3 billion in college contributions.
+
+Why GAO Did This Study
+
+Many colleges spend millions of dollars on their athletics programs. Under the 2025 settlement of the In re College Athlete NIL Litigation case (House settlement), DI colleges can now share up to $20.5 million of revenue with student-athletes, starting with the 2025–26 academic year. Most DI colleges opted to participate in revenue sharing in that first year, which may impact finances for some college athletics programs.
+
+There has been recent federal interest in college athletics as reflected in Executive Orders and proposed legislation. GAO was asked to examine college athletics costs given that colleges may use funds to support athletics programs that come partly from federal aid students receive to pay their tuition and fees. This report provides information about DI and DII intercollegiate athletics finances prior to the House settlement to depict the landscape before revenue sharing took effect.
+
+To conduct this work, GAO reviewed DI and DII aggregated data from the NCAA’s membership financial database for the 2014–2015 and 2023–2024 (the most recent available data at the time of the analysis) academic years. These years were selected to analyze points in time over a ten-year period. The NCAA provided data to GAO but otherwise had no role in the development of this report; the findings and conclusions are GAO’s alone. GAO also interviewed representatives from four national stakeholder organizations knowledgeable about college athletics programs finances and operations.
+
+For more information, contact Melissa Emrey-Arras at emreyarrasm@gao.gov.
+</description>
+                <pubDate>Wed, 05 Aug 2026 09:51:01 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108640</guid>
+            </item>
+            <item>
+                <title>FEMA Workforce: Staff Reductions and Lack of Planning May Impact Mission Readiness</title>
+                <link>https://www.gao.gov/products/gao-26-108427</link>
+                <description>
+What GAO Found
+
+The increasing number and complexity of disasters demonstrates the need to ensure that the Federal Emergency Management Agency’s (FEMA) workforce can meet its core mission to help people before, during, and after disasters. In response to 2025 presidential directives, many federal agencies have taken steps to reduce the size of their workforces. In fiscal year 2025, FEMA employed about 25,134 employees, on average. However, over 4,300 employees separated from FEMA in fiscal year 2025—a 55 percent increase in separations from fiscal year 2024 (see figure). These separations have resulted in a loss of institutional knowledge and experienced personnel, according to FEMA officials, and have exacerbated longstanding workforce challenges.
+
+In 2025, FEMA rescinded its strategic plan. As a result, the agency has no overall strategic direction on which to base workforce planning—a systematic and continuous process for identifying the size and composition of a workforce needed to achieve an agency’s mission. Without a strategic plan that outlines clear goals and objectives, FEMA cannot effectively determine its future workforce needs, potentially putting its mission at risk.
+
+In addition, GAO found that FEMA did not base its 2025 and 2026 workforce reduction decisions, proposed future workforce actions, or workforce policy changes on the results of a workforce analysis—an assessment of the current state of the workforce and a forecast of future organizational requirements. FEMA took these actions without assessing whether it had the necessary staffing capacity to meet its mission, including its statutory requirements. Without workforce planning, FEMA is not positioned to determine whether it has the right number of people with the right skills in the right positions at the right time to meet its mission. Further, for more than a decade, GAO has identified challenges FEMA has encountered in maintaining a sufficient workforce to effectively meet its mission. Although FEMA has made progress towards addressing some of these challenges, actions by Congress would provide additional accountability to ensure that FEMA maintains a workforce capable of meeting its mission while addressing long-standing workforce management challenges.
+
+Percentage of Headquarters and Regional FEMA Staff Separations Due to Voluntary Workforce Reduction Programs, Jan. 20, 2025–Jan. 10, 2026
+
+
+
+Why GAO Did This Study
+
+FEMA has long-standing workforce management challenges that make supporting disaster response and recovery difficult. As such, GAO added strengthening FEMA’s disaster workforce and capacity to its High Risk List in February 2025.
+
+GAO was asked to review FEMA’s ability to provide effective staffing for disaster response and recovery and how FEMA is addressing any workforce challenges. This report examines (1) how FEMA’s workforce changed in 2025 and 2026; (2) the extent to which FEMA has strategic direction to identify workforce needs; and (3) the extent to which FEMA has assessed the ability of its workforce to meet its mission needs.
+
+GAO evaluated FEMA’s workforce planning efforts against key practices for workforce planning and analyzed data on FEMA’s workforce size and composition. GAO also reviewed documentation related to (1) workforce changes and decisions in 2025 and 2026 and (2) FEMA’s strategic direction. Lastly, GAO interviewed FEMA officials in headquarters and all 10 regions.
+
+
+</description>
+                <pubDate>Tue, 04 Aug 2026 07:01:01 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108427</guid>
+            </item>
+            <item>
+                <title>Priority Open Recommendations: Department of Defense</title>
+                <link>https://www.gao.gov/products/gao-26-108980</link>
+                <description>
+What GAO Found
+
+In May 2025, GAO identified 79 priority recommendations for the Department of Defense. Since then, the Department has implemented 17 of those recommendations. In June 2026, GAO identified an additional seven priority recommendations and removed the priority designation from 16 recommendations, bringing the total to 53 priority recommendations.
+
+GAO is highlighting the following three areas that warrant timely and focused attention:
+
+
+	&amp;nbsp;Sustaining U.S. military readiness,
+	&amp;nbsp;Ensuring weapon system acquisition and modernization, and
+	&amp;nbsp;Improving financial and fraud risk management.
+
+
+Addressing GAO's recommendations in these areas would support combat readiness by maintaining the Department's current weapon capabilities; address challenges with its high-risk weapon systems acquisition; and contribute to the Department's goal of an unmodified financial audit. Taking action to implement all of GAO's open priority recommendations would help enhance the efficiency and effectiveness of operations across the Department.
+
+Why GAO Did This Study
+
+Priority open recommendations are the GAO recommendations that warrant priority attention from heads of key departments or agencies because their implementation could save large amounts of money; improve congressional and/or executive branch decision-making on major issues; eliminate mismanagement, fraud, and abuse; or make progress toward addressing a high risk or duplication issue, among other benefits.
+
+Since 2015, GAO has sent letters to selected agencies to highlight the importance of implementing such recommendations.
+
+For more information, contact Cathleen A. Berrick at berrickc@gao.gov
+</description>
+                <pubDate>Tue, 04 Aug 2026 07:32:28 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108980</guid>
+            </item>
+            <item>
+                <title>Law Enforcement: DOJ Should Improve Training and Misconduct Guidelines for Nonfederal Task Force Officers</title>
+                <link>https://www.gao.gov/products/gao-26-108468</link>
+                <description>
+What GAO Found
+
+The Department of Justice (DOJ) routinely forms task forces to investigate national security issues and criminal activity, including various forms of trafficking, terrorist threats, and violent gang activity. Through these task forces, DOJ law enforcement agencies partner with thousands of nonfederal officers from state, local, tribal, and territorial law enforcement agencies.
+
+Number and Types of Active Department of Justice Task Forces, as of April 2026
+
+
+
+All four of the DOJ components GAO reviewed—the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF); Drug Enforcement Administration (DEA); Federal Bureau of Investigation (FBI), and the U.S. Marshals Service—use training to communicate task force officer roles and responsibilities. This training includes the DOJ components’ legal authorities and policies, including how to conduct federal investigations or exercise federal law enforcement authorities. However, ATF, DEA, and FBI allow nonfederal officers to engage in task force operations (e.g., serve warrants) before they have completed their initial task force officer training. Requiring nonfederal task force officers to complete training on relevant legal authorities and policies before engaging in task force operations would ensure components achieve the intent of their training and reduce the risk that officers will participate in task force operations without fully understanding the federal authorities they were deputized to exercise.
+
+ATF, DEA, FBI, and the U.S. Marshals Service policies require federal supervision of nonfederal task force officers, such as reviewing investigative reports and monitoring performance. These policies also require employees to report allegations of misconduct by nonfederal task force officers to their management. However, GAO found the four DOJ components do not have guidelines and criteria for field managers (such as the special agent in charge of a field office) to apply in adjudicating such allegations. By establishing guidelines field managers can use to adjudicate misconduct allegations, such as the conditions under which nonfederal officers should be removed from a task force, DOJ components can ensure they are applying the same criteria across their task forces. In the absence of such guidelines, there is increased risk of inconsistent adjudications, which could jeopardize the integrity of task force operations and erode public trust in task force effectiveness.
+
+Why GAO Did This Study
+
+DOJ deputizes nonfederal officers to serve on federal task forces to obtain valuable insights into regional or local criminal activity and assist the investigative work of DOJ’s federal law enforcement officers.
+
+GAO was asked to review DOJ task force policies for nonfederal officers. This report addresses, among other things, the extent to which DOJ components have policies and procedures to (1) communicate task force roles and responsibilities and (2) supervise nonfederal task force officers.
+
+To address these objectives, GAO analyzed component-level policies, task force agreements, and laws; and interviewed officials from the four components DOJ identified as leading task forces. To identify policies and procedures implemented at the field- and task force-levels, GAO reviewed documents and interviewed members of a nongeneralizable sample of eight task forces, based on task force type and location.
+
+
+</description>
+                <pubDate>Mon, 03 Aug 2026 07:01:26 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108468</guid>
+            </item>
+            <item>
+                <title>Federal Land and Water Management: Lessons Learned from Implementing Federal-Tribal Shared Decision-Making Agreements</title>
+                <link>https://www.gao.gov/products/gao-26-108965</link>
+                <description>
+What GAO Found
+
+Various federal land and water management agencies and Tribes have entered into shared decision-making agreements. Under these agreements, Tribes provide substantive input on federal natural and cultural resource management decisions over many years. The relevant federal agencies are the Departments of Agriculture, Commerce, the Interior, and their subcomponents. The subcomponents include the U.S. Forest Service, National Oceanic and Atmospheric Administration, Bureau of Land Management, U.S. Fish and Wildlife Service, and National Park Service.
+
+GAO identified five lessons learned from the implementation of shared decision-making agreements between federal agencies and Tribes.
+
+Five Lessons Federal Agency and Tribal Officials Learned from Implementing Shared Decision-Making Agreements
+
+
+
+These lessons are important for various reasons. For example, with respect to developing mutual understanding and trust, tribal officials party to an agreement said agency staff met with them in person, had open minds, and treated them with respect. This encouraged candid conversations and helped participants better understand one another’s perspectives.
+
+In developing and implementing shared decision-making agreements, there are key questions related to each lesson learned that would be useful for federal agencies and Tribes to consider. For example,
+
+
+	Does the agreement or supporting documents clearly identify how the parties will implement the agreement?
+	Have parties taken concerted efforts to understand each other’s approaches to natural and cultural resource management, and recognize constraints on their participation, such as legal limitations?
+	Have parties identified existing policies and procedures that can create challenges to working together, such as contrasting definitions or differing timelines?
+	Have parties identified the appropriate knowledge and skills federal staff need to implement the agreement?
+	Have parties determined what resources are available?
+
+
+Why GAO Did This Study
+
+Federal agencies manage public lands and waters, including national forests and parks, that are tribal ancestral territories and have special importance to Tribes. Agencies collaborate with Tribes to help achieve their missions and fulfill the unique federal trust and treaty responsibilities.
+
+GAO was asked to examine issues related to agencies developing and implementing shared decision-making agreements with Tribes. In a January 2026 report, GAO reported on factors that affected development of shared decision-making agreements. This report identifies lessons that federal agencies and Tribes learned during the implementation of shared decision-making agreements for managing public lands and waters. It also includes related key questions.
+
+GAO reviewed information collected in interviews with the parties to shared decision-making agreements discussed in the previous report (GAO-26-106626). GAO analyzed statements related to implementing agreements, and identified lessons learned, their importance, and related key questions.
+
+For more information, contact Anna Maria Ortiz at OrtizA@gao.gov.
+</description>
+                <pubDate>Fri, 31 Jul 2026 07:00:09 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108965</guid>
+            </item>
+            <item>
+                <title>B-52 Bomber: Air Force Actions Needed to Improve Major Modernization and Sustainment Efforts</title>
+                <link>https://www.gao.gov/products/gao-26-109272</link>
+                <description>
+What GAO Found
+
+Ten of the 13 B-52 modernizations are experiencing cost, schedule, or performance challenges. The Air Force’s most expensive B-52 modernization effort, the Commercial Engine Replacement Program (CERP) will likely continue to face significant challenges as the Air Force plans to begin production with little to no developmental flight testing. While the Air Force analyzed and accepted increased risks from this approach in 2023, since then CERP costs increased by about $3 billion and initial operational capability was delayed more than 15 months. Department of Defense (DOD) policy states cost estimates should consider risk and include an analysis that identifies and evaluates alternative courses of action that may reduce cost and risk. Reassessing these risks would better inform decision-makers as they consider when to begin production.
+
+B-52 Transporting an X-15 Rocket Research Aircraft in 1959
+
+
+
+In addition, as the Air Force develops its 13 modernizations, it is not consistently using digital engineering tools that provide decision-makers real-time data to assess overall performance allowing them to make timely and well-informed decisions. DOD issued guidance in 2023 stating programs in development should incorporate digital tools, such as digital twins, when it’s practical, beneficial, and affordable. The Air Force has not assessed the potential use of digital engineering on all B-52 modernizations. As a result, the Air Force may be missing opportunities to take advantage of efficiencies that digital engineering can provide, including avoiding future sustainment and supportability challenges.
+
+The Air Force conducts planned maintenance on B-52s at a repair depot about every 4 years and has developed analyses to ensure it has sufficient capacity to perform planned modernization. However, the current maintenance plans assume that the Air Force will complete CERP and install new engines on time and do not account for risks from further schedule delays. B-52 maintenance is already struggling with finding sufficient parts for the current engines. Without planning for the possibility of engine delays from CERP, the Air Force risks falling behind on planned B-52 maintenance, which could impact readiness.
+
+Why GAO Did This Study
+
+The B-52 bomber is an aircraft capable of performing conventional and nuclear missions. The B-52 was originally introduced in 1955 with a projected lifespan of 20 years. The Air Force has since extended the aircraft’s lifespan through 2050. To maintain the B-52’s strategic edge, the Air Force is projected to spend an estimated $21 billion for modernizations including new engines, radar, and communications.
+
+A Senate report included a provision for GAO to assess B-52 modernization. This report addresses, among other things, the extent to which (1) B-52 modernizations are meeting their cost, schedule, and performance goals, and (2) the Air Force has developed plans to ensure sufficient depot capacity for the modernizations. This is a public version of a sensitive report issued in July 2026. DOD deemed some schedule and mission capable information sensitive, and GAO omitted it from this report.
+
+To conduct this review, GAO evaluated Air Force acquisition and sustainment documentation. GAO conducted site visits to the B-52 program office, depot, and logistics center. GAO also analyzed data and interviewed officials on depot performance, spare part and support equipment needs, and B-52 availability.
+
+
+</description>
+                <pubDate>Fri, 31 Jul 2026 07:50:23 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-109272</guid>
+            </item>
+            <item>
+                <title>Army Corps of Engineers: Disaster Funding and Information Used to Support Flood Risk Management</title>
+                <link>https://www.gao.gov/products/gao-26-108504</link>
+                <description>
+What GAO Found
+
+The U.S. Army Corps of Engineers is responsible for planning, designing, and constructing much of the nation’s federally funded flood risk management infrastructure. The Corps usually does not request funds for disaster response during the annual budget cycle but instead receives supplemental appropriations for such activities after a disaster has occurred. In fiscal year (FY) 2004 through FY 2025, Congress appropriated more than $60 billion to the Corps for disaster response through 19 post-disaster supplemental appropriations acts and $450 million through annual appropriations acts.
+
+Post-Disaster Supplemental Appropriations to the Corps for Disaster Response, FYs 2004–2025
+
+
+
+If necessary to address disasters, the Corps can transfer funds from certain other appropriations accounts to the Flood Control and Coastal Emergencies account, which funds the Corps’s disaster work. The Corps has transferred about $910 million into this account since FY 2004. Officials said they reimburse funds transferred once they receive an appropriation.
+
+The Corps spent more than $34 billion on disasters from FY 2006 through FY 2025. Because the Corps has historically received “no-year” appropriations that are available for obligation indefinitely, the Corps does not have to immediately expend funds. Disaster spending during this period included activities related to preparedness (such as supplies and equipment, planning, and training), emergency response, and project repair.
+
+After a disaster, the Corps gathers information by assessing damage to projects. The Corps may use this information to support flood risk management and emergency response. This includes activities such as improving flood risk management models and informing early warnings systems and evacuation protocols. The Corps has also used this information to make decisions about modifications to damaged projects to provide greater protection and improve resilience, such as increasing the height of a levee. The Corps’s Emergency Response to Natural Disasters program has exercised its authority under P.L. 84-99 to modify several projects.
+
+Why GAO Did This Study
+
+Many of the nation’s dams and levees were built over 50 years ago and, like other aging infrastructure, may be more vulnerable to failure, especially given the rise in the number of disasters and increasing challenges related to delivery of federal disaster assistance.
+
+The Thomas R. Carper Water Resources Development Act of 2024 includes a provision for GAO to analyze Corps disaster preparedness and response activities. This report provides information on how Corps disaster response and praeparedness activities have been funded since FY 2004 and how the Corps uses information about the effects of natural disasters when making decisions on flood risk management projects.
+
+To conduct this work, GAO analyzed budget requests, appropriations acts, and Corps expenditure data and reviewed Corps documents, including agency guidance and webpages. GAO is reporting expenditure data from post-disaster supplemental appropriations beginning in FY 2006 rather than FY 2004 because that is when the Corps began using specific codes in its financial system of record to link expenditures to post-disaster supplemental appropriations acts. GAO also examined publicly available information on levees and dams and interviewed Corps officials.
+
+For more information, contact Rachel Frisk at FriskR@gao.gov.
+</description>
+                <pubDate>Fri, 31 Jul 2026 06:58:09 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108504</guid>
+            </item>
+            <item>
+                <title>Inflation Reduction Act: EPA’s Use and Oversight of $11.5 Billion in Appropriations</title>
+                <link>https://www.gao.gov/products/gao-26-108084</link>
+                <description>
+What GAO Found
+
+The Inflation Reduction Act of 2022 (IRA) provided about $41.5 billion in supplemental appropriations to the U.S. Environmental Protection Agency (EPA) for grants and other investments to reduce air pollution and enhance national climate resilience. EPA primarily used the appropriations to create new grant programs and has awarded hundreds of grants. In 2025, EPA terminated grants funded by $30 billion of IRA appropriations and several grant recipients were challenging the terminations in court as of June 2026.
+
+Of the roughly $11.5 billion in appropriations unaffected by the terminations and related litigation, Public Law 119-21, commonly known as the One Big Beautiful Bill Act (OBBBA), rescinded the budget authority for about $1.2 billion that EPA had not yet obligated. As of March 2026, EPA was overseeing about $10.2 billion in appropriations it obligated before OBBBA was enacted and which are not affected by ongoing litigation. EPA has expended about $686 million of these obligated funds.
+
+Status of About $11.5 Billion in Appropriations Provided to EPA in the Inflation Reduction Act of 2022 (IRA), as of March 2026
+
+
+
+Note: Percentages exceed 100 percent because expenditures are a subset of obligations. The unobligated balance reflects the amount EPA has not yet obligated from the appropriations unaffected by OBBBA’s rescissions.
+
+EPA’s obligations are mostly for competitive grants, and state governments received the largest number of grants. Of the about $10.2 billion in total obligations, EPA obligated about $8.6 billion from fiscal years 2023 to 2026 for efforts to reduce air pollution across the country, including replacing certain heavy-duty vehicles with emissions-free equivalents such as battery-electric or hydrogen fuel cell vehicles, deploying emissions-free equipment at U.S. ports, and improving energy efficiency in commercial and public buildings.
+
+EPA used the agency’s standard policies and procedures when it reviewed and selected recipients for competitive grants. Specifically, GAO found that EPA followed its competition policy by providing notice to potential applicants of its program goals, eligibility requirements, and evaluation criteria. EPA reviewers ranked the merit of eligible applicants using points-based scoring systems and made recommendations to agency selection officials, who made the final selection decisions.
+
+GAO found that EPA is using its standard processes for overseeing recipients’ use of funds. EPA requires that grant recipients submit periodic performance reports. According to the agency, it plans to conduct an additional level of oversight for all its IRA grants through an in-depth assessment at least once during their performance periods. EPA officials stated they are assessing the agency’s resource needs in light of staff reductions that have occurred since January 2025 and are using contractor support to fill in gaps where necessary.
+
+Why GAO Did This Study
+
+The appropriations provided by the IRA constitute a significant increase in funds available to EPA, which typically have been about $9 billion per year.
+
+GAO was asked to review EPA’s use of IRA appropriations, including any related changes to the agency’s staffing. Additionally, the IRA includes a provision for GAO to support oversight of the distribution and use of IRA appropriations. This report provides information about EPA’s use and oversight of the $10.2 billion the agency obligated and the processes EPA used to make funding decisions.
+
+GAO reviewed EPA obligations and expenditures data through March 2026. GAO also reviewed legal requirements, relevant EPA documents, and recipients’ single audit reports. GAO interviewed selected grant recipients based on factors such as geographic variation, as well as EPA officials.
+
+For more information, contact J. Alfredo Gómez at gomezj@gao.gov.
+</description>
+                <pubDate>Fri, 31 Jul 2026 07:07:05 -0400</pubDate>
+                <guid isPermaLink="false">/products/gao-26-108084</guid>
+            </item>
+
+  </channel>
+</rss>

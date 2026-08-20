@@ -18,6 +18,8 @@ Read only: the draft or claim ledger, the evidence files, and the cited URLs. Ig
 - Is a named person or firm uniquely identified?
 - Does any sentence allege intent, crime, or fraud? If yes, demand two primaries or rewrite to the documented fact.
 - What would a communications office say that is consistent with the documents?
+- Could a careful reader write this finding from the source document’s own summary or first pages? If yes, recommend **kill** or **continue**, never publish.
+- Is analysis labeled as inference or view, or smuggled in as fact?
 
 ## Output
 

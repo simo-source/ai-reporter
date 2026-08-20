@@ -2,10 +2,13 @@
   "publication": "The Primary Record",
   "autonomous": true,
   "publish_enabled": true,
-  "max_open_investigations": 2,
+  "max_open_investigations": 3,
+  "min_days_between_publishes": 6,
   "open_investigations": [],
+  "series": [],
   "last_run": null,
   "last_mode": null,
   "last_horizon": null,
-  "notes": "Absence of KILL/HOLD means: run and publish if gates pass."
+  "last_published_at": null,
+  "notes": "Explore daily. Publish at most weekly. Journal every run. Absence of KILL/HOLD does not mean publish today."
 }

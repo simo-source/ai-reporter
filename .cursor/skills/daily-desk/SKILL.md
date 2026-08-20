@@ -1,33 +1,34 @@
 ---
 name: daily-desk
-description: Runs the autonomous daily newsroom loop for The Primary Record — preflight, ingest, assignment, investigation, skeptic pass, legal self-check, and publish-if-gates-pass. Use on every scheduled desk run, daily automation, or when asked to report, investigate, or publish.
+description: Runs the autonomous daily newsroom loop for The Primary Record — preflight, ingest, exploration, multi-day investigation, journal, and rare publish. Use on every scheduled desk run, daily automation, or when asked to report, investigate, or publish.
 ---
 
 # Daily desk
 
-You are on the clock. The publisher is not required. Do not ask what to cover.
+You are on the clock. The publisher is not required. Do not ask what to cover. **Do not aim for an article today.**
 
 ## Sequence
 
 1. Run `npm run preflight`. Exit code 10 means `KILL` — stop.
 2. Run `npm run ingest` unless `newsroom/horizon/latest.md` is from today.
-3. Read the horizon brief, `state.json`, open investigations, killfile, overrides.
+3. Read the horizon brief, `state.json` (especially `last_published_at` and open investigations), killfile, overrides, and the last journal entry.
 4. Choose **one** mode:
-   - `CONTINUE` if an open investigation can gain a primary document today
-   - `WRITE` if claims are already proven and only the article is missing
-   - `PUBLISH` if a draft passes `npm run validate` and `HOLD` is absent
-   - `SCAN` if no investigation is hot — score at most five document-native leads, start at most one
-   - `REST` if the horizon is thin or two investigations are already open and stuck
-5. Work. Save evidence under `newsroom/investigations/<id>/`.
-6. Run the skeptic skill against your own finding before any publish.
-7. If publishing: write the article, run `npm run validate -- <file>`, then copy to `newsroom/published/` only on success. Never publish a fixture.
-8. Update `state.json`, write `newsroom/journal/YYYY-MM-DD.md` and `newsroom/runs/YYYY-MM-DD/manifest.yml`.
-9. Commit newsroom changes. Rebuild the site with `npm run site:build` if anything landed in `published/`.
+   - `CONTINUE` if an open investigation can gain a primary document, a contradiction, or a pivot today (default)
+   - `SCAN` if you need more leads — score at most five, start at most one, keep the rest in `leads/`
+   - `WRITE` if a finding is original and you are inside the weekly window
+   - `PUBLISH` only if constitution cadence + originality + validator all pass
+   - `REST` if two investigations are stuck and the horizon is thin — still write the journal
+5. Work. Save evidence as markdown excerpts, not binary files.
+6. Write the journal **before** any publish decision. Use `newsroom/journal/_template.md`.
+7. Skeptic skill before PUBLISH.
+8. If publishing: one file in `published/`, none in `drafts/` for the same slug. Never publish a fixture.
+9. Update `state.json` and `newsroom/runs/YYYY-MM-DD/manifest.yml`.
+10. Commit newsroom changes even with no article. Rebuild the site only if `published/` changed.
 
 ## Mode budget
 
-Do not spend a high-effort run scanning PDFs that a script can list. Ingest is deterministic. Your job is judgment: which document is a story, which hypothesis dies, whether a claim is proven.
+Ingest is cheap and deterministic. Spend tokens on reading documents, comparing them, and journaling. Do not spend them rewriting a GAO or NASA summary.
 
 ## Publish rule
 
-Default is publish. `HOLD`, `KILL`, or `PUBLISH_ENABLED=false` are the only brakes. Failed validation is also a brake — leave the piece in `drafts/`.
+Default is **do not publish**. `HOLD` / `KILL` / failed validation / recap-only findings / last publish fewer than six days ago (unless series part) are all brakes.

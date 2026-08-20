@@ -25,3 +25,5 @@ When you open a document, store in `evidence/`:
 - why it matters to a claim id
 
 Never commit full dumps of personal data. Prefer public permalinks.
+
+Do not commit PDFs, zips, or other binaries. URL + retrieved date + locator + a short excerpt is the evidence record.

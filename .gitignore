@@ -10,6 +10,8 @@ Thumbs.db
 site/.astro/
 site/dist/
 newsroom/investigations/**/evidence/raw/
+newsroom/investigations/**/evidence/*.pdf
+newsroom/investigations/**/evidence/*.zip
 newsroom/investigations/**/interviews/
 *.pem
 *.key

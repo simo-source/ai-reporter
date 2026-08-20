@@ -20,7 +20,9 @@ Create:
 newsroom/HOLD
 ```
 
-Drafts and evidence still accumulate. Nothing is copied to `newsroom/published/`.
+Drafts, evidence, and the journal still accumulate. Nothing is copied to `newsroom/published/`.
+
+Silence on the site is already the default (at most one piece per week). Use HOLD only when you want a hard freeze on publication.
 
 ## Steer without stopping
 

@@ -10,10 +10,10 @@ Par défaut, le desk :
 
 1. se réveille (Automation Cursor quotidienne)
 2. ingère un horizon de sources primaires (SEC EDGAR, Federal Register, GAO, CourtListener, UK legislation)
-3. continue une enquête, en démarre une, écrit, publie, ou se repose
-4. publie seulement si le validateur déterministe passe
+3. continue une enquête, lit, pivote, écrit le journal, et **publie au plus une fois par semaine** (sauf série)
+4. ne publie pas un résumé de rapport : il faut un finding (lien entre documents, contradiction, motif dans le temps) ou un avis étiqueté
 
-Un jour sans article est un succès si rien n’a survécu aux gates.
+Un jour sans article est le cas normal. Le journal interne, lui, est obligatoire tous les jours.
 
 ## Intervenir (optionnel)
 

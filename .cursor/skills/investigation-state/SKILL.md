@@ -22,12 +22,14 @@ newsroom/investigations/<yyyy-nnn-slug>/
   gaps.md
 ```
 
-`status.yml` fields: `id`, `mode`, `opened`, `updated`, `status` (`active` | `parked` | `killed` | `ready-to-write` | `published`), `next_action`.
+`status.yml` fields: `id`, `mode`, `opened`, `updated`, `status` (`active` | `parked` | `killed` | `ready-to-write` | `published`), `next_action`, `series`, `part`, `consecutive_continue_without_new_primary`.
 
 ## Rules
 
 - Facts, inferences, and hypotheses live in different files. Do not promote a hypothesis to a fact by rewriting it.
 - Every evidence file gets URL, retrieved date, hash or filename, and a short excerpt.
-- After two cycles with no new primary document, park or kill. Write why in `gaps.md`.
+- After five consecutive CONTINUE days with no new primary document, park or kill. Write why in `gaps.md`.
+- Do not commit PDFs or zips. URL, retrieved date, locator, short excerpt.
 - Append traces of the run (what you searched, what you opened) to `traces/YYYY-MM-DD.md`.
+- Also append a human-readable day to `newsroom/journal/YYYY-MM-DD.md`. The desk journal is mandatory even if the investigation folder is unchanged.
 - Update `newsroom/state.json` `open_investigations` to match reality.

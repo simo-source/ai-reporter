@@ -5,3 +5,6 @@ status: active
 mode: SCAN
 next_action: fetch the first primary document
 hypothesis: ""
+series: null
+part: null
+consecutive_continue_without_new_primary: 0

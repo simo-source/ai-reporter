@@ -1,25 +1,24 @@
-# 30-day protocol
+# Cadence
 
-## Week 1
+Daily desk. Weekly public writing. Internal journal every run.
 
-Ingest runs. SCAN only unless a document is obviously a story. Count rejected leads. Publishing is allowed but not expected.
+## Ongoing
 
-## Week 2
+Most days: `SCAN` or `CONTINUE`. Read primary documents. Score and kill leads. Pivot. Write the journal.
 
-At most two open investigations. Prefer CONTINUE. Park anything that yields no new primary after two cycles.
+Do not publish because the validator would pass. Publish because a finding exists that a single source summary does not already contain.
 
-## Week 3
+## When to publish
 
-WRITE/PUBLISH only with locators. Target: zero or one piece. If a piece goes out, a human (optional) should be able to verify every claim in two minutes. They do not have to.
+- At most one new public piece per rolling 7 days, unless it is the next part of a named series with a new finding.
+- Series are good. Recaps of part 1 are not.
 
-## Week 4
+## Metrics that matter
 
-Read the journal. If output looks like a news recap, tighten assignment scoring. If output is empty, inspect whether ingest failed or the skeptic is over-killing.
-
-## Metrics
-
-- findings published
-- claims with working primary locators
-- leads killed (this is a positive number)
+- journal entries with real reading notes
+- leads killed (positive)
+- investigations that spanned more than two days
+- findings that need two documents to state
 - corrections within 14 days
-- human minutes spent intervening (should be able to stay at zero)
+
+Pageviews and “an article today” are not metrics.

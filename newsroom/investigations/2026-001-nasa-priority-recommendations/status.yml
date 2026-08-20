@@ -1,7 +1,7 @@
 id: 2026-001-nasa-priority-recommendations
 opened: 2026-08-20
 updated: 2026-08-20
-status: ready-to-write
-mode: WRITE
-next_action: write the document-backed article and run the skeptic pass
+status: published
+mode: PUBLISH
+next_action: monitor for a correction or new primary status record
 hypothesis: NASA's current accountability records document unresolved and explicitly rejected corrective actions in two of the oversight areas GAO identified as priority concerns.

@@ -4,8 +4,8 @@
   "publish_enabled": true,
   "max_open_investigations": 2,
   "open_investigations": [],
-  "last_run": null,
-  "last_mode": null,
-  "last_horizon": null,
-  "notes": "Absence of KILL/HOLD means: run and publish if gates pass."
+  "last_run": "2026-08-20",
+  "last_mode": "PUBLISH",
+  "last_horizon": "2026-08-20",
+  "notes": "Published 2026-001-nasa-priority-recommendations after skeptic review and validation. Absence of KILL/HOLD means: run and publish if gates pass."
 }

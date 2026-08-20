@@ -1,0 +1,36 @@
+date: 2026-08-20
+mode: PUBLISH
+preflight:
+  command: npm run preflight
+  result: AUTONOMOUS
+  kill: false
+  hold: false
+ingest:
+  command: npm run ingest
+  result: success
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+assignment:
+  leads_scored: 5
+  investigation_started: 2026-001-nasa-priority-recommendations
+  primary_only: true
+evidence:
+  - newsroom/investigations/2026-001-nasa-priority-recommendations/evidence/gao-reports.xml
+  - newsroom/investigations/2026-001-nasa-priority-recommendations/evidence/nasa-gao-oig-act-report-2026.pdf
+  - newsroom/investigations/2026-001-nasa-priority-recommendations/evidence/nasa-oig-ig-22-011.pdf
+skeptic:
+  file: newsroom/investigations/2026-001-nasa-priority-recommendations/factcheck/adversarial-review.md
+  recommendation: publish
+validation:
+  draft: passed
+  published: passed
+  all: passed
+publication:
+  file: newsroom/published/2026-08-20-nasa-open-recommendations.md
+  hold_absent: true
+  ai_disclosure: true
+site_build: pending

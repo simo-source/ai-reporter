@@ -16,3 +16,12 @@
 - Locator: JSON `totalElements`, `data[0].id`, `data[0].documentType`, and attachments response `data`
 - Captured excerpt: The docket search returned one document, `FAA-2026-8784-0001`, the proposed rule; its attachment response returned an empty `data` array.
 - Why it matters: E2 documents the bulletin's absence from the public docket response at retrieval. It does not prove that the bulletin is unavailable through FAA, NARA, or Boeing's normal business channels, and it does not test C3's population comparison.
+
+## E3 — FAA docket now lists the Boeing bulletin
+
+- URL: https://api.regulations.gov/v4/documents?filter%5BdocketId%5D=FAA-2026-8784&page%5Bsize%5D=50&api_key=DEMO_KEY
+- Related URLs: https://api.regulations.gov/v4/documents/FAA-2026-8784-0002?api_key=DEMO_KEY and https://api.regulations.gov/v4/documents/FAA-2026-8784-0002/attachments?api_key=DEMO_KEY
+- Retrieved: 2026-08-21
+- Locator: Docket query `data[1]`; document `FAA-2026-8784-0002`; attachment response `data[0]`.
+- Captured excerpt: The docket now lists a second public document, `FAA-2026-8784-0002`, titled “U.S. DOT/FAA - Supplemental AD Documents.” Its attachment is titled “B787-81205-SB530106-00 RB Issue 001 reduced,” is identified as a PDF, and has a listed size of 4,617,647 bytes. The linked download endpoint returned HTTP 403 during this run, so Appendix A was not read.
+- Why it matters: E3 establishes that the incorporated bulletin was added to the public docket after E2. The metadata identifies the bulletin but does not expose Appendix A or permit the affected-batch comparison; C3 remains untested.

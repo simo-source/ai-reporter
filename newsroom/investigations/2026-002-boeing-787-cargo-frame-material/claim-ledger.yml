@@ -22,3 +22,9 @@ claims:
     status: supported
     evidence:
       - E2
+  - id: C5
+    type: fact
+    text: "On 2026-08-21, the FAA-2026-8784 docket API listed a supporting document whose PDF attachment metadata names the Boeing requirements bulletin."
+    status: supported
+    evidence:
+      - E3

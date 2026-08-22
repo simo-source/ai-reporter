@@ -8,12 +8,12 @@
     "2026-002-boeing-787-cargo-frame-material"
   ],
   "series": [],
-  "last_run": "2026-08-21",
+  "last_run": "2026-08-22",
   "last_mode": "CONTINUE",
   "last_horizon": "2026-08-21",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-08-21.md",
-  "next_action": "Retrieve the FAA-2026-8784-0002 bulletin attachment or locate an official FAA/NARA copy; capture Appendix A and compare its affected batches with the four-aircraft cost estimate.",
-  "handoff": "2026-08-21 CONTINUE added E3: the Regulations.gov API now lists FAA-2026-8784-0002 with a PDF attachment named for Boeing Requirements Bulletin B787-81205-SB530106-00 RB Issue 001. The official download endpoint returned HTTP 403, so Appendix A remains unread and C3 is still untested; no undercounting claim is warranted. Retrieve the attachment or locate an official FAA/NARA copy next, and do not pursue the killed NASA recap.",
+  "last_journal": "newsroom/journal/2026-08-22.md",
+  "next_action": "Retrieve FAA registry records for the nine bulletin effectivity line numbers and identify whether the four U.S.-registry airplanes in the cost estimate are a subset of that effectivity.",
+  "handoff": "2026-08-22 CONTINUE retrieved the official FAA docket attachment and captured E4: the Boeing bulletin lists nine 787-8 effectivity line numbers and affected batches in Appendix A. The Federal Register cost section covers four airplanes of U.S. registry, establishing a scope distinction but not undercounting or regulatory error. Reconcile FAA registry records next; do not pursue the killed NASA recap.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

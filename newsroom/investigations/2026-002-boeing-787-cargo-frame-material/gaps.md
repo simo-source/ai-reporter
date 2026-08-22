@@ -1,6 +1,6 @@
 # Gaps
 
-- The FAA docket now lists the Boeing Requirements Bulletin B787-81205-SB530106-00 RB, Issue 001, as a PDF attachment (E3), but the download endpoint returned HTTP 403 during this run and the bulletin has not been read.
-- The FAA proposal refers to affected batch numbers without listing them in the public text; the bulletin's Appendix A is needed.
-- The four U.S.-registered aircraft count has not been reconciled to the affected batch list or FAA registry records.
-- No conclusion about undercounting, regulatory error, or bulletin unavailability is warranted from E1 and E2.
+- The bulletin's Appendix A is now captured as a short excerpt, but the four U.S.-registered aircraft count has not been reconciled to the nine effectivity line numbers or to FAA registry records.
+- The bulletin lists affected part batches, not the registration status of each effectivity line number; the public record reviewed so far does not identify which four aircraft formed the FAA's cost base.
+- The scope distinction between nine effectivity line numbers and four U.S.-registry airplanes does not establish undercounting, regulatory error, or a safety impact.
+- The full bulletin remains outside the repository as a binary; only its URL, hash, locators, and short excerpts are recorded.

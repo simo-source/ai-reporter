@@ -12,10 +12,12 @@ claims:
     evidence:
       - E1
   - id: C3
-    type: hypothesis
-    text: "The proposed rule's affected population may be broader than the population used in its public cost estimate."
-    status: untested
-    evidence: []
+    type: inference
+    text: "The Boeing bulletin's effectivity lists nine 787-8 line numbers, while the FAA's public cost estimate is expressly based on four airplanes of U.S. registry; the documents therefore use different stated scope bases."
+    status: supported
+    evidence:
+      - E1
+      - E4
   - id: C4
     type: fact
     text: "On 2026-08-20, the public FAA-2026-8784 docket API listed the NPRM as its only document and returned no attachments for that document."
@@ -28,3 +30,9 @@ claims:
     status: supported
     evidence:
       - E3
+  - id: C6
+    type: fact
+    text: "Appendix A of the Boeing requirements bulletin lists affected delivered-part and detail-part batch numbers for the relevant LFCD split-frame assemblies."
+    status: supported
+    evidence:
+      - E4

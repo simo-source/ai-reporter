@@ -1,0 +1,34 @@
+date: 2026-08-22
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+ingest:
+  ran: true
+  horizon: newsroom/horizon/2026-08-22/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked:
+    - 2026-08-20-nuclear-fuel-cost-visibility
+    - 2026-08-20-army-network-scale-baseline
+    - 2026-08-20-sba-size-standard-shift
+    - 2026-08-20-dsca-workforce-reform-tracker
+  killed:
+    - 2026-08-20-nasa-oig-recommendations-recap
+investigation:
+  id: 2026-002-boeing-787-cargo-frame-material
+  new_primary_documents: 1
+  evidence_added:
+    - E4
+  next_action: retrieve FAA registry records for the nine bulletin effectivity line numbers and identify whether the four U.S.-registry airplanes in the cost estimate are a subset of that effectivity
+publication:
+  published: false
+  reason: scope distinction is documented, but registry mapping is incomplete and no skeptic pass was warranted
+journal: newsroom/journal/2026-08-22.md

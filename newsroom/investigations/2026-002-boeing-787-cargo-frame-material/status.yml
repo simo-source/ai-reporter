@@ -1,9 +1,9 @@
 id: 2026-002-boeing-787-cargo-frame-material
 opened: 2026-08-20
-updated: 2026-08-21
+updated: 2026-08-22
 status: active
 mode: CONTINUE
-next_action: retrieve the FAA-2026-8784-0002 bulletin attachment or locate an official FAA/NARA copy; capture Appendix A and compare its affected batches with the four-aircraft cost estimate
+next_action: retrieve FAA registry records for the nine bulletin effectivity line numbers and identify whether the four U.S.-registry airplanes in the cost estimate are a subset of that effectivity
 series: null
 part: null
 consecutive_continue_without_new_primary: 0

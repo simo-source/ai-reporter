@@ -36,3 +36,18 @@ claims:
     status: supported
     evidence:
       - E4
+  - id: C7
+    type: fact
+    text: "The FAA registry records four valid U.S.-registered Boeing 787-8 aircraft with serial numbers 66003, 66004, 66005, and 66006, registered under N883BM, N884AA, N885BP, and N886BR respectively."
+    status: supported
+    evidence:
+      - E6
+  - id: C8
+    type: inference
+    text: "The four-airplane U.S.-registry cost base may correspond to four of the nine bulletin effectivity line numbers, but the public FAA registry records do not provide the line-number-to-serial crosswalk needed to prove that mapping from primary sources."
+    status: provisional
+    evidence:
+      - E1
+      - E4
+      - E5
+      - E6

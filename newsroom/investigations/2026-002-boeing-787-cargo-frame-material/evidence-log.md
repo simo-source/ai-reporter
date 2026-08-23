@@ -34,3 +34,20 @@
 - Locator: Requirements Bulletin B787-81205-SB530106-00 RB, Issue 001, pp. 3–4 and Appendix A, pp. 151–152 of 154.
 - Captured excerpt: Page 3 lists line numbers 1115, 1137, 1140, 1143, 1146, 1149, 1154, 1159, and 1162 as the bulletin’s 787-8 effectivity. Pages 151–152, Appendix A Table 1, list affected delivered-part and detail-part batch numbers for the relevant split-frame assemblies.
 - Why it matters: E4 supplies the missing scope table. The bulletin’s nine listed aircraft effectivity differs from E1’s four-airplane U.S.-registry cost base, but that difference alone does not establish undercounting or regulatory error.
+
+## E5 — FAA releasable aircraft database
+
+- URL: https://registry.faa.gov/database/ReleasableAircraft.zip
+- Related URL: https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download
+- Retrieved: 2026-08-23
+- Locator: FAA download page description of the Aircraft Registration Master and Aircraft Reference files; archive file entries `MASTER.txt` and `ACFTREF.txt`, created 2026-08-21.
+- Captured excerpt: The FAA describes the download as a comma-delimited database refreshed daily and identifies `MASTER.txt` as the Aircraft Registration Master file and `ACFTREF.txt` as the aircraft reference file.
+- Why it matters: A local, non-committed inspection of the official files identified current valid FAA records for the four candidate U.S.-registered 787-8s; the files contain serial numbers and registration data but no Boeing line-number field.
+
+## E6 — FAA registry records for four candidate 787-8s
+
+- URLs: https://registry.faa.gov/AircraftInquiry/Search/NNumberResult?nNumberTxt=N883BM; https://registry.faa.gov/AircraftInquiry/Search/NNumberResult?nNumberTxt=N884AA; https://registry.faa.gov/AircraftInquiry/Search/NNumberResult?nNumberTxt=N885BP; https://registry.faa.gov/AircraftInquiry/Search/NNumberResult?nNumberTxt=N886BR
+- Retrieved: 2026-08-23
+- Locator: Each FAA N-Number Inquiry Results page, `Serial Number`, `Status`, `Manufacturer Name`, and `Model` rows.
+- Captured excerpt: N883BM is a valid BOEING 787-8 with serial 66003; N884AA is valid with serial 66004; N885BP is valid with serial 66005; and N886BR is valid with serial 66006.
+- Why it matters: E6 confirms that four specific 787-8 airframes are in the U.S. registry. The FAA pages do not identify Boeing line numbers, so they do not independently prove that these four records correspond to the four line numbers in E4.

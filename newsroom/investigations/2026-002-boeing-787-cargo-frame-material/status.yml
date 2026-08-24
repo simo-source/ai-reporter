@@ -1,9 +1,9 @@
 id: 2026-002-boeing-787-cargo-frame-material
 opened: 2026-08-20
-updated: 2026-08-23
+updated: 2026-08-24
 status: active
 mode: CONTINUE
 next_action: Obtain a primary Boeing or FAA line-number-to-serial crosswalk (or final-rule record) for the nine effectivity airplanes; keep the four-airplane scope reconciliation provisional until that crosswalk is found
 series: null
 part: null
-consecutive_continue_without_new_primary: 0
+consecutive_continue_without_new_primary: 1

@@ -8,12 +8,12 @@
     "2026-002-boeing-787-cargo-frame-material"
   ],
   "series": [],
-  "last_run": "2026-08-23",
+  "last_run": "2026-08-24",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-08-23",
+  "last_horizon": "2026-08-24",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-08-23.md",
+  "last_journal": "newsroom/journal/2026-08-24.md",
   "next_action": "Obtain a primary Boeing or FAA line-number-to-serial crosswalk (or final-rule record) for the nine effectivity airplanes; keep the four-airplane scope reconciliation provisional until that crosswalk is found.",
-  "handoff": "2026-08-23 CONTINUE added E5 and E6 from the official FAA registry download and inquiry pages. Four valid U.S.-registered 787-8 records match the candidate serials 66003–66006, but FAA public records do not expose Boeing line numbers, so the exact four-of-nine mapping remains provisional. Seek a primary Boeing/FAA crosswalk or final-rule record next; do not pursue the killed NASA recap.",
+  "handoff": "2026-08-24 CONTINUE rechecked the official FAA docket and Federal Register metadata. The docket still lists only the NPRM and supplemental-document record, with no final rule or primary line-number-to-serial crosswalk. E7 was added; the four-airplane reconciliation remains provisional, and the killed NASA recap must not be pursued.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

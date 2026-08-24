@@ -51,3 +51,11 @@
 - Locator: Each FAA N-Number Inquiry Results page, `Serial Number`, `Status`, `Manufacturer Name`, and `Model` rows.
 - Captured excerpt: N883BM is a valid BOEING 787-8 with serial 66003; N884AA is valid with serial 66004; N885BP is valid with serial 66005; and N886BR is valid with serial 66006.
 - Why it matters: E6 confirms that four specific 787-8 airframes are in the U.S. registry. The FAA pages do not identify Boeing line numbers, so they do not independently prove that these four records correspond to the four line numbers in E4.
+
+## E7 — FAA docket status check
+
+- URL: https://api.regulations.gov/v4/documents?filter%5BdocketId%5D=FAA-2026-8784&page%5Bsize%5D=50&api_key=DEMO_KEY
+- Retrieved: 2026-08-24
+- Locator: JSON `data`, `meta.totalElements`, and each document's `id`, `documentType`, `title`, and `lastModifiedDate`.
+- Captured excerpt: The docket contains two documents: the NPRM `FAA-2026-8784-0001` and the supporting-document record `FAA-2026-8784-0002`; no final-rule document or line-number-to-serial crosswalk is listed.
+- Why it matters: E7 records that the public docket still does not supply the primary crosswalk or a final-rule record needed to resolve C8. The single public comment and its recommendations were not used as proof.

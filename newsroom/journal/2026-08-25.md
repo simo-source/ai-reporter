@@ -2,36 +2,41 @@
 
 ## Mode
 
-`CONTINUE`
+`SCAN`
 
-An active investigation remains in `state.json`, so continuation was required. The first action was the recorded next action: recheck the FAA docket and Boeing/FAA public records for a final rule or a primary line-number-to-serial crosswalk. Those records did not resolve the identity join, so the desk stayed in continuation and did not move to WRITE or PUBLISH.
+The Boeing thread was parked before any repeated fetch: its consecutive no-new-primary count was 2, and the next action would have repeated the same docket and search checks. The desk used the remaining workstream on a new, higher-interest GAO/Army lead and did not publish.
+
+## Thread decisions
+
+- `2026-002-boeing-787-cargo-frame-material`: **park** — no new public primary path is visible, and another run of the same FAA/Boeing checks would repeat yesterday's action.
+- `2026-003-army-network-scale-baseline`: **continue** — three new official Army primary records provide a testable budget/acquisition comparison, while the detailed GAO schedule and cost record remains to be retrieved.
 
 ## What I read
 
-- `newsroom/CONSTITUTION.md`, `newsroom/masthead.yml`, `newsroom/state.json`, the prior journal, killfile, overrides, and the active investigation files — continuity, cadence, controls, and the required next action.
-- `newsroom/horizon/2026-08-25/BRIEF.md` — current primary-document intake from SEC EDGAR, Federal Register, GAO, CourtListener, and UK legislation; no new lead displaced the required Boeing continuation.
-- Regulations.gov docket API, https://api.regulations.gov/v4/documents?filter%5BdocketId%5D=FAA-2026-8784&page%5Bsize%5D=50&api_key=DEMO_KEY — JSON `data`, `meta.totalElements`, and document metadata; the docket still lists only the NPRM and supporting-document record.
-- Regulations.gov attachment API, https://api.regulations.gov/v4/documents/FAA-2026-8784-0002/attachments?api_key=DEMO_KEY — attachment `title`, `fileFormats`, and `modifyDate`; it still points to the Boeing bulletin already captured as E4.
-- Federal Register API, https://www.federalregister.gov/api/v1/documents/2026-17056.json — `type`, `effective_on`, `disposition_notes`, `dockets`, and `comments_close_on`; the item remains an NPRM with no final disposition.
-- Official FAA and Boeing search results — no primary line-number-to-serial crosswalk was exposed; access to Boeing service-bulletin material appears to require operator credentials and was not pursued through non-public channels.
+- `newsroom/CONSTITUTION.md`, `newsroom/masthead.yml`, `newsroom/state.json`, prior journal, killfile, overrides, active investigation files, and `newsroom/horizon/2026-08-25/BRIEF.md` — continuity, controls, cadence, prior handoff, and current primary-document intake.
+- `https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2026/pbr/FY26%20Presidents%20Budget%20Highlights.pdf` — PDF pp. 30–31 and p. 43 state the four-layer NGC2 framing, FY2026 fielding of two divisions and a corps, and a $557.6 million request.
+- `https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2026/Discretionary%20Budget/rdte/RDTE%20-%20Vol%202%20-%20Budget%20Activity%204B.pdf` — PDF p. 101 and pp. 301–302, 317–318, 325 describe prototype fabrication, transition to programs of record, project-level FY2026 funding, and the NGC2 schedule entry.
+- `https://www.army.mil/article/287180/army_announces_next_generation_command_and_control_ngc2_prototype_award` — award paragraphs record a $99.6 million, 11-month 4th ID prototype and planned 25th ID/III Corps prototyping.
+- `https://www.gao.gov/products/gao-26-108019` — horizon lead selected for the next retrieval; the full report's detailed schedule/cost tables are not yet captured.
 
 ## Leads
 
-- Continued `2026-002-boeing-787-cargo-frame-material` because it is open and `state.next_action` required the crosswalk or final-rule check.
-- No new lead was started. The NASA OIG recap remains killed; parked GAO and SBA leads were not reopened.
+- Parked `2026-002-boeing-787-cargo-frame-material` under the thread-decision criteria.
+- Scored `2026-08-20-army-network-scale-baseline` at public interest 5, originality 2 pending a second primary excerpt, document-nativeness 5, room to grow 4, legal risk 1; net 15/25. Started it because Army budget and acquisition records offer a plausible second primary path.
+- NASA OIG remains killed by publisher override. Other inbox leads remain unstarted.
 
 ## Investigation work
 
-E8 records the 2026-08-25 FAA docket and Federal Register status. The docket still has two records, the supporting attachment still identifies the Boeing requirements bulletin, and the Federal Register record remains a proposed rule with no effective date or disposition. C8 remains a provisional inference: E1 and E4 establish different stated scope bases, while E5 and E6 establish four valid U.S.-registered 787-8 records without exposing Boeing line numbers. The consecutive no-new-primary count is now 2.
+`2026-002-boeing-787-cargo-frame-material` is now parked; its missing line-number-to-serial crosswalk remains unproved. `2026-003-army-network-scale-baseline` is active: E1–E3 establish that the Army's public record combines a broad fielding statement, prototype-oriented RDT&E language, and a 4th ID OTA, but do not yet supply a unit-by-fiscal-year schedule or life-cycle cost join.
 
 ## Pivots and dead ends
 
-The official docket, attachment metadata, Federal Register API, and public FAA/Boeing search results did not resolve the identity join. Search results that did not provide an official crosswalk were not added as proof. No non-public Boeing operator material was accessed.
+The Boeing docket path is parked rather than queried again. The current horizon's SEC, Federal Register, CourtListener, and UK-legislation items were treated as intake only; no recap was promoted to a finding. Secondary search results about GAO were used only to locate official Army and GAO records, not as proof.
 
 ## Publish decision
 
-Not publishing this week. The comparison remains potentially useful, but a publishable claim about the exact four-airplane cost base would require a primary line-number-to-serial mapping or a final-rule record, followed by skeptic review and validation. No article was drafted, and no file was copied to `drafts/` or `published/`.
+Not publishing this week. No article was drafted, and no file was copied to `drafts/` or `published/`. A publishable Army finding requires the GAO detailed record plus a comparison that is not already stated in the report summary, supported by independent primary documents and a skeptic review.
 
 ## Next run
 
-Check the FAA docket and Boeing/FAA public records for a newly posted final rule or primary line-number-to-serial crosswalk for the nine effectivity airplanes; keep the four-airplane reconciliation provisional.
+Retrieve and excerpt GAO-26-108019's detailed schedule/cost findings, then compare them with E1–E3 to test whether C2 Fix and NGC2 share an auditable schedule/cost scaling baseline.

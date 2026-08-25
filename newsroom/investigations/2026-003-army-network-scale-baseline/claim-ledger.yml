@@ -1,0 +1,27 @@
+claims:
+  - id: C1
+    type: fact
+    text: "The Army's FY2026 budget highlights describe NGC2 as a four-layer investment and say FY2026 will field two divisions and a corps with commercially based infrastructure and transport."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "The Army's FY2026 RDT&E justification describes NGC2 prototype fabrication and experimentation and says successful solutions will transition to programs of record after realistic evaluation."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "The Army announced a $99.6 million, 11-month OTA for an NGC2 prototype for the 4th Infantry Division and described planned prototyping involving the 25th Infantry Division and III Corps Headquarters."
+    status: supported
+    evidence:
+      - E3
+  - id: C4
+    type: inference
+    text: "The public budget and acquisition records use both fielding language and prototype language, but the relationship between the two is not yet an auditable unit-by-fiscal-year scaling baseline."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3

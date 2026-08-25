@@ -3,54 +3,54 @@
 Primary-source intake only. News articles are not listed here. Pick leads from documents, not coverage.
 
 ## sec-edgar
-- **4 - Kapoor Rohit (RK2) (0002119352) (Reporting)**
-  - when: 2026-08-24T21:58:03-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2119352/000141994526000064/0001419945-26-000064-index.htm
-  - Filed: 2026-08-24 AccNo: 0001419945-26-000064 Size: 6 KB
-- **4 - TEEKAY TANKERS LTD. (0001419945) (Issuer)**
-  - when: 2026-08-24T21:58:03-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1419945/000141994526000064/0001419945-26-000064-index.htm
-  - Filed: 2026-08-24 AccNo: 0001419945-26-000064 Size: 6 KB
-- **SCHEDULE 13D/A - Huang Erke (0002046456) (Filed by)**
-  - when: 2026-08-24T21:57:16-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2046456/000121390026093214/0001213900-26-093214-index.htm
-  - Filed: 2026-08-24 AccNo: 0001213900-26-093214 Size: 9 KB
-- **SCHEDULE 13D/A - Bit Digital, Inc (0001710350) (Subject)**
-  - when: 2026-08-24T21:57:16-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1710350/000121390026093214/0001213900-26-093214-index.htm
-  - Filed: 2026-08-24 AccNo: 0001213900-26-093214 Size: 9 KB
-- **4 - Seidelin Mikkel (0002083448) (Reporting)**
-  - when: 2026-08-24T21:53:21-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/2083448/000141994526000062/0001419945-26-000062-index.htm
-  - Filed: 2026-08-24 AccNo: 0001419945-26-000062 Size: 6 KB
-- **4 - TEEKAY TANKERS LTD. (0001419945) (Issuer)**
-  - when: 2026-08-24T21:53:21-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1419945/000141994526000062/0001419945-26-000062-index.htm
-  - Filed: 2026-08-24 AccNo: 0001419945-26-000062 Size: 6 KB
-- **4 - Speers Brody (0001972297) (Reporting)**
-  - when: 2026-08-24T21:46:57-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1972297/000141994526000061/0001419945-26-000061-index.htm
-  - Filed: 2026-08-24 AccNo: 0001419945-26-000061 Size: 6 KB
-- **4 - TEEKAY TANKERS LTD. (0001419945) (Issuer)**
-  - when: 2026-08-24T21:46:57-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1419945/000141994526000061/0001419945-26-000061-index.htm
-  - Filed: 2026-08-24 AccNo: 0001419945-26-000061 Size: 6 KB
-- **4 - Tilzer Brian A (0001697130) (Reporting)**
-  - when: 2026-08-24T21:44:45-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1697130/000083298826000219/0000832988-26-000219-index.htm
-  - Filed: 2026-08-24 AccNo: 0000832988-26-000219 Size: 5 KB
-- **4 - SIGNET JEWELERS LTD (0000832988) (Issuer)**
-  - when: 2026-08-24T21:44:45-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/832988/000083298826000219/0000832988-26-000219-index.htm
-  - Filed: 2026-08-24 AccNo: 0000832988-26-000219 Size: 5 KB
-- **4 - COCHRAN SANDRA B (0001056610) (Reporting)**
-  - when: 2026-08-24T21:44:39-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/1056610/000083298826000218/0000832988-26-000218-index.htm
-  - Filed: 2026-08-24 AccNo: 0000832988-26-000218 Size: 5 KB
-- **4 - SIGNET JEWELERS LTD (0000832988) (Issuer)**
-  - when: 2026-08-24T21:44:39-04:00
-  - url: https://www.sec.gov/Archives/edgar/data/832988/000083298826000218/0000832988-26-000218-index.htm
-  - Filed: 2026-08-24 AccNo: 0000832988-26-000218 Size: 5 KB
+- **S-6 - FT 13299 (0002147133) (Filer)**
+  - when: 2026-08-25T10:56:46-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2147133/000144554626006390/0001445546-26-006390-index.htm
+  - Filed: 2026-08-25 AccNo: 0001445546-26-006390 Size: 71 KB
+- **4 - James Craig W. (0001756771) (Reporting)**
+  - when: 2026-08-25T10:56:24-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1756771/000121390026093344/0001213900-26-093344-index.htm
+  - Filed: 2026-08-25 AccNo: 0001213900-26-093344 Size: 7 KB
+- **4 - FARMERS & MERCHANTS BANCORP (0001085913) (Issuer)**
+  - when: 2026-08-25T10:56:24-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1085913/000121390026093344/0001213900-26-093344-index.htm
+  - Filed: 2026-08-25 AccNo: 0001213900-26-093344 Size: 7 KB
+- **S-6 - FT 13298 (0002147132) (Filer)**
+  - when: 2026-08-25T10:56:21-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2147132/000144554626006389/0001445546-26-006389-index.htm
+  - Filed: 2026-08-25 AccNo: 0001445546-26-006389 Size: 71 KB
+- **D - CVC Private Credit Secondaries, SCSp (0002150535) (Filer)**
+  - when: 2026-08-25T10:56:14-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2150535/000215053526000001/0002150535-26-000001-index.htm
+  - Filed: 2026-08-25 AccNo: 0002150535-26-000001 Size: 10 KB Item 3C: Investment Company Act Section 3(c) Item 3C.7: Section 3(c)(7)
+- **4 - Horton Anthony R (0001699604) (Reporting)**
+  - when: 2026-08-25T10:56:11-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1699604/000169960426000010/0001699604-26-000010-index.htm
+  - Filed: 2026-08-25 AccNo: 0001699604-26-000010 Size: 5 KB
+- **4 - TEAM INC (0000318833) (Issuer)**
+  - when: 2026-08-25T10:56:11-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/318833/000169960426000010/0001699604-26-000010-index.htm
+  - Filed: 2026-08-25 AccNo: 0001699604-26-000010 Size: 5 KB
+- **4 - Green Steven K. (0001733836) (Reporting)**
+  - when: 2026-08-25T10:56:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1733836/000121390026093343/0001213900-26-093343-index.htm
+  - Filed: 2026-08-25 AccNo: 0001213900-26-093343 Size: 7 KB
+- **4 - FARMERS & MERCHANTS BANCORP (0001085913) (Issuer)**
+  - when: 2026-08-25T10:56:09-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1085913/000121390026093343/0001213900-26-093343-index.htm
+  - Filed: 2026-08-25 AccNo: 0001213900-26-093343 Size: 7 KB
+- **4 - Linares Carlos G. (0001695951) (Reporting)**
+  - when: 2026-08-25T10:56:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/1695951/000031392726000302/0000313927-26-000302-index.htm
+  - Filed: 2026-08-25 AccNo: 0000313927-26-000302 Size: 10 KB
+- **4 - CHURCH & DWIGHT CO INC /DE/ (0000313927) (Issuer)**
+  - when: 2026-08-25T10:56:07-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/313927/000031392726000302/0000313927-26-000302-index.htm
+  - Filed: 2026-08-25 AccNo: 0000313927-26-000302 Size: 10 KB
+- **S-6 - FT 13297 (0002147131) (Filer)**
+  - when: 2026-08-25T10:55:51-04:00
+  - url: https://www.sec.gov/Archives/edgar/data/2147131/000144554626006388/0001445546-26-006388-index.htm
+  - Filed: 2026-08-25 AccNo: 0001445546-26-006388 Size: 71 KB
 
 ## federal-register
 - **Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act**
@@ -157,14 +157,42 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2028-04-13T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10791709/integracion-de-las-salas-de-despacho-durante-los-meses-de-mayo-y-junio-de/
   - EN EL TRIBUNAL SUPREMO DE PUERTO RICO In re: 2018 TSPR 58 Integración de las Salas de Despacho durante los meses de mayo y junio de 200 DPR ____ 2018 Número del Caso: ES-2018-1 Fecha: 13 de abril de 2018 Materia: Resolución del Tribunal. Este documento constituye un documento oficial del Tribunal Supremo que está sujeto a los cambios y correcciones del proceso de compilación y publicación oficial de las decisiones Original document
-- **H. M. v. T. L.**
+- **George Carlton Anthony v. State of Florida**
   - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10956599/h-m-v-t-l/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+  - url: https://www.courtlistener.com/opinion/10957420/george-carlton-anthony-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-1018 LT Case No. 2024-CT-002384-A _____________________________ GEORGE CARLTON ANTHONY, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ On appeal from the County Court for Sumter County. Paul L. Militello, Judge. Seth Hyman, Orlando, for Appellant Original document
+- **Zachary Steven Johnson v. State of Florida**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10957443/zachary-steven-johnson-v-state-of-florida/
+  - SIXTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 6D2023-2658 Lower Tribunal No. 2019-CF-002263-AXXX-XX _____________________________ ZACHARY STEVEN JOHNSON, Appellant, v. STATE OF FLORIDA, Original document
+- **Attorney Grievance Comm'n v. Shuster**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10957430/attorney-grievance-commn-v-shuster/
+  - * IN THE ATTORNEY GRIEVANCE COMMISSION OF MARYLAND * SUPREME COURT * OF MARYLAND v. * AG No. 8 JAY BARRY SHUSTER * September Term, 2026 ORDER Original document
 - **Pavonix (Massachusetts), Inc. v. State of Connecticut, Judicial Branch**
   - when: 2026-08-25T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10956597/pavonix-massachusetts-inc-v-state-of-connecticut-judicial-branch/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **H. M. v. T. L.**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10956599/h-m-v-t-l/
+  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
+- **Michael A. Rhein and Donna L. Rhein v. Daniel Haralambou, Raquel Haralambou, Individually, and as Natural Parent and Guardian of M.H., a Child, and Brittany Dunmire, Individually and as Personal Representative of the Estate of James Knippenberg**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10957413/michael-a-rhein-and-donna-l-rhein-v-daniel-haralambou-raquel/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-0783 LT Case No. 2021-CA-000300 _____________________________ MICHAEL A. RHEIN and DONNA L. RHEIN, Appellants, v. DANIEL HARALAMBOU, RAQUEL HARALAMBOU, Individually, and as Natural Parent and Guardian of M.H., a Child, and BRITTANY DUNMIRE, Individually and as Personal Representative of the Original document
+- **State of Maine v. Robert J. Hart**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10957451/state-of-maine-v-robert-j-hart/
+  - MAINE SUPREME JUDICIAL COURT Reporter of Decisions Decision: 2026 ME 92 Docket: And-24-525 Argued: April 7, 2026 Decided: August 25, 2026 Panel: STANFILL, C.J., and MEAD, CONNORS, LAWRENCE, and DOUGLAS, JJ. STATE OF MAINE v. ROBERT J. HART STANFILL, C.J. [¶1] Robert J. Hart appeals from a judgment Original document
+- **Danielle Smith v. State**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10957449/danielle-smith-v-state/
+  - Court of Appeals of the State of Georgia ATLANTA,____________________ August 25, 2026 The Court of Appeals hereby passes the following order: A27A0210. DANIELLE SMITH v. THE STATE. Danielle Smith was indicted on one count each of impersonating an officer, conspiracy to commit theft by taking, possession of a false identification document, and obstruction of an officer. On February 2, 2026, she entered Original document
+- **Dakota Manucy Constantin v. State of Florida**
+  - when: 2026-08-25T00:00:00-07:00
+  - url: https://www.courtlistener.com/opinion/10957425/dakota-manucy-constantin-v-state-of-florida/
+  - FIFTH DISTRICT COURT OF APPEAL STATE OF FLORIDA _____________________________ Case No. 5D2025-2701 LT Case No. 2018-000452-CFMA _____________________________ DAKOTA MANUCY CONSTANTIN, Appellant, v. STATE OF FLORIDA, Appellee. _____________________________ 3.800 Appeal from the Circuit Court for St. Johns County. R. Lee Smith, Judge. Ryan McFarland, of Kent &amp; Original document
 - **F. S. v. J. S.**
   - when: 2026-08-25T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10956600/f-s-v-j-s/
@@ -173,34 +201,6 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-08-25T00:00:00-07:00
   - url: https://www.courtlistener.com/opinion/10956598/o-c-v-w-i/
   - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **360 M.S.R. Associates, LLC v. 350 Main Street Middletown, LLC**
-  - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10956602/360-msr-associates-llc-v-350-main-street-middletown-llc/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Toste**
-  - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10954385/state-v-toste/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Acevedo**
-  - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10956595/state-v-acevedo/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Lasa Extract, LLC v. Zoning Board of Appeals**
-  - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10954386/lasa-extract-llc-v-zoning-board-of-appeals/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **State v. Fisher**
-  - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10956594/state-v-fisher/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Callahan v. iCare Health Management, LLC**
-  - when: 2026-08-25T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10956601/callahan-v-icare-health-management-llc/
-  - ************************************************ The “officially released” date that appears near the beginning of an opinion is the date the opinion will be published in the Connecticut Law Journal or the date it is released as a slip opinion. The operative date for the beginning of all time periods for the filing of postopinion motions and petitions for certification is the “officially released” date appearing in the opinion. All opinions are subject to modification and technical correction Original document
-- **Richard Highbaugh v. Exelead, Inc.**
-  - when: 2026-08-24T00:00:00-07:00
-  - url: https://www.courtlistener.com/opinion/10956624/richard-highbaugh-v-exelead-inc/
-  - In the United States Court of Appeals For the Seventh Circuit ____________________ No. 25-2638 RICHARD HIGHBAUGH, Plaintiff-Appellant, v. EXELEAD, INC., Defendant-Appellee. ____________________ Appeal from the United States District Court for the Southern District Original document
 
 ## uk-legislation
 - **The Air Navigation (Restriction of Flying) (Daresbury, Cheshire) Regulations 2026**
@@ -209,6 +209,14 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
 - **The Air Navigation (Restriction of Flying) (Little Gransden Airshow) Regulations 2026**
   - when: 2026-08-25T06:51:02+01:00
   - url: http://www.legislation.gov.uk/id/uksi/2026/936
+- **Correction Slip**
+  - when: 2026-08-25T09:03:17+01:00
+  - url: http://www.legislation.gov.uk/uksi/2025/1053/pdfs/uksics_20251053_en_001.pdf
+  - These Regulations set the level of charges payable to the Office of Communications (“OFCOM”) in respect of the Spectrum access 2100 MHz paired licence class, for wireless telegraphy licences granted under section 8 of the Wireless Telegraphy Act 2006 which authorise the use of the frequencies 1920 to 1979.7 megahertz and 2110.3 to 2169.7 megahertz.
+- **Correction Slip**
+  - when: 2026-08-25T11:31:37+01:00
+  - url: http://www.legislation.gov.uk/uksi/2025/967/pdfs/uksics_20250967_en_001.pdf
+  - These Regulations set the level of charges payable to the Office of Communications (“OFCOM”) in respect of the Spectrum access 900 MHz and 1800 MHz licence class, for wireless telegraphy licences granted under section 8 of the Wireless Telegraphy Act 2006 which authorises the use of the frequencies 880.1 to 914.9 megahertz and 925.1 to 959.9 megahertz, 1710.0 to 1781.7 megahertz and 1805.1 to 1876.7 megahertz.
 - **The Wildlife Management and Muirburn (Scotland) Act 2024 (Consequential Amendments) Regulations 2026**
   - when: 2026-08-24T08:30:32+01:00
   - url: http://www.legislation.gov.uk/id/ssi/2026/240
@@ -236,11 +244,3 @@ Primary-source intake only. News articles are not listed here. Pick leads from d
   - when: 2026-08-20T10:18:37+01:00
   - url: http://www.legislation.gov.uk/id/ssi/2026/238
   - This Act of Sederunt amends the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019 (“the 2019 Rules”).
-- **The Children’s Wellbeing and Schools Act 2026 (Commencement No. 3) (England) Regulations 2026**
-  - when: 2026-08-20T03:04:16+01:00
-  - url: http://www.legislation.gov.uk/id/uksi/2026/933
-  - These Regulations bring into force the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the third commencement regulations to be made under the Act which bring into force provisions of the Act in relation to England only.
-- **Correction Slip**
-  - when: 2026-08-20T12:09:06+01:00
-  - url: http://www.legislation.gov.uk/uksi/2025/1135/pdfs/uksics_20251135_en_001.pdf
-  - These Rules set out the procedure for the conduct of T&S administration proceedings in England and Wales. T&S administration is a special insolvency regime specifically created for companies holding licences under section 7 of the Energy Act 2023.

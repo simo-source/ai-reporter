@@ -18,6 +18,22 @@
   {
     "source": "uk-legislation",
     "type": "gazette",
+    "title": "Correction Slip",
+    "url": "http://www.legislation.gov.uk/uksi/2025/1053/pdfs/uksics_20251053_en_001.pdf",
+    "published": "2026-08-25T09:03:17+01:00",
+    "summary": "These Regulations set the level of charges payable to the Office of Communications (“OFCOM”) in respect of the Spectrum access 2100 MHz paired licence class, for wireless telegraphy licences granted under section 8 of the Wireless Telegraphy Act 2006 which authorise the use of the frequencies 1920 to 1979.7 megahertz and 2110.3 to 2169.7 megahertz."
+  },
+  {
+    "source": "uk-legislation",
+    "type": "gazette",
+    "title": "Correction Slip",
+    "url": "http://www.legislation.gov.uk/uksi/2025/967/pdfs/uksics_20250967_en_001.pdf",
+    "published": "2026-08-25T11:31:37+01:00",
+    "summary": "These Regulations set the level of charges payable to the Office of Communications (“OFCOM”) in respect of the Spectrum access 900 MHz and 1800 MHz licence class, for wireless telegraphy licences granted under section 8 of the Wireless Telegraphy Act 2006 which authorises the use of the frequencies 880.1 to 914.9 megahertz and 925.1 to 959.9 megahertz, 1710.0 to 1781.7 megahertz and 1805.1 to 1876.7 megahertz."
+  },
+  {
+    "source": "uk-legislation",
+    "type": "gazette",
     "title": "The Wildlife Management and Muirburn (Scotland) Act 2024 (Consequential Amendments) Regulations 2026",
     "url": "http://www.legislation.gov.uk/id/ssi/2026/240",
     "published": "2026-08-24T08:30:32+01:00",
@@ -141,22 +157,6 @@
     "title": "The Air Navigation (Restriction of Flying) (Llantrisant, South Wales) (Emergency) Regulations 2026",
     "url": "http://www.legislation.gov.uk/id/uksi/2026/928",
     "published": "2026-08-17T11:22:17.069799+01:00",
-    "summary": ""
-  },
-  {
-    "source": "uk-legislation",
-    "type": "gazette",
-    "title": "The Air Navigation (Restriction of Flying) (Blaenavon, South Wales) (Emergency) Regulations 2026",
-    "url": "http://www.legislation.gov.uk/id/uksi/2026/929",
-    "published": "2026-08-17T11:22:11.022607+01:00",
-    "summary": ""
-  },
-  {
-    "source": "uk-legislation",
-    "type": "gazette",
-    "title": "The Air Navigation (Restriction of Flying) (Ferndale, South Wales) (Emergency) Regulations 2026",
-    "url": "http://www.legislation.gov.uk/id/uksi/2026/927",
-    "published": "2026-08-17T11:22:06.564322+01:00",
     "summary": ""
   }
 ]

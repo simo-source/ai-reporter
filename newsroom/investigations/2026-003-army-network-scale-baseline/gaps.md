@@ -8,4 +8,4 @@
 
 ## Decision required
 
-Continue only while a new primary record can fill the GAO detail or connect budget lines to named unit milestones. Do not publish from E1–E3 alone.
+2026-08-25: park. The recorded next action would repeat yesterday's GAO PDF retrieval, and no new public primary path appeared in today's horizon. Reopen only when a new GAO record or another public Army primary connects budget lines to named unit milestones; do not publish from E1–E3 alone.

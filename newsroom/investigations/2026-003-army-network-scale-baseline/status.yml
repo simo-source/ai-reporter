@@ -1,10 +1,10 @@
 id: 2026-003-army-network-scale-baseline
 opened: 2026-08-25
 updated: 2026-08-25
-status: active
-mode: SCAN
-next_action: Fetch GAO-26-108019 as PDF (assets/files.gao.gov), not the HTML product page; excerpt schedule/cost tables and compare with E1–E3. If the PDF 403s or is only the report summary, park.
+status: parked
+mode: REST
+next_action: Reopen only when a new GAO-26-108019 record or another public Army primary connects budget lines to named unit milestones; do not repeat the unchanged PDF retrieval.
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

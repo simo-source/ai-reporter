@@ -1,42 +1,37 @@
-# Journal — 2026-08-25
+## Run 2 — 2026-08-25T16:00:27.393Z
 
 ## Mode
 
 `SCAN`
 
-The Boeing thread was parked before any repeated fetch: its consecutive no-new-primary count was 2, and the next action would have repeated the same docket and search checks. The desk used the remaining workstream on a new, higher-interest GAO/Army lead and did not publish.
+The Army thread's recorded next action is the same GAO PDF retrieval proposed in the previous run. Under the thread-decision rule, it is parked before repeating that fetch. The desk will scan the untouched primary-document leads and may start one new investigation within the three-thread limit; it will not publish merely because the horizon contains fresh records.
 
 ## Thread decisions
 
-- `2026-002-boeing-787-cargo-frame-material`: **park** — no new public primary path is visible, and another run of the same FAA/Boeing checks would repeat yesterday's action.
-- `2026-003-army-network-scale-baseline`: **continue** — three new official Army primary records provide a testable budget/acquisition comparison, while the detailed GAO schedule and cost record remains to be retrieved.
+- `2026-003-army-network-scale-baseline`: **park** — the next action would copy yesterday's GAO PDF retrieval, and no new primary path is visible in today's horizon.
 
 ## What I read
 
-- `newsroom/CONSTITUTION.md`, `newsroom/masthead.yml`, `newsroom/state.json`, prior journal, killfile, overrides, active investigation files, and `newsroom/horizon/2026-08-25/BRIEF.md` — continuity, controls, cadence, prior handoff, and current primary-document intake.
-- `https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2026/pbr/FY26%20Presidents%20Budget%20Highlights.pdf` — PDF pp. 30–31 and p. 43 state the four-layer NGC2 framing, FY2026 fielding of two divisions and a corps, and a $557.6 million request.
-- `https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2026/Discretionary%20Budget/rdte/RDTE%20-%20Vol%202%20-%20Budget%20Activity%204B.pdf` — PDF p. 101 and pp. 301–302, 317–318, 325 describe prototype fabrication, transition to programs of record, project-level FY2026 funding, and the NGC2 schedule entry.
-- `https://www.army.mil/article/287180/army_announces_next_generation_command_and_control_ngc2_prototype_award` — award paragraphs record a $99.6 million, 11-month 4th ID prototype and planned 25th ID/III Corps prototyping.
-- `https://www.gao.gov/products/gao-26-108019` — horizon lead selected for the next retrieval; the full report's detailed schedule/cost tables are not yet captured.
+- `newsroom/state.json`, `newsroom/journal/latest.md`, the active and parked investigation records, killfile, overrides, and `newsroom/horizon/2026-08-25/BRIEF.md` — continuity, controls, prior handoffs, and current primary-document intake.
+- `https://files.gao.gov/assets/gao-26-107385.pdf` — GAO-26-107385, PDF pp. 1, 40–42, and 51–52 — GAO says DOE awarded $2.7 billion in enrichment task orders without a documented economic analysis and had not finalized several key plans as of July 2026.
+- `https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment` — January 5, 2026 DOE announcement, “Enrichment Task Orders” — DOE describes a ten-year, strict-milestone $2.7 billion commitment and names three $900 million task orders.
 
 ## Leads
 
-- Parked `2026-002-boeing-787-cargo-frame-material` under the thread-decision criteria.
-- Scored `2026-08-20-army-network-scale-baseline` at public interest 5, originality 2 pending a second primary excerpt, document-nativeness 5, room to grow 4, legal risk 1; net 15/25. Started it because Army budget and acquisition records offer a plausible second primary path.
-- NASA OIG remains killed by publisher override. Other inbox leads remain unstarted.
+- Scored and started `2026-004-nuclear-fuel-cost-visibility`: public interest 5, originality 3 after two primary excerpts, document-nativeness 5, room to grow 4, legal risk 1; net 16/25. It is stronger than the other untouched inbox leads because the public record offers a concrete award/documentation comparison.
 
 ## Investigation work
 
-`2026-002-boeing-787-cargo-frame-material` is now parked; its missing line-number-to-serial crosswalk remains unproved. `2026-003-army-network-scale-baseline` is active: E1–E3 establish that the Army's public record combines a broad fielding statement, prototype-oriented RDT&E language, and a 4th ID OTA, but do not yet supply a unit-by-fiscal-year schedule or life-cycle cost join.
+The Army investigation is parked pending a new GAO record or another public primary that connects budget lines to named unit milestones. The new nuclear investigation is active: E1–E2 establish a tension between DOE's ten-year, milestone-framed $2.7 billion award announcement and GAO's finding that economic and program-management documentation was not finalized or documented; the award assumptions and milestone details remain unknown. The Boeing investigation remains parked; no new FAA or Boeing primary was found.
 
 ## Pivots and dead ends
 
-The Boeing docket path is parked rather than queried again. The current horizon's SEC, Federal Register, CourtListener, and UK-legislation items were treated as intake only; no recap was promoted to a finding. Secondary search results about GAO were used only to locate official Army and GAO records, not as proof.
+The GAO-26-108019 PDF path is not being retried today because it is the prior run's unchanged next action. No news-derived item will be promoted to proof.
 
 ## Publish decision
 
-Not publishing this week. No article was drafted, and no file was copied to `drafts/` or `published/`. A publishable Army finding requires the GAO detailed record plus a comparison that is not already stated in the report summary, supported by independent primary documents and a skeptic review.
+Not publishing this week. E1–E2 do not prove that DOE's awards were mis-sized or ineffective, and the desk will not turn either agency's summary into a finding. A publishable result requires a later primary record with a measurable mismatch or resolution, followed by skeptic review and validation.
 
 ## Next run
 
-Retrieve and excerpt GAO-26-108019's detailed schedule/cost findings, then compare them with E1–E3 to test whether C2 Fix and NGC2 share an auditable schedule/cost scaling baseline.
+Retrieve DOE's required HALEU availability report and current program-management or award records, then compare their costs, production targets, and milestones with GAO-26-107385 and the January 2026 DOE announcement.

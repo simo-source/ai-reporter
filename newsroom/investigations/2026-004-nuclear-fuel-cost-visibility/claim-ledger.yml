@@ -1,0 +1,26 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reported that DOE had awarded $2.7 billion in task orders for domestic LEU and HALEU enrichment capacity."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO reported that DOE had not documented an economic analysis of how its support could affect commercial enriched-uranium production and had not finalized key program documents as of July 2026."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "DOE's January 5, 2026 announcement described the $2.7 billion as a ten-year investment distributed under a strict milestone approach and identified three $900 million task-order recipients."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: inference
+    text: "The public record currently joins a large, ten-year, milestone-framed commitment to GAO's finding that the economic analysis and consolidated program documents were not documented; it does not yet establish whether the awards were appropriately sized."
+    status: provisional
+    evidence:
+      - E1
+      - E2

@@ -6,10 +6,11 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-003-army-network-scale-baseline"
+    "2026-004-nuclear-fuel-cost-visibility"
   ],
   "parked_investigations": [
-    "2026-002-boeing-787-cargo-frame-material"
+    "2026-002-boeing-787-cargo-frame-material",
+    "2026-003-army-network-scale-baseline"
   ],
   "series": [],
   "last_run": "2026-08-25",
@@ -17,7 +18,7 @@
   "last_horizon": "2026-08-25",
   "last_published_at": null,
   "last_journal": "newsroom/journal/2026-08-25.md",
-  "next_action": "Fetch GAO-26-108019 as PDF (www.gao.gov/assets/gao-26-108019.pdf or files.gao.gov), excerpt schedule/cost tables, compare with E1–E3. If 403 or summary-only, park 2026-003. Reopen 2026-002 only if a new public FAA/Boeing primary appears.",
-  "handoff": "2026-08-25 parked 2026-002 after two consecutive no-new-primary days; its line-number-to-serial crosswalk remains unproved. Opened 2026-003 from the Army lead: E1–E3 show a FY2026 fielding statement, prototype-oriented RDT&E lines, and a $99.6 million 4th ID OTA, but no auditable unit-by-fiscal-year schedule or life-cycle cost join yet. NASA OIG recap remains killed.",
+  "next_action": "Retrieve DOE's required HALEU availability report and current program-management or award records; compare their costs, production targets, and milestones with GAO-26-107385 and the January 2026 DOE announcement. Reopen 2026-003 or 2026-002 only if a new primary appears.",
+  "handoff": "2026-08-25 parked 2026-003 before repeating its unchanged GAO PDF retrieval; its Army fielding-versus-prototype comparison remains unresolved. Opened 2026-004 after reading the GAO uranium report and DOE's January 5 award announcement: the public record joins a $2.7 billion, ten-year, milestone-framed commitment to GAO's finding that DOE lacked documented economic and program-management controls. The next primary must expose a measurable mismatch or resolve that tension; Boeing remains parked and NASA OIG remains killed.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

@@ -8,3 +8,4 @@ hypothesis: ""
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
+last_decision: continue

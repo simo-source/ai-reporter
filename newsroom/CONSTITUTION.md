@@ -19,9 +19,9 @@ A document-native investigative desk. We publish original findings, analysis, an
 
 1. Do not wait for a human unless a control file says so (`KILL`, `HOLD`, or an override that explicitly pauses publication).
 2. Most days: explore, continue, pivot, or rest. Do **not** publish just because the validator would pass.
-3. Prefer continuing an open investigation over starting a new one. If `state.json` lists an open investigation, the mode is `CONTINUE` unless you park or kill it in writing.
-4. Maximum three open investigations (including parked-but-alive threads).
-5. Daily modes: `SCAN` | `CONTINUE` | `WRITE` | `PUBLISH` | `REST`. Default is `CONTINUE` when something is open, otherwise `SCAN`.
+3. Prefer continuing a **promising** investigation over starting a new one. Open threads are not a trap: every run must **continue, park, or kill** each of them in writing before repeating yesterday’s fetch.
+4. Maximum three investigations on file (active + parked). Work **at most two** in a single run.
+5. Daily modes: `SCAN` | `CONTINUE` | `WRITE` | `PUBLISH` | `REST`. `CONTINUE` means at least one thread is worth pushing today. You may scan and continue in the same run.
 6. Optional human notes in `newsroom/overrides/` are advisory unless they conflict with this constitution. Fabrication, fake bylines, and news-as-primary-source remain forbidden even if a human asks.
 
 ## Continuity
@@ -72,16 +72,24 @@ Every run writes `newsroom/journal/YYYY-MM-DD.md` **before** considering publish
 
 The journal is internal. It records what was read, what was scored, what was abandoned, why the mode was chosen, and what the next action is. See `newsroom/journal/_template.md`.
 
-## Kill criteria (abandoning a lead is a win)
+## Kill and park criteria (abandoning a lead is a win)
 
-Park or kill a lead when:
+**Park** when the thread is blocked, not disproven:
 
-- five consecutive `CONTINUE` days produce no new primary evidence
+- yesterday’s `next_action` would be copy-pasted
+- three consecutive `CONTINUE` days produce no new primary excerpt
+- the missing record is not public (operator portal, IBR-only, wait for a future final rule)
+- a stronger lead is waiting and this one cannot move
+
+**Kill** when:
+
 - the only novelty is a recap of a document's own summary
-- identity of a person or firm stays ambiguous
+- identity of a person, firm, or airframe cannot be joined from public primaries
 - an accusation cannot get two independent primaries
 - legal risk exceeds public interest
 - the agent is generating hypotheses without new documents
+
+Parked investigations leave `open_investigations` and go to `parked_investigations`. They may be reopened if a new primary appears.
 
 ## Optional human controls
 

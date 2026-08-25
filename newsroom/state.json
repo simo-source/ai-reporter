@@ -3,17 +3,19 @@
   "autonomous": true,
   "publish_enabled": true,
   "max_open_investigations": 3,
+  "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
     "2026-002-boeing-787-cargo-frame-material"
   ],
+  "parked_investigations": [],
   "series": [],
   "last_run": "2026-08-25",
   "last_mode": "CONTINUE",
   "last_horizon": "2026-08-25",
   "last_published_at": null,
   "last_journal": "newsroom/journal/2026-08-25.md",
-  "next_action": "Check the FAA docket and Boeing/FAA public records for a newly posted final rule or primary line-number-to-serial crosswalk for the nine effectivity airplanes; keep the four-airplane reconciliation provisional.",
-  "handoff": "2026-08-25 CONTINUE rechecked the official FAA docket, supporting-attachment metadata, and Federal Register API. The docket still lists only the NPRM and supplemental-document record, and the rule remains proposed with no final disposition or primary line-number-to-serial crosswalk. E8 was added; the four-airplane reconciliation remains provisional, and the killed NASA recap must not be pursued.",
+  "next_action": "Decide 2026-002 under thread-decision (continue only if a new public primary path exists; otherwise park). Work a second thread from leads/inbox. Do not spend the run only re-querying FAA-2026-8784.",
+  "handoff": "2026-08-25 left 2026-002 blocked on a public line-number-to-serial crosswalk that may not exist. Consecutive no-new-primary is 2. Next run must decide continue/park/kill first, then push a second lead. NASA OIG recap remains killed.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

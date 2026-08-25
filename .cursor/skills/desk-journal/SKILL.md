@@ -14,7 +14,10 @@ Then set in `newsroom/state.json`:
 - `last_run`, `last_mode`, `last_journal`
 - `next_action` — one concrete first step for the next clone of `main`
 - `handoff` — 2–4 sentences the next run can trust without rereading the whole folder
-- `open_investigations` — match the folders that are still alive
+- `open_investigations` — active threads only
+- `parked_investigations` — blocked but reopenable
+
+Include a **Thread decisions** line for each open id.
 
 ## What belongs here
 

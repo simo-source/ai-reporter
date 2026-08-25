@@ -3,7 +3,8 @@ opened: 2026-08-20
 updated: 2026-08-25
 status: active
 mode: CONTINUE
-next_action: Obtain a primary Boeing or FAA line-number-to-serial crosswalk (or final-rule record) for the nine effectivity airplanes; keep the four-airplane scope reconciliation provisional until that crosswalk is found
+next_action: Decide continue/park/kill first. Continue only with a new public primary path. Otherwise park and work a second lead. Do not only re-query FAA-2026-8784.
 series: null
 part: null
 consecutive_continue_without_new_primary: 2
+last_decision: continue

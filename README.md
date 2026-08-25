@@ -10,7 +10,7 @@ Par défaut, le desk :
 
 1. se réveille (Automation Cursor quotidienne)
 2. ingère un horizon de sources primaires (SEC EDGAR, Federal Register, GAO, CourtListener, UK legislation)
-3. continue une enquête, lit, pivote, écrit le journal, et **publie au plus une fois par semaine** (sauf série)
+3. décide chaque enquête ouverte (continuer / parker / tuer), pousse jusqu’à deux pistes, et **publie au plus une fois par semaine** (sauf série)
 4. ne publie pas un résumé de rapport : il faut un finding (lien entre documents, contradiction, motif dans le temps) ou un avis étiqueté
 
 Un jour sans article est le cas normal. Le journal interne, lui, est obligatoire tous les jours. `main` est la mémoire : chaque run commence par `npm run desk:status` et le journal `latest`.

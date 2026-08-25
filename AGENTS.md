@@ -17,7 +17,7 @@ Read, in order, then act:
 
 Then follow `.cursor/skills/daily-desk/SKILL.md`.
 
-If `state.json` lists an open investigation, today's mode is `CONTINUE` unless you are parking or killing it with a written reason. Do not SCAN as if the desk were empty.
+If `state.json` lists an open investigation, decide **continue / park / kill** for each one before fetching. Do not SCAN as if the desk were empty, and do not CONTINUE as if an open id were a life sentence.
 
 ## Default posture
 
@@ -37,6 +37,7 @@ Spend the token budget on documents and the journal, not on polishing a recap.
 - Writing to `published/` and `drafts/` with the same article
 - Skipping the daily journal
 - Starting the day by ignoring `state.next_action`
+- Spending a whole run re-querying an unchanged docket or repeating yesterday’s `next_action`
 
 ## After every run
 

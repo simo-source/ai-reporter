@@ -45,4 +45,4 @@ Write `newsroom/leads/inbox/<id>.md` with:
 - why it might be wrong
 - whether it could be a series
 
-Start at most one new investigation per day, and only if none are already open. Prefer `CONTINUE`. Cap open investigations at three.
+Start at most one new investigation per day, and only if fewer than three are on file (active + parked) and fewer than two will be worked today. An open thread that you park the same day frees a slot. Prefer continuing a promising thread; park a blocked one instead of idling on it.

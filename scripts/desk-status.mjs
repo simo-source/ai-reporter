@@ -22,6 +22,8 @@ async function main() {
   console.log(`last_horizon: ${state.last_horizon ?? "(none)"}`);
   console.log(`last_published_at: ${state.last_published_at ?? "(none)"}`);
   console.log(`open_investigations: ${(state.open_investigations || []).join(", ") || "(none)"}`);
+  console.log(`parked_investigations: ${(state.parked_investigations || []).join(", ") || "(none)"}`);
+  console.log(`max_active_workstreams_per_run: ${state.max_active_workstreams_per_run ?? 2}`);
   console.log(`next_action: ${state.next_action ?? "(none)"}`);
   if (state.handoff) print("Handoff", state.handoff);
 
@@ -54,6 +56,7 @@ async function main() {
       `mode: ${status.mode}`,
       `next_action: ${status.next_action}`,
       `consecutive_continue_without_new_primary: ${status.consecutive_continue_without_new_primary ?? 0}`,
+      `last_decision: ${status.last_decision ?? "(none)"}`,
     ];
     if (existsSync(hypothesisPath)) {
       parts.push("", await readFile(hypothesisPath, "utf8"));
@@ -65,8 +68,8 @@ async function main() {
   }
 
   if ((state.open_investigations || []).length) {
-    console.log("\n## Required mode\n");
-    console.log("CONTINUE (an investigation is already open). Do not SCAN as if the desk were empty.");
+    console.log("\n## Decision required\n");
+    console.log("For each open investigation: continue, park, or kill in writing before repeating yesterday's fetch. Work at most two threads. Do not treat an open id as a life sentence.");
   }
 }
 

@@ -59,3 +59,11 @@
 - Locator: JSON `data`, `meta.totalElements`, and each document's `id`, `documentType`, `title`, and `lastModifiedDate`.
 - Captured excerpt: The docket contains two documents: the NPRM `FAA-2026-8784-0001` and the supporting-document record `FAA-2026-8784-0002`; no final-rule document or line-number-to-serial crosswalk is listed.
 - Why it matters: E7 records that the public docket still does not supply the primary crosswalk or a final-rule record needed to resolve C8. The single public comment and its recommendations were not used as proof.
+
+## E8 — FAA docket and Federal Register status recheck
+
+- URLs: https://api.regulations.gov/v4/documents?filter%5BdocketId%5D=FAA-2026-8784&page%5Bsize%5D=50&api_key=DEMO_KEY; https://api.regulations.gov/v4/documents/FAA-2026-8784-0002/attachments?api_key=DEMO_KEY; https://www.federalregister.gov/api/v1/documents/2026-17056.json
+- Retrieved: 2026-08-25T07:02:45Z
+- Locators: Regulations.gov JSON `meta.totalElements`, each `data[].id`, `data[].documentType`, `data[].lastModifiedDate`, and attachment `data[0].attributes.fileFormats`; Federal Register JSON `type`, `effective_on`, `disposition_notes`, `dockets[0].supporting_documents`, and `comments_close_on`.
+- Captured excerpt: The docket still has two records—NPRM `FAA-2026-8784-0001` and supporting material `FAA-2026-8784-0002`; its attachment remains the 4,617,647-byte Boeing bulletin PDF. The Federal Register record remains a proposed rule with `effective_on: null` and `disposition_notes: null`; no final rule or line-number-to-serial crosswalk is exposed.
+- Why it matters: E8 is a dated primary-record status check. It adds no new document and leaves C8 provisional; the missing crosswalk remains the gating evidence.

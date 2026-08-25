@@ -8,4 +8,5 @@
 - 2026-08-22 — Retrieved the official docket attachment with browser-like request headers. The bulletin lists nine 787-8 effectivity line numbers on p. 3 and affected delivered/detail-part batches in Appendix A, pp. 151–152. The comparison supports a scope distinction against the proposal’s four-airplane U.S.-registry cost base; it does not establish an error.
 - 2026-08-23 — Retrieved the official FAA registry download and checked its current 787-8 records. Four candidate U.S. records (N883BM/66003, N884AA/66004, N885BP/66005, N886BR/66006) are valid, but the FAA records do not expose Boeing line numbers; the exact reconciliation remains provisional.
 - 2026-08-24 — Rechecked the official Regulations.gov docket API. It still lists only the NPRM and supplemental-document record; no final rule or primary line-number-to-serial crosswalk is present.
+- 2026-08-25 — Rechecked the official Regulations.gov docket, supporting-attachment metadata, and Federal Register API. The docket and rule remain unchanged; no final rule or primary line-number-to-serial crosswalk is present.
 - 2026-10-05 — FAA comment deadline stated in the proposal.

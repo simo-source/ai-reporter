@@ -3,7 +3,7 @@ opened: 2026-08-25
 updated: 2026-08-25
 status: active
 mode: SCAN
-next_action: Retrieve and compare the GAO report's detailed schedule/cost findings with Army FY2026 budget and acquisition records; test whether the claimed fielding baseline is measurable.
+next_action: Fetch GAO-26-108019 as PDF (assets/files.gao.gov), not the HTML product page; excerpt schedule/cost tables and compare with E1–E3. If the PDF 403s or is only the report summary, park.
 series: null
 part: null
 consecutive_continue_without_new_primary: 0

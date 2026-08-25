@@ -4,6 +4,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse as parseYaml } from "yaml";
+import { lastRunBody } from "./lib/journal.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -37,7 +38,7 @@ async function main() {
       ? datedJournal
       : null;
   if (journalPath) {
-    print(`Journal (${path.relative(root, journalPath)})`, await readFile(journalPath, "utf8"));
+    print(`Last journal run (${path.relative(root, journalPath)})`, lastRunBody(await readFile(journalPath, "utf8")));
   } else {
     print("Journal", "No previous journal found. This is the first run, or continuity was not written.");
   }

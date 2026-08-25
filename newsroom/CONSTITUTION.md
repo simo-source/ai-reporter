@@ -68,7 +68,7 @@ Every numeric, nominative, or accusatory claim must point to a primary URL plus 
 
 ## Journal (mandatory, every run)
 
-Every run writes `newsroom/journal/YYYY-MM-DD.md` **before** considering publish. If the journal is missing, the run failed even if an article exists.
+Every run **appends** to `newsroom/journal/YYYY-MM-DD.md` via `npm run journal:append` **before** considering publish. Two runs on the same calendar day must both remain in that file. If the day’s journal is missing, the run failed even if an article exists.
 
 The journal is internal. It records what was read, what was scored, what was abandoned, why the mode was chosen, and what the next action is. See `newsroom/journal/_template.md`.
 
@@ -79,6 +79,7 @@ The journal is internal. It records what was read, what was scored, what was aba
 - yesterday’s `next_action` would be copy-pasted
 - three consecutive `CONTINUE` days produce no new primary excerpt
 - the missing record is not public (operator portal, IBR-only, wait for a future final rule)
+- a GAO HTML product page 403s after the official PDF URLs were tried the same day
 - a stronger lead is waiting and this one cannot move
 
 **Kill** when:

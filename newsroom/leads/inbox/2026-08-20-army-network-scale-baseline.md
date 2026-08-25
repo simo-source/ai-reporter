@@ -3,12 +3,12 @@
 ## Scores
 
 - Public interest: 5/5
-- Originality: 2/5
+- Originality: 3/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 15/25
-- Score note: Originality capped at 2 until Army budget or acquisition records are excerpted. The GAO report's own critique is not yet a finding.
+- Net: 16/25
+- Score note: Raised 2026-08-25 after E1–E3 (Army budget highlights, RDT&E justification, NGC2 prototype award). Still not 4+ until GAO-26-108019 tables are excerpted and compared.
 
 ## Hypothesis
 

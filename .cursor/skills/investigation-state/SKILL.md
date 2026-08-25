@@ -31,6 +31,6 @@ newsroom/investigations/<yyyy-nnn-slug>/
 - After **three** consecutive CONTINUE days with no new primary excerpt, or two days with the same `next_action`, park or kill. Write why in `gaps.md`. Repeating an unchanged API query is not new evidence.
 - Do not commit PDFs or zips. URL, retrieved date, locator, short excerpt.
 - Append traces of the run (what you searched, what you opened) to `traces/YYYY-MM-DD.md`.
-- Also append a human-readable day to `newsroom/journal/YYYY-MM-DD.md` and copy it to `newsroom/journal/latest.md`. The desk journal is mandatory even if the investigation folder is unchanged.
+- Also write this run to `newsroom/journal/_incoming.md` and run `npm run journal:append`. Never overwrite a dated journal that already exists.
 - Copy `status.yml` `next_action` into `newsroom/state.json` `next_action` (or a short portfolio sentence if two threads are active). Write a 2–4 sentence `handoff` the next clone can trust.
 - Update `newsroom/state.json` `open_investigations` (active only) and `parked_investigations` to match reality.

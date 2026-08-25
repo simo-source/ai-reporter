@@ -13,6 +13,7 @@ newsroom/investigations/**/evidence/raw/
 newsroom/investigations/**/evidence/*.pdf
 newsroom/investigations/**/evidence/*.zip
 newsroom/investigations/**/interviews/
+newsroom/journal/_incoming.md
 *.pem
 *.key
 credentials.json

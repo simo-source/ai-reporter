@@ -32,4 +32,4 @@ Publish / not this week / series part N. One paragraph. If not publishing, say w
 
 ## Next run
 
-Concrete first action for tomorrow. This sentence is copied into `state.json` `next_action`.
+Write this run to `newsroom/journal/_incoming.md`, then run `npm run journal:append`. Do not overwrite `YYYY-MM-DD.md` if it already exists.

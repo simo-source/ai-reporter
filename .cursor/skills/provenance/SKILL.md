@@ -27,3 +27,13 @@ When you open a document, store in `evidence/`:
 Never commit full dumps of personal data. Prefer public permalinks.
 
 Do not commit PDFs, zips, or other binaries. URL + retrieved date + locator + a short excerpt is the evidence record.
+
+## Blocked official pages
+
+`gao.gov/products/...` often returns HTTP 403. Same day, before parking:
+
+1. `https://www.gao.gov/assets/<gao-id>.pdf`
+2. `https://files.gao.gov/assets/<gao-id>.pdf`
+3. the RSS item’s `pdf_url` from today’s horizon, if present
+
+If those fail or the PDF is only the report’s own “What GAO Found” summary, park. Do not spend the next morning retrying the HTML product page.

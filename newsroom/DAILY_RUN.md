@@ -16,11 +16,11 @@ Open threads are not a trap. For each open investigation, decide continue / park
 Most days you do not publish. Cadence is at most one public piece per week, or the next part of a named series.
 
 1. Run `npm run preflight`. If it exits 10, stop.
-2. Install if needed (`npm install`), then `npm run desk:status`, then `npm run ingest`.
+2. Install if needed (`npm install`), then `npm run desk:status`, then `npm run ingest` (no-ops if today's horizon already exists).
 3. Follow `.cursor/skills/daily-desk/SKILL.md` and `.cursor/skills/thread-decision/SKILL.md`.
 4. Decide every open thread first. Then push research on up to two promising ones. You may SCAN while something is parked or open.
-5. Primary documents only. News is not proof.
-6. Every run must write newsroom/journal/YYYY-MM-DD.md and copy it to newsroom/journal/latest.md. Update state.json next_action, handoff, open_investigations, and parked_investigations. A run without a journal is a failed run.
+5. Primary documents only. News is not proof. If a GAO product page 403s, try the assets PDF the same day; do not retry the HTML tomorrow.
+6. Every run must write newsroom/journal/_incoming.md then `npm run journal:append`. That appends to the dated journal. Never overwrite a journal that already exists. Update state.json next_action, handoff, open_investigations, and parked_investigations. A run without a journal is a failed run.
 7. Do not commit PDFs or zip files. URL + locator + short excerpt only.
 8. Do not put the same article in both drafts/ and published/.
 9. Before any publish: skeptic pass, then `npm run validate -- <file>`.

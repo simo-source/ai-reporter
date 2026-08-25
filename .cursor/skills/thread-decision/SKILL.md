@@ -24,6 +24,7 @@ Park when:
 - three consecutive `CONTINUE` days add no new primary excerpt
 - the missing document is incorporated-by-reference, operator-only, or otherwise not public
 - a better lead is sitting in `leads/inbox/` and this thread cannot move without a future filing
+- a GAO (or similar) HTML product page returns 403 **and** the official PDF candidates were tried the same day and still failed, or the PDF is only the report’s own summary
 
 Write why in `gaps.md`. Set `status: parked`. Remove the id from `state.open_investigations`; add it to `state.parked_investigations`. A parked thread may be reopened if a new primary appears.
 

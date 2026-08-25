@@ -28,6 +28,8 @@ Read as many documents as the run allows. The cap only stops a single-document r
 - Naming a second URL you have not opened does **not** raise the cap
 - **3–5** only after that second excerpt exists, and only if document 1 alone would not have been enough
 
+When the second excerpt lands, **edit the lead file the same day**. Leaving originality at 2 after three Army budget records is a scoring error.
+
 Reject immediately if:
 
 - the best URL is a newspaper, blog, or aggregator

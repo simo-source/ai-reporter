@@ -13,7 +13,7 @@ Read, in order, then act:
 7. `newsroom/killfile.md`
 8. `newsroom/overrides/` (all files)
 9. `newsroom/HOLD` — if it exists, you may investigate and draft; you must not publish.
-10. Today's `newsroom/horizon/` brief (run `npm run ingest` if it is stale or missing).
+10. Today's `newsroom/horizon/` brief (`npm run ingest` no-ops if `latest.json` is already today).
 
 Then follow `.cursor/skills/daily-desk/SKILL.md`.
 
@@ -41,4 +41,4 @@ Spend the token budget on documents and the journal, not on polishing a recap.
 
 ## After every run
 
-Write `newsroom/journal/YYYY-MM-DD.md` and copy it to `newsroom/journal/latest.md`. Update `newsroom/state.json` (`last_run`, `last_mode`, `last_journal`, `next_action`, `handoff`, `open_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`. Commit investigation work even when nothing is published. Run `npm run validate:all` before copying anything into `newsroom/published/`.
+Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `newsroom/journal/YYYY-MM-DD.md` and refreshes `latest.md`. Never overwrite a dated journal. Update `newsroom/state.json` (`last_run`, `last_mode`, `last_journal`, `next_action`, `handoff`, `open_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`. Commit investigation work even when nothing is published. Run `npm run validate:all` before copying anything into `newsroom/published/`.

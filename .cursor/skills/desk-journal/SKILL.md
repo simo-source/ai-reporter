@@ -5,9 +5,13 @@ description: Writes the mandatory internal desk journal for The Primary Record. 
 
 # Desk journal
 
-If today’s journal file does not exist, the run failed.
+If today’s journal was not appended, the run failed.
 
-Write `newsroom/journal/YYYY-MM-DD.md` from `newsroom/journal/_template.md`. Copy the same body to `newsroom/journal/latest.md`. Do this **before** copying anything to `published/`.
+Write this run’s body to `newsroom/journal/_incoming.md` from `newsroom/journal/_template.md`. Then run `npm run journal:append`.
+
+That script **appends** a `## Run N` section to `newsroom/journal/YYYY-MM-DD.md` and copies **only this run** to `newsroom/journal/latest.md`. Do **not** overwrite a dated journal that already exists. Two runs on the same day must both survive.
+
+Do this **before** copying anything to `published/`.
 
 Then set in `newsroom/state.json`:
 

@@ -4,6 +4,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse as parseYaml } from "yaml";
+import { horizonIsFresh, utcStamp } from "../lib/horizon.mjs";
 import { ingest as secEdgar } from "./sources/sec-edgar.mjs";
 import { ingest as federalRegister } from "./sources/federal-register.mjs";
 import { ingest as gao } from "./sources/gao.mjs";
@@ -26,7 +27,7 @@ async function userAgent() {
 }
 
 function stamp() {
-  return new Date().toISOString().slice(0, 10);
+  return utcStamp();
 }
 
 function toBrief(bundles) {
@@ -52,6 +53,7 @@ function toBrief(bundles) {
       lines.push(`- **${item.title || "(untitled)"}**`);
       if (item.published) lines.push(`  - when: ${item.published}`);
       if (item.url) lines.push(`  - url: ${item.url}`);
+      if (item.pdf_url) lines.push(`  - pdf: ${item.pdf_url}`);
       if (item.summary) lines.push(`  - ${item.summary.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()}`);
     }
     lines.push("");
@@ -65,8 +67,22 @@ async function main() {
     process.exit(10);
   }
 
-  const ua = await userAgent();
+  const force = process.argv.includes("--force");
   const day = stamp();
+  const latestPath = path.join(root, "newsroom/horizon/latest.json");
+  if (!force && existsSync(latestPath)) {
+    try {
+      const latest = JSON.parse(await readFile(latestPath, "utf8"));
+      if (horizonIsFresh(latest, day)) {
+        console.log(`Horizon already ${day}. Skip ingest (pass --force to refresh).`);
+        return;
+      }
+    } catch {
+      // stale or unreadable latest.json — ingest
+    }
+  }
+
+  const ua = await userAgent();
   const outDir = path.join(root, "newsroom/horizon", day);
   await mkdir(outDir, { recursive: true });
 

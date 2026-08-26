@@ -1,10 +1,10 @@
 id: 2026-004-nuclear-fuel-cost-visibility
 opened: 2026-08-25
-updated: 2026-08-25
-status: active
-mode: CONTINUE
-next_action: Retrieve the DOE HALEU availability report and current program-management or award records; compare their stated deliverables and costs with GAO-26-107385's finding that DOE lacks a documented economic analysis and finalized plan.
+updated: 2026-08-26
+status: parked
+mode: REST
+next_action: Reopen only if a new DOE or NNSA primary record exposes HALEU availability, award milestones, production targets, or the missing economic analysis; do not repeat the unchanged report retrieval.
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

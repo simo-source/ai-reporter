@@ -9,3 +9,7 @@
 ## Decision required
 
 Continue while a distinct public DOE/NNSA record can test the award assumptions. Park after two runs with the same retrieval action or if the missing plan is nonpublic; kill if the only possible output is a recap of GAO or DOE's own summaries.
+
+## 2026-08-26 decision
+
+Parked. The recorded next action was the same DOE HALEU-report and program-record retrieval carried forward from the prior run, and today's horizon supplied no distinct DOE/NNSA record that tests the award assumptions. Reopen only when a new public primary exposes the missing costs, milestones, production targets, or economic analysis.

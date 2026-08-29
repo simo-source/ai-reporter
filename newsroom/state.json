@@ -12,12 +12,12 @@
     "2026-004-nuclear-fuel-cost-visibility"
   ],
   "series": [],
-  "last_run": "2026-08-28",
+  "last_run": "2026-08-29",
   "last_mode": "SCAN",
-  "last_horizon": "2026-08-28",
+  "last_horizon": "2026-08-29",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-08-28.md",
-  "next_action": "Scan the 2026-08-29 primary-document horizon for a distinct DOE/NNSA HALEU record, FAA/Boeing cargo-frame crosswalk or materially relevant final rule, Army primary tying network budget lines to named unit milestones, or a retrievable follow-up primary on attack-submarine maintenance; do not repeat today's failed GAO PDF paths or unchanged docket retrievals.",
-  "handoff": "2026-08-28 kept Boeing, Army, and nuclear-fuel investigations parked because today's primary intake did not meet any reopening condition. The GAO attack-submarine maintenance intake and Navy FY2026 budget create a 17/25 research lead comparing operational-day losses with public maintenance and resource-day measures, but the full GAO PDF failed through both official asset paths and the lead was not opened because three investigations are already on file. No article was drafted or published; NASA OIG remains killed.",
+  "last_journal": "newsroom/journal/2026-08-29.md",
+  "next_action": "Check GAO's official performance/accountability and budget records for an itemized IT-modernization cost and initiative-milestone trail; do not repeat the OIG product page or FY2024 performance-plan retrieval. If no such record is public, keep the lead in inbox and scan for a primary that meets a parked investigation's reopening condition.",
+  "handoff": "2026-08-29 kept Boeing, Army, and nuclear-fuel investigations parked because today's horizon supplied no new primary meeting their reopening conditions. I screened and recorded a 14/25 GAO IT-modernization lead by comparing OIG-26-2 with GAO-23-900466, but its originality remains capped at 2 until an independent cost or milestone record is found. No investigation was opened, no article was drafted or published, and NASA OIG remains killed.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
 }

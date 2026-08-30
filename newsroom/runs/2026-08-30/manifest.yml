@@ -1,0 +1,49 @@
+date: 2026-08-30
+mode: SCAN
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: dependencies verified; temporary PDF parser used for primary reading
+desk_status:
+  ran: true
+  result: previous run read successfully
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-08-30/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 1
+  started: []
+  parked: []
+  killed: []
+  scored_ids:
+    - 2026-08-28-navy-submarine-maintenance
+investigations:
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+parked_investigations:
+  - 2026-002-boeing-787-cargo-frame-material
+  - 2026-003-army-network-scale-baseline
+  - 2026-004-nuclear-fuel-cost-visibility
+publication:
+  published: false
+  reason: No parked investigation met its reopening condition; the Navy item remains an inbox lead and no article was drafted or published
+journal: newsroom/journal/2026-08-30.md

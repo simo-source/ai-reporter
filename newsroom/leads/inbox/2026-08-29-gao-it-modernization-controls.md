@@ -3,12 +3,12 @@
 ## Scores
 
 - Public interest: 4/5
-- Originality: 2/5
+- Originality: 3/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 14/25
-- Score note: The new OIG report is a strong primary starting point, but originality stays capped at 2 until an independent budget, accounting, contract, or performance record is retrieved and excerpted. The report's own findings are not a finding by themselves.
+- Net: 15/25
+- Score note: Separate GAO management and OIG records now provide a dated comparison: the FY2025 performance report records resource-driven deferrals of high-priority technology work, while the later OIG audit says initiative-level costs were not easily reportable. This remains a lead, not a finding; the audit's own control conclusions are not proof of waste.
 
 ## Hypothesis
 
@@ -29,6 +29,8 @@ The new finding would compare the OIG's count of 39 completed initiatives out of
 
 - OIG-26-2, “Fast Facts” and “What the OIG Found”: GAO says it moved from a five-year modernization plan to an ongoing strategy less than 18 months after the plan was finalized; as of May 2026, 39 of 61 initiatives were reported complete, while some smaller initiatives were tracked under larger projects. URL: https://www.gao.gov/products/oig-26-2
 - GAO-23-900466, “Challenge: Establishing IT Systems for the Future of Work”: the FY2024 performance plan says the five-year IT modernization plan was adopted in FY2022, describes a four-year enterprise-content-management roadmap, and reports an 80-percent FY2024 target for the IT-tools measure against 56 percent actual performance in FY2022. URL: https://www.gao.gov/assets/gao-23-900466.pdf
+- GAO-26-900644, Performance and Accountability Report, FY2025, “From the Chief Financial Officer,” pp. 96–97: GAO reports an enacted FY2025 budget of $811.9 million, says resource constraints deferred high-priority IT hardware, intranet modernization, data analytics and AI, and identity-management work, while cloud migration and new time-and-attendance and document-management applications continued. URL: https://www.gao.gov/assets/gao-26-900644.pdf (retrieved 2026-08-30).
+- OIG-26-2SP, Spring Semiannual Report, “Audits, Inspections, and Evaluations” and “Recommendation Status”: for October 1, 2025–March 31, 2026, the OIG says an audit of GAO’s IT-modernization implementation was continuing; the same report records the separate OIG-25-1 cloud-cost recommendation as closed after GAO updated its cloud cost-management process. URL: https://www.gao.gov/assets/890/885898.pdf (retrieved 2026-08-30).
 
 ## Human stake
 

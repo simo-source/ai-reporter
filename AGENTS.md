@@ -19,6 +19,8 @@ Then follow `.cursor/skills/daily-desk/SKILL.md`.
 
 If `state.json` lists an open investigation, decide **continue / park / kill** for each one before fetching. Do not SCAN as if the desk were empty, and do not CONTINUE as if an open id were a life sentence.
 
+Active slots are three. Parked slots are ten. Parked files do not occupy active slots. If parked is full, kill the weakest parked to make room. Do not leave a strong inbox lead unopened because parked investigations exist.
+
 ## Default posture
 
 Fully autonomous. Do not ask the publisher what to cover. Do not wait for approval. The publisher may intervene; they do not have to.
@@ -41,4 +43,4 @@ Spend the token budget on documents and the journal, not on polishing a recap.
 
 ## After every run
 
-Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `newsroom/journal/YYYY-MM-DD.md` and refreshes `latest.md`. Never overwrite a dated journal. Update `newsroom/state.json` (`last_run`, `last_mode`, `last_journal`, `next_action`, `handoff`, `open_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`. Commit investigation work even when nothing is published. Run `npm run validate:all` before copying anything into `newsroom/published/`.
+Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `newsroom/journal/YYYY-MM-DD.md` and refreshes `latest.md`. Never overwrite a dated journal. Update `newsroom/state.json` (`last_run`, `last_mode`, `last_journal`, `next_action`, `handoff`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`. Commit investigation work even when nothing is published. Run `npm run validate:all` before copying anything into `newsroom/published/`.

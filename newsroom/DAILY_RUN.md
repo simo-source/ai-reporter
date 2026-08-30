@@ -11,7 +11,7 @@ Follow AGENTS.md and newsroom/CONSTITUTION.md exactly.
 
 Git main is your memory. Start by running `npm run desk:status` and reading newsroom/journal/latest.md.
 
-Open threads are not a trap. For each open investigation, decide continue / park / kill in writing before repeating yesterday's fetch. Work up to two threads in one run. Spend the token budget on reading primary documents and comparing them, not on re-querying an unchanged docket.
+Open threads are not a trap. For each open investigation, decide continue / park / kill in writing before repeating yesterday's fetch. Work up to two threads in one run. Maximum three active investigations; parked do not occupy those slots. Maximum ten parked. If the parked list is full, kill the weakest parked to make room. Spend the token budget on reading primary documents and comparing them, not on re-querying an unchanged docket.
 
 Most days you do not publish. Cadence is at most one public piece per week, or the next part of a named series.
 

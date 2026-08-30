@@ -28,6 +28,8 @@ Park when:
 
 Write why in `gaps.md`. Set `status: parked`. Remove the id from `state.open_investigations`; add it to `state.parked_investigations`. A parked thread may be reopened if a new primary appears.
 
+If `parked_investigations` is already at 10, **kill** the weakest parked investigation first, then park. Do not refuse the park because the parked list is full.
+
 ## Kill — the hypothesis is spent
 
 Kill when:
@@ -36,15 +38,24 @@ Kill when:
 - identity cannot be joined from public primaries
 - legal risk exceeds public interest
 - the desk is generating hypotheses without documents
+- the parked list is at cap and this parked thread is the weakest (no remaining public path, reopen condition unmet, or lower public interest than the thread that needs the slot)
+- a parked thread has no remaining public reopen path — even below the cap. Do not keep dead files to fill the ten slots.
 
-Write why. Do not reopen without a new hypothesis and a new first document.
+Write why in `gaps.md`. Set `status: killed`. Remove the id from both `open_investigations` and `parked_investigations`. Keep the folder. Do not reopen without a new hypothesis and a new first document.
+
+Killing to make room is authorized. Prefer killing the parked thread with the least remaining public path, not the newest or the one you remember last.
+
+## Capacity
+
+- **Active** (`open_investigations`): max 3. This is the only cap that blocks starting a new investigation.
+- **Parked** (`parked_investigations`): max 10. Does not block starting a new investigation.
+- An inbox lead may become an investigation while other threads are parked, if an active slot is free.
+- Work **at most two** threads in one run. Do not work a third the same day. Do not let one stuck thread consume the whole run.
 
 ## Parallelism
 
-Work **up to two** active threads in one run. Typical split:
+Typical split:
 
-1. Decide every open thread (cheap)
+1. Decide every open thread (cheap). Review parked threads only if you might reopen one or need to kill for parked-list space.
 2. Push the most promising one with real reading
-3. Spend remaining budget on a second thread: reopen a parked lead, or start **one** new investigation if a slot is free
-
-Do not open a third. Do not let one stuck thread consume the whole run.
+3. Spend remaining budget on a second thread: reopen a parked lead, or start **one** new investigation if an active slot is free

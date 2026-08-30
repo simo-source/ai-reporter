@@ -33,4 +33,5 @@ newsroom/investigations/<yyyy-nnn-slug>/
 - Append traces of the run (what you searched, what you opened) to `traces/YYYY-MM-DD.md`.
 - Also write this run to `newsroom/journal/_incoming.md` and run `npm run journal:append`. Never overwrite a dated journal that already exists.
 - Copy `status.yml` `next_action` into `newsroom/state.json` `next_action` (or a short portfolio sentence if two threads are active). Write a 2–4 sentence `handoff` the next clone can trust.
-- Update `newsroom/state.json` `open_investigations` (active only) and `parked_investigations` to match reality.
+- Update `newsroom/state.json` `open_investigations` (active only, max 3) and `parked_investigations` (max 10) to match reality. Parked do not occupy active slots.
+- To kill: set `status: killed`, `last_decision: kill`, write why in `gaps.md`, remove the id from both `open_investigations` and `parked_investigations`. Keep the folder. Killing a parked thread to make room when the parked list is full is required, not optional.

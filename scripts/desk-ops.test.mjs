@@ -3,6 +3,11 @@ import assert from "node:assert/strict";
 import { horizonIsFresh } from "./lib/horizon.mjs";
 import { appendRun, lastRunBody, nextRunNumber } from "./lib/journal.mjs";
 import { gaoPdfCandidates, gaoProductId } from "./lib/gao.mjs";
+import {
+  canParkWithoutKill,
+  canStartInvestigation,
+  slotViolations,
+} from "./lib/slots.mjs";
 
 describe("horizon freshness", () => {
   it("treats today's latest.json as fresh", () => {
@@ -25,6 +30,39 @@ describe("journal append", () => {
     assert.match(second, /CONTINUE/);
     assert.match(second, /## Run 2/);
     assert.equal(lastRunBody(second).includes("SCAN"), false);
+  });
+});
+
+describe("investigation slots", () => {
+  const parkedThree = {
+    max_open_investigations: 3,
+    max_parked_investigations: 10,
+    open_investigations: [],
+    parked_investigations: ["a", "b", "c"],
+  };
+
+  it("lets a new investigation start while others are parked", () => {
+    assert.equal(canStartInvestigation(parkedThree), true);
+    assert.equal(canParkWithoutKill(parkedThree), true);
+    assert.deepEqual(slotViolations(parkedThree), []);
+  });
+
+  it("blocks a fourth active investigation", () => {
+    const full = {
+      ...parkedThree,
+      open_investigations: ["one", "two", "three"],
+    };
+    assert.equal(canStartInvestigation(full), false);
+  });
+
+  it("requires a kill before parking an eleventh thread", () => {
+    const fullGarage = {
+      open_investigations: ["active"],
+      parked_investigations: Array.from({ length: 10 }, (_, i) => `p${i}`),
+    };
+    assert.equal(canParkWithoutKill(fullGarage), false);
+    assert.equal(canStartInvestigation(fullGarage), true);
+    assert.ok(slotViolations({ ...fullGarage, parked_investigations: [...fullGarage.parked_investigations, "p10"] }).length);
   });
 });
 

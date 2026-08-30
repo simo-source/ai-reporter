@@ -3,6 +3,7 @@
   "autonomous": true,
   "publish_enabled": true,
   "max_open_investigations": 3,
+  "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [],
@@ -17,7 +18,7 @@
   "last_horizon": "2026-08-30",
   "last_published_at": null,
   "last_journal": "newsroom/journal/2026-08-30.md",
-  "next_action": "Find a distinct Navy, Naval Sea Systems Command, congressional, or official budget/execution record that tests the GAO-26-109256 inactive-idle projection and the Navy's inactivation or shipyard-capacity response; do not repeat the two failed Navy budget PDF URLs or the already captured GAO-26-109256 and GAO-19-229 reports. Keep the Navy item in inbox unless that record arrives.",
-  "handoff": "2026-08-30 kept Boeing, Army, and nuclear-fuel investigations parked because today's horizon supplied no new primary meeting their reopening conditions. I strengthened the 2026-08-28 Navy submarine-maintenance inbox lead from 17/25 to 18/25 after retrieving GAO-26-109256 and GAO-19-229 through official PDF paths; the lead remains unopened because all three investigation slots are occupied by parked files. No article was drafted or published, and NASA OIG remains killed.",
-  "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Absence of KILL/HOLD does not mean publish today."
+  "next_action": "Publisher 2026-08-30: active slots are 3 and parked no longer occupy them, so the 2026-08-28 Navy submarine-maintenance inbox lead (18/25) may be opened. Fetch a distinct Navy, NAVSEA, congressional, or official budget/execution record that tests GAO-26-109256; do not repeat the two failed Navy budget PDF URLs or the already captured GAO-26-109256 and GAO-19-229 reports. Boeing, Army, and nuclear-fuel remain parked (3/10).",
+  "handoff": "Publisher changed slot rules on 2026-08-30: three active investigations, ten parked, parked do not occupy active slots, kill the weakest parked if the parked list is full. Open list is empty; parked are Boeing, Army NGC2, and nuclear-fuel. The Navy submarine-maintenance inbox lead is the strongest unopened thread and is no longer blocked by the parked files. No article was drafted or published. NASA OIG remains killed.",
+  "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

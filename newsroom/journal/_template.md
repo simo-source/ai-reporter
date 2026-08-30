@@ -8,7 +8,7 @@ Why this mode today (3–8 lines).
 
 ## Thread decisions
 
-For each open investigation: `continue` | `park` | `kill` — one sentence why. Repeating yesterday’s fetch is not a continue.
+For each open investigation: `continue` | `park` | `kill` — one sentence why. Repeating yesterday’s fetch is not a continue. If you killed a parked thread to make room (parked list at 10), record that kill here too.
 
 ## What I read
 

@@ -1,0 +1,11 @@
+id: 2026-005-navy-submarine-maintenance
+opened: 2026-08-30
+updated: 2026-08-30
+status: active
+mode: CONTINUE
+next_action: Locate one distinct post-January-2026 Navy, NAVSEA, congressional, or budget-execution record that reports later SSN availability, inactive-idle days, inactivation, or shipyard-capacity results.
+hypothesis: "The Navy's FY2026 maintenance funding and shipyard-capacity response may not yet demonstrate recovery of the attack-submarine maintenance backlog against its stated 20% maintenance benchmark."
+series: null
+part: null
+consecutive_continue_without_new_primary: 0
+last_decision: continue

@@ -1,0 +1,26 @@
+claims:
+  - id: C1
+    type: fact
+    text: "The CRS table reports 16 SSNs in depot maintenance or awaiting depot maintenance in FY2024, equal to 34% of the 47-boat force, with 31 operationally ready."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "The CRS report says the Navy's stated industry-best-practice goal was about 20% of the SSN force in depot maintenance and none idle at a given moment."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "The CRS report attributes the increase in SSNs in depot maintenance or idle primarily to insufficient workers and facility constraints at the four government-operated Naval Shipyards, with supply-chain issues as an additional issue."
+    status: supported
+    evidence:
+      - E1
+  - id: C4
+    type: inference
+    text: "The public record shows a measurable FY2024 gap between the reported 34% maintenance-or-idle level and the stated 20% benchmark, but it does not yet establish whether FY2026 investments changed that gap."
+    status: provisional
+    evidence:
+      - E1
+      - E2

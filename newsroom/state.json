@@ -6,7 +6,9 @@
   "max_parked_investigations": 10,
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
-  "open_investigations": [],
+  "open_investigations": [
+    "2026-005-navy-submarine-maintenance"
+  ],
   "parked_investigations": [
     "2026-002-boeing-787-cargo-frame-material",
     "2026-003-army-network-scale-baseline",
@@ -14,11 +16,11 @@
   ],
   "series": [],
   "last_run": "2026-08-30",
-  "last_mode": "SCAN",
+  "last_mode": "CONTINUE",
   "last_horizon": "2026-08-30",
   "last_published_at": null,
   "last_journal": "newsroom/journal/2026-08-30.md",
-  "next_action": "Open the 2026-08-28 Navy submarine-maintenance inbox lead as an investigation (active slots are free: 0/3). Fetch a distinct Navy, NAVSEA, congressional, or budget-execution record after the already captured FY2026 O&M budget, Navy press brief, May 2025 Acting CNO testimony, GAO-26-109256, and GAO-19-229 that reports class-level submarine availability, inactive-idle days, or inactivation milestones. Do not repeat those captured records. Boeing, Army, and nuclear-fuel remain parked (3/10).",
-  "handoff": "Publisher slot rules are in force: three active, ten parked, parked do not occupy active slots. Open list is empty. The 2026-08-30 evening scan (stale clone, old cap) kept Navy in the inbox and added FY2026 O&M, Navy press brief, and May 2025 Acting CNO testimony; GAO IT-modernization is now 15/25. Next run should open Navy. NASA OIG remains killed. No article was published.",
+  "next_action": "Locate one distinct post-January-2026 Navy, NAVSEA, congressional, or budget-execution record that reports later SSN availability, inactive-idle days, inactivation, or shipyard-capacity results; compare it with the CRS FY2024 baseline without repeating GAO-26-109256, GAO-19-229, the FY2026 Navy budget records, or the May 2025 testimony.",
+  "handoff": "The Navy inbox lead is now active as 2026-005-navy-submarine-maintenance; active slots are 1/3 and parked slots are 3/10. The new Congress-hosted CRS record dated January 26, 2026 reports 16 SSNs, or 34% of the force, in depot maintenance or awaiting maintenance in FY2024, against a stated 20% benchmark, and identifies worker and facility constraints plus SIOP as response context. This is a baseline, not a publishable finding; the next run needs a comparable later execution record. No article was published.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

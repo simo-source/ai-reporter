@@ -1,11 +1,11 @@
 date: 2026-08-30
-mode: SCAN
+mode: CONTINUE
 preflight:
   exit_code: 0
   action: AUTONOMOUS
 install:
   ran: true
-  result: dependencies installed; official PDFs read through retrieved text
+  result: dependencies installed after initial missing yaml package
 desk_status:
   ran: true
   result: previous run read successfully
@@ -20,14 +20,20 @@ ingest:
     - courtlistener
     - uk-legislation
 leads:
-  scored: 2
-  started: []
+  scored: 1
+  started:
+    - 2026-08-28-navy-submarine-maintenance
   parked: []
   killed: []
   scored_ids:
     - 2026-08-28-navy-submarine-maintenance
-    - 2026-08-29-gao-it-modernization-controls
+    
 investigations:
+  - id: 2026-005-navy-submarine-maintenance
+    decision: continue
+    new_primary_documents: 1
+    evidence_added:
+      - 2026-08-30-crs-rl32418-295.md
   - id: 2026-002-boeing-787-cargo-frame-material
     decision: remain parked
     new_primary_documents: 0
@@ -46,5 +52,5 @@ parked_investigations:
   - 2026-004-nuclear-fuel-cost-visibility
 publication:
   published: false
-  reason: No parked investigation met its reopening condition; inbox leads gained primary excerpts but no article was drafted or published
+  reason: The new CRS record establishes a baseline but no comparable post-FY2024 execution outcome or original publishable finding exists
 journal: newsroom/journal/2026-08-30.md

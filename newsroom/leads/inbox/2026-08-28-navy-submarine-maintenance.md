@@ -22,8 +22,9 @@ The new finding would reconcile GAO's historical attack-submarine operational-da
 
 1. GAO-26-109256: https://www.gao.gov/products/gao-26-109256
 2. GAO report PDF, with the two official asset paths attempted on 2026-08-28 but not retrieved: https://www.gao.gov/assets/gao-26-109256.pdf and https://files.gao.gov/assets/gao-26-109256.pdf
-3. Department of the Navy FY2026 President's Budget Highlights: https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/Highlights_Book.pdf
-4. Department of the Navy FY2026 President's Budget, Operation and Maintenance, Navy: https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Vol2_Book.pdf
+3. Department of the Navy FY2026 President's Budget, Operation and Maintenance, Navy: https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf
+4. Department of the Navy FY2026 budget press brief: https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/DON_Press_Brief.pdf
+5. House Appropriations Committee, Acting CNO posture statement, May 14, 2025: https://www.congress.gov/119/meeting/house/118229/witnesses/HHRG-119-AP02-Wstate-KilbyJ-20250514.pdf
 
 ## Primary excerpts captured
 
@@ -32,6 +33,9 @@ The new finding would reconcile GAO's historical attack-submarine operational-da
 - Navy FY2026 President's Budget, Operation and Maintenance, Navy, Naval Shipyards section, performance data: total mission resource days for submarines are projected at 538,208 in FY2026, compared with 539,045 in FY2025; the table separately reports shipyard workload, not the GAO attack-submarine operational-day loss measure.
 - GAO-19-229, “Navy Readiness: Actions Needed to Address Costly Maintenance Delays Facing the Attack Submarine Fleet,” pp. 12–14: GAO reported that the Navy had not completed a comprehensive business-case analysis for allocating attack-submarine maintenance between public and private shipyards, and said that without a complete accounting of costs, benefits, and risks the Navy could not weigh private-yard costs against reduced idle time and added operational availability. URL: https://files.gao.gov/assets/gao-19-229.pdf
 - GAO-26-109256, pp. 8–13: the follow-up report records 18,687 lost days and an estimated $4.17 billion in operating and support costs for fiscal years 2016–2025, while projecting more than 14,000 inactive-idle days and $3.1 billion in costs for fiscal years 2026–2030; it also says the 2018 recommendations were implemented but the maintenance backlog was not eliminated. URL: https://files.gao.gov/assets/gao-26-109256.pdf
+- Department of the Navy FY2026 O&M budget, “PBA-19 Appropriation Highlights,” Ship Maintenance and “Budget Activity 2: Mobilization”: the request describes a $1.9 billion increase over the FY2025 request, funds 97% of total ship-maintenance requirements and 57 CNO availabilities, projects 36,488 naval-shipyard FTEs, and supports 27 private-sector CNO availabilities; the same volume gives a $1.779 billion FY2026 mobilization estimate and a plan to inactivate 14 ships, five before end of service life. URL: https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf (retrieved 2026-08-30).
+- Department of the Navy FY2026 budget press brief, “Navy Fleet Readiness” and “Defense Industrial Base”: the brief lists $16.2 billion for ship maintenance, says the funds move submarines and ships through public and private shipyards, states an 80% combat-surge-ready goal by 2027, and lists $2.7 billion for the Shipyard Infrastructure Optimization Program. URL: https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/DON_Press_Brief.pdf (retrieved 2026-08-30).
+- House Appropriations Committee, Acting CNO posture statement, “80% CSR for Submarine Community”: as of May 1, 2025, the submarine community was reported at 64% CSR; the statement says production and maintenance delays were keeping submarines in shipyards, and cites on-time July 2024 availabilities for USS Hawaii and USS Minnesota. URL: https://www.congress.gov/119/meeting/house/118229/witnesses/HHRG-119-AP02-Wstate-KilbyJ-20250514.pdf (retrieved 2026-08-30).
 
 ## Human stake
 

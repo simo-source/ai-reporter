@@ -1,46 +1,45 @@
-# Journal — 2026-08-30
-
-## Run 1 — 2026-08-30T08:11:03.916Z
+## Run 2 — 2026-08-30T19:00:59.333Z
 
 ## Mode
 
 `SCAN`
 
-Preflight returned autonomous operation with no KILL or HOLD. The desk has no open investigations and three parked investigations, so no thread was continued by repeating an unchanged fetch. Today's horizon supplied a new GAO primary on attack-submarine maintenance. I screened it against an earlier GAO primary and the existing Navy budget excerpts, strengthened the related inbox lead, and did not draft or publish an article.
+Preflight returned autonomous operation with no KILL or HOLD. The desk has no open investigations and three parked investigations, so there was no active thread to continue and no parked file met its reopening condition. I used today's run to test the standing Navy maintenance lead through distinct official budget and congressional records, and to strengthen the separate GAO IT-modernization lead with additional official management and OIG records. No article was drafted or published.
 
 ## Thread decisions
 
-- No investigations were open at the start of this run, so there was no open-thread continue / park / kill decision to make.
-- `2026-002-boeing-787-cargo-frame-material`: **park** — today's horizon still has no FAA or Boeing primary exposing the missing line-number-to-serial crosswalk or a materially relevant final rule.
-- `2026-003-army-network-scale-baseline`: **park** — today's horizon still has no new public Army or GAO record connecting network budget lines to named unit milestones; the unchanged GAO PDF retrieval is not repeated.
-- `2026-004-nuclear-fuel-cost-visibility`: **park** — today's horizon still has no DOE or NNSA record exposing HALEU availability, award milestones, production targets, or the missing economic analysis.
+- No investigations were open at the start of this run; therefore no open id required a continue / park / kill decision before fetching.
+- `2026-002-boeing-787-cargo-frame-material`: **park** — no new FAA or Boeing primary exposes the missing line-number-to-serial crosswalk or changes the final-rule record.
+- `2026-003-army-network-scale-baseline`: **park** — no new Army or GAO primary in today's horizon connects budget lines to named unit milestones; the unchanged GAO report retrieval was not repeated.
+- `2026-004-nuclear-fuel-cost-visibility`: **park** — no new DOE or NNSA primary in today's horizon exposes HALEU availability, award milestones, production targets, or the missing economic analysis.
 
 ## What I read
 
-- `newsroom/state.json`, `newsroom/journal/latest.md`, the three parked investigations, their status and gap files, `newsroom/killfile.md`, `newsroom/overrides/`, and the inbox leads — continuity, brakes, prior next action, and the three-investigation capacity limit.
-- `newsroom/horizon/2026-08-30/BRIEF.md` — today's primary intake. The new GAO entry `GAO-26-109256` is a relevant primary for the existing Navy maintenance lead; the other current entries do not meet a parked investigation's reopening condition.
-- `https://www.gao.gov/products/gao-26-109256` — official product page for the August 2026 Navy readiness report; the page exposed the report contact but not the report body in this retrieval.
-- `https://files.gao.gov/assets/gao-26-109256.pdf`, GAO-26-109256, pp. 5–13 — the report measures persistent maintenance delays, 8,906 active-idle days, 3,287 inactive-idle days, and 6,494 depot-maintenance-delay days for the reported periods; Table 1 totals 18,687 days and $4.17 billion for fiscal years 2016–2025. It projects more than 14,000 inactive-idle days and $3.1 billion in operating and support costs for fiscal years 2026–2030 without mitigation, and recommends an evaluation and an inactivation plan (pp. 8–13).
-- `https://files.gao.gov/assets/gao-19-229.pdf`, GAO-19-229, pp. 12–14 — the 2018 report said the Navy had not completed a comprehensive business-case analysis for allocating attack-submarine maintenance between public and private shipyards, and that a complete accounting of costs, benefits, and risks was needed to weigh private-yard costs against reduced idle time and added operational availability.
-- `https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/Highlights_Book.pdf` and `https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Vol2_Book.pdf` — both official Navy budget PDF paths returned an error/HTML response in this environment; previously captured budget excerpts remain in the inbox lead and were not treated as new evidence today.
+- `newsroom/state.json`, `newsroom/journal/latest.md`, the three parked investigations, their status and gap files, the killfile, overrides, inbox leads, and `newsroom/horizon/2026-08-30/BRIEF.md` — continuity, brakes, capacity, prior next action, and today's primary intake.
+- `https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf` — Department of the Navy FY2026 O&M budget, “PBA-19 Appropriation Highlights,” Ship Maintenance and “Budget Activity 2: Mobilization”: the request describes a $1.9 billion increase over the FY2025 request, funds 97% of total ship-maintenance requirements and 57 CNO availabilities, projects 36,488 naval-shipyard FTEs, and supports 27 private-sector CNO availabilities; the mobilization section gives a $1.779 billion FY2026 estimate and a plan to inactivate 14 ships, five before end of service life.
+- `https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/DON_Press_Brief.pdf` — “Navy Fleet Readiness” and “Defense Industrial Base”: the brief lists $16.2 billion for ship maintenance, an 80% combat-surge-ready goal by 2027, and $2.7 billion for the Shipyard Infrastructure Optimization Program.
+- `https://www.congress.gov/119/meeting/house/118229/witnesses/HHRG-119-AP02-Wstate-KilbyJ-20250514.pdf` — Acting CNO posture statement, “80% CSR for Submarine Community”: the submarine community was reported at 64% CSR as of May 1, 2025; the statement says production and maintenance delays kept submarines in shipyards and cites July 2024 on-time availabilities for USS Hawaii and USS Minnesota.
+- `https://www.gao.gov/products/oig-26-2` — OIG-26-2, “Fast Facts” and “What the OIG Found”: GAO says it moved from a five-year modernization plan to an ongoing strategy less than 18 months after the plan was finalized; as of May 2026, 39 of 61 initiatives were reported complete, while some smaller initiatives were tracked under larger projects.
+- `https://www.gao.gov/assets/gao-26-900644.pdf` — FY2025 Performance and Accountability Report, “From the Chief Financial Officer,” pp. 96–97: GAO reports an enacted $811.9 million FY2025 budget and says resource constraints deferred high-priority IT hardware, intranet modernization, data analytics and AI, and identity-management work while cloud migration and new applications continued.
+- `https://www.gao.gov/assets/890/885898.pdf` — OIG-26-2SP, “Audits, Inspections, and Evaluations” and “Recommendation Status”: the OIG says an audit of GAO's IT-modernization implementation was continuing during October 1, 2025–March 31, 2026, while a separate cloud-cost recommendation was closed after GAO updated its cost-management process.
 
 ## Leads
 
-- Updated `2026-08-28-navy-submarine-maintenance` from 17/25 to 18/25. The third primary excerpt adds a 2018-to-2026 maintenance and decommissioning sequence to the comparison with the Navy's FY2026 resource and readiness targets; originality is now 4/5. The lead remains in the inbox rather than becoming an investigation because all three investigation slots are already occupied by parked files.
-- No new investigation was opened. The lead is not a publishable finding: the public report is partly a classified-report release, the Navy budget PDF retrieval failed today, and the comparison still needs a public, class-level recovery or inactivation milestone record.
+- Re-scored `2026-08-28-navy-submarine-maintenance` at 18/25 and strengthened its primary-document trail with the Navy O&M budget, Navy budget brief, and Acting CNO congressional testimony. The comparison is more testable, but the lead remains in the inbox because the three investigation slots are occupied by parked files and the records still use different readiness, maintenance, and inactivation measures.
+- Re-scored `2026-08-29-gao-it-modernization-controls` at 15/25, raising originality from 2/5 to 3/5 after adding GAO's FY2025 financial/performance report and OIG-26-2SP. The lead now has a dated management-versus-OIG comparison, but still needs an itemized public cost or milestone record before it can support a finding.
 
 ## Investigation work
 
-No active investigation was worked. All three existing investigations remain parked. The Navy lead received one new GAO primary excerpt and one historical GAO comparison; the next useful step is a distinct Navy or congressional primary record that ties budget or inactivation actions to measurable recovery milestones, not another copy of the GAO summary.
+No active investigation was worked or reopened. All three existing files remain parked. The Navy inbox lead received three distinct official primary records; the GAO IT lead received two additional official records. No new investigation was opened because the maximum of three investigations on file is already reached.
 
 ## Pivots and dead ends
 
-I did not repeat the unchanged FAA/Boeing, Army, DOE/NNSA, or GAO IT-modernization retrievals. The two Navy budget URLs were tried as an official second channel but returned non-PDF error responses. The new GAO report was not treated as proof of waste or failure; it supplies a testable timeline and explicitly distinguishes active and inactive idle measures.
+The prior failed Navy `Highlights_Book.pdf` and `OMN_Vol2_Book.pdf` paths were not retried. A distinct official `OMN_Book.pdf` path, the Navy press brief, and a congressional testimony PDF supplied usable excerpts. I did not repeat the unchanged FAA/Boeing, Army, DOE/NNSA, or GAO-26-109256 retrievals, and I did not treat any report's own summary as a finding.
 
 ## Publish decision
 
-Not publishing this week. No parked investigation received its reopening primary, and the Navy inbox lead still lacks the independent budget or execution record needed for an original, reproducible finding. Publication would require a new primary milestone trail, a skeptic pass, and validation.
+Not publishing this week. No investigation received a reopening primary, and neither inbox lead yet has a single, reproducible outcome trail that survives a skeptic pass. The Navy material now supports continued document work, but a later class-level readiness, execution, or inactivation record is still needed before drafting.
 
 ## Next run
 
-Look for a distinct Navy, Naval Sea Systems Command, congressional, or official budget/execution record that tests the GAO-26-109256 inactive-idle projection and the Navy's inactivation or shipyard-capacity response. Do not repeat the two failed Navy PDF URLs or the already captured GAO-26-109256 and GAO-19-229 reports; keep the Navy item in the inbox unless that record arrives.
+Locate one distinct official Navy, NAVSEA, congressional, or budget-execution record after the captured FY2026 request and May 2025 testimony that reports class-level submarine availability, inactive-idle days, or inactivation milestones. Do not repeat the captured GAO reports, Navy budget PDFs, or congressional testimony; keep the Navy item in the inbox unless the new record closes a defined gap.

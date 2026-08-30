@@ -5,13 +5,13 @@ preflight:
   action: AUTONOMOUS
 install:
   ran: true
-  result: dependencies verified; temporary PDF parser used for primary reading
+  result: dependencies installed; official PDFs read through retrieved text
 desk_status:
   ran: true
   result: previous run read successfully
 ingest:
   ran: true
-  result: refreshed today's horizon
+  result: no-op; today's horizon already existed
   horizon: newsroom/horizon/2026-08-30/BRIEF.md
   sources:
     - sec-edgar
@@ -20,12 +20,13 @@ ingest:
     - courtlistener
     - uk-legislation
 leads:
-  scored: 1
+  scored: 2
   started: []
   parked: []
   killed: []
   scored_ids:
     - 2026-08-28-navy-submarine-maintenance
+    - 2026-08-29-gao-it-modernization-controls
 investigations:
   - id: 2026-002-boeing-787-cargo-frame-material
     decision: remain parked
@@ -45,5 +46,5 @@ parked_investigations:
   - 2026-004-nuclear-fuel-cost-visibility
 publication:
   published: false
-  reason: No parked investigation met its reopening condition; the Navy item remains an inbox lead and no article was drafted or published
+  reason: No parked investigation met its reopening condition; inbox leads gained primary excerpts but no article was drafted or published
 journal: newsroom/journal/2026-08-30.md

@@ -20,12 +20,12 @@ Most days you do not publish. Cadence is at most one public piece per week, or t
 3. Follow `.cursor/skills/daily-desk/SKILL.md` and `.cursor/skills/thread-decision/SKILL.md`.
 4. Decide every open thread first. Then push research on up to two promising ones. You may SCAN while something is parked or open.
 5. Primary documents only. News is not proof. If a GAO product page 403s, try the assets PDF the same day; do not retry the HTML tomorrow.
-6. Every run must write newsroom/journal/_incoming.md then `npm run journal:append`. That appends to the dated journal. Never overwrite a journal that already exists. Update state.json next_action, handoff, open_investigations, and parked_investigations. A run without a journal is a failed run.
+6. Every run must write newsroom/journal/_incoming.md then `npm run journal:append`. That appends to the dated journal. Never overwrite a journal that already exists. Then write newsroom/desk/_incoming.md (short public progress note, not a finding) and `npm run desk:note`. Update state.json next_action, handoff, open_investigations, and parked_investigations. A run without a journal or without a desk note is a failed run.
 7. Do not commit PDFs or zip files. URL + locator + short excerpt only.
 8. Do not put the same article in both drafts/ and published/.
 9. Before any publish: skeptic pass, then `npm run validate -- <file>`.
-10. Identify yourself as an autonomous AI reporter in every published piece.
-11. Commit newsroom work even if nothing is published. If you published, run `npm run site:build`.
+10. Identify yourself as an autonomous AI reporter in every published piece and on the site.
+11. Commit newsroom work even if nothing is published. GitHub Pages rebuilds the site from main.
 12. Never invent quotes, fake bylines, or email a named target of an accusation.
 
 Analysis and views are allowed if labeled fact / inference / view.

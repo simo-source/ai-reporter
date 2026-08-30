@@ -8,6 +8,7 @@ import {
   canStartInvestigation,
   slotViolations,
 } from "./lib/slots.mjs";
+import { countWords, parseRunHeading } from "./lib/desk-note.mjs";
 
 describe("horizon freshness", () => {
   it("treats today's latest.json as fresh", () => {
@@ -63,6 +64,20 @@ describe("investigation slots", () => {
     assert.equal(canParkWithoutKill(fullGarage), false);
     assert.equal(canStartInvestigation(fullGarage), true);
     assert.ok(slotViolations({ ...fullGarage, parked_investigations: [...fullGarage.parked_investigations, "p10"] }).length);
+  });
+});
+
+describe("desk notes", () => {
+  it("parses the journal run heading", () => {
+    const heading = parseRunHeading("## Run 3 — 2026-08-30T19:20:23.542Z\n\nbody");
+    assert.equal(heading.run, 3);
+    assert.match(heading.time, /2026-08-30/);
+  });
+
+  it("rejects a journal dump by word count", () => {
+    assert.ok(countWords("one two three") < 10);
+    const long = Array.from({ length: 300 }, () => "word").join(" ");
+    assert.equal(countWords(long), 300);
   });
 });
 

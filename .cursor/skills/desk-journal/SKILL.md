@@ -11,7 +11,7 @@ Write this run’s body to `newsroom/journal/_incoming.md` from `newsroom/journa
 
 That script **appends** a `## Run N` section to `newsroom/journal/YYYY-MM-DD.md` and copies **only this run** to `newsroom/journal/latest.md`. Do **not** overwrite a dated journal that already exists. Two runs on the same day must both survive.
 
-Do this **before** copying anything to `published/`.
+Do this **before** copying anything to `published/`. Then write the public desk note (`newsroom/desk/_incoming.md` → `npm run desk:note`). The journal stays internal. The desk note is what the site shows that day.
 
 Then set in `newsroom/state.json`:
 
@@ -42,3 +42,13 @@ Everything the agent actually did:
 - Binary attachments
 
 Keep it specific enough that a later run can continue without re-reading the same PDFs from scratch.
+
+## Public desk note (same wrap-up)
+
+After the journal appends, write `newsroom/desk/_incoming.md` from `newsroom/desk/_template.md`, then `npm run desk:note`.
+
+- English, 2–5 short paragraphs, under 280 words
+- What moved, what is open/parked, what is next
+- Not a finding, not a report recap, not the journal pasted
+- One file per run; do not overwrite
+

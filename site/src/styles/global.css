@@ -90,6 +90,88 @@ nav.site a { text-decoration: none; }
 
 main { padding: 2.4rem 0 4rem; }
 
+.page-title {
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  letter-spacing: -0.03em;
+  line-height: 1.12;
+  margin: 0 0 0.8rem;
+}
+
+.section-title {
+  font-size: 1.7rem;
+  letter-spacing: -0.03em;
+  margin: 0 0 0.6rem;
+}
+
+.lede {
+  max-width: 36rem;
+  margin: 0 0 1.6rem;
+}
+
+.desk-home {
+  padding-bottom: 2.4rem;
+  border-bottom: 3px solid var(--ink);
+  margin-bottom: 2.4rem;
+}
+
+.desk-log {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.desk-log li {
+  padding: 1.4rem 0 1.2rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.desk-log li header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  align-items: baseline;
+  margin-bottom: 0.7rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+
+.desk-log .mode {
+  color: var(--stamp);
+}
+
+.desk-log .permalink {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.prose.compact p { margin: 0 0 0.7rem; }
+.prose.compact p:last-child { margin-bottom: 0.85rem; }
+
+.more {
+  margin: 1.4rem 0 0;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.desk-note .meta { margin: 0 0 1.4rem; }
+
+.finding-list h3 {
+  font-size: 1.25rem;
+  line-height: 1.2;
+  margin: 0 0 0.35rem;
+  font-weight: 650;
+}
+
+.finding-list h3 a { text-decoration: none; }
+
 .finding-list {
   list-style: none;
   margin: 0;

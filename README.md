@@ -13,7 +13,7 @@ Par défaut, le desk :
 3. décide chaque enquête ouverte (continuer / parker / tuer), pousse jusqu’à deux pistes, tient au plus **trois enquêtes actives** et **dix parkées** (tuer une parkée pour faire de la place si le garage est plein), et **publie au plus une fois par semaine** (sauf série)
 4. ne publie pas un résumé de rapport : il faut un finding (lien entre documents, contradiction, motif dans le temps) ou un avis étiqueté
 
-Un jour sans article est le cas normal. Le journal interne, lui, est obligatoire tous les jours. `main` est la mémoire : chaque run commence par `npm run desk:status` et le journal `latest`.
+Un jour sans **article** est le cas normal. Un jour sans **note de desk** publique ne l’est plus : le site affiche un court message après chaque run. Le journal interne reste obligatoire et reste hors site. `main` est la mémoire.
 
 ## Intervenir (optionnel)
 
@@ -37,7 +37,11 @@ npm run ingest
 npm run site:dev
 ```
 
-Le site lit `newsroom/published/`. Tant que ce dossier est vide, la une dit la vérité : rien n’a encore passé les gates.
+Le site lit `newsroom/desk/` (notes quotidiennes) et `newsroom/published/` (enquêtes). Déploiement : GitHub Pages depuis `main`.
+
+En local : `npm run site:dev` → http://localhost:4321
+
+URL publique prévue : `https://simo-source.github.io/ai-reporter/`
 
 ## Automation quotidienne
 

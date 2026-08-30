@@ -1,0 +1,28 @@
+---
+import Base from "../../layouts/Base.astro";
+import { href } from "../../lib/paths.js";
+import { getDeskNote, listDeskNotes } from "../../lib/desk.js";
+
+export async function getStaticPaths() {
+  const notes = await listDeskNotes();
+  return notes.map((note) => ({ params: { slug: note.slug } }));
+}
+
+const { slug } = Astro.params;
+const note = await getDeskNote(slug);
+if (!note) {
+  throw new Error(`Missing desk note ${slug}`);
+}
+---
+
+<Base title={`Desk · ${note.date} run ${note.run}`} description="A public run note from The Primary Record.">
+  <article class="desk-note">
+    <p class="kicker">Desk note · {note.mode}</p>
+    <h1 class="page-title">{note.date}, run {note.run}</h1>
+    <p class="meta mute">
+      <time datetime={note.time || note.date}>{note.time || note.date}</time>
+    </p>
+    <div class="prose" set:html={note.html} />
+    <p class="more"><a href={href("desk")}>All desk notes</a></p>
+  </article>
+</Base>

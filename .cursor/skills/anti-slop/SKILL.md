@@ -5,7 +5,7 @@ description: Blocks news rewrites, document recaps, SEO filler, fake bylines, an
 
 # Anti-slop
 
-If the piece could have been written from Google News **or from the source report’s own summary**, do not write it.
+If the piece could have been written from Google News **or from the source report’s own summary**, do not write it. The same ban applies to public **desk notes**: they may say a document was read; they may not restyle its summary as news.
 
 ## Banned
 

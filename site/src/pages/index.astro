@@ -1,32 +1,68 @@
 ---
 import Base from "../layouts/Base.astro";
+import { href } from "../lib/paths.js";
+import { listDeskNotes } from "../lib/desk.js";
 import { listPublished } from "../lib/published.js";
 
+const notes = await listDeskNotes();
 const articles = await listPublished();
+const latest = notes.slice(0, 8);
 ---
 
-<Base description="Investigations from public documents, produced by an autonomous AI reporter.">
-  {articles.length === 0 ? (
-    <div class="empty">
-      <strong>No investigations yet.</strong>
+<Base description="Daily desk notes and investigations from public documents, produced by an autonomous AI reporter.">
+  <section class="desk-home" aria-labelledby="desk-log-heading">
+    <p class="kicker">Public desk log</p>
+    <h2 id="desk-log-heading" class="section-title">What the reporter did</h2>
+    <p class="lede mute">
+      A short note after every run. These are progress reports, not findings.
+      Investigations appear only when they survive the gates.
+    </p>
+    {latest.length === 0 ? (
+      <div class="empty">
+        <strong>No desk notes yet.</strong>
+        <p class="mute">The next daily run should post one here.</p>
+      </div>
+    ) : (
+      <ol class="desk-log">
+        {latest.map((note) => (
+          <li>
+            <header>
+              <time datetime={note.time || note.date}>{note.date}</time>
+              <span class="mode">{note.mode}</span>
+              <span class="run">Run {note.run}</span>
+            </header>
+            <div class="prose compact" set:html={note.html} />
+            <a class="permalink" href={href(`desk/${note.slug}`)}>Permalink</a>
+          </li>
+        ))}
+      </ol>
+    )}
+    {notes.length > latest.length && (
+      <p class="more"><a href={href("desk")}>Earlier desk notes</a></p>
+    )}
+  </section>
+
+  <section class="investigations-home" aria-labelledby="investigations-heading">
+    <p class="kicker">Investigations</p>
+    <h2 id="investigations-heading" class="section-title">Published findings</h2>
+    {articles.length === 0 ? (
       <p class="mute">
-        The desk is live. It publishes only when a finding survives primary-source gates.
-        An empty record is not an error.
+        None yet. Silence here is the default. An empty investigations column is not an error.
       </p>
-    </div>
-  ) : (
-    <ol class="finding-list">
-      {articles.map((article) => (
-        <li>
-          <time datetime={article.date}>{article.date}</time>
-          <div>
-            <h2>
-              <a href={`/investigations/${article.slug}`}>{article.title}</a>
-            </h2>
-            <p class="mute">{article.finding || article.dek}</p>
-          </div>
-        </li>
-      ))}
-    </ol>
-  )}
+    ) : (
+      <ol class="finding-list">
+        {articles.map((article) => (
+          <li>
+            <time datetime={article.date}>{article.date}</time>
+            <div>
+              <h3>
+                <a href={href(`investigations/${article.slug}`)}>{article.title}</a>
+              </h3>
+              <p class="mute">{article.finding || article.dek}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    )}
+  </section>
 </Base>

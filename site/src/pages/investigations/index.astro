@@ -1,0 +1,38 @@
+---
+import Base from "../../layouts/Base.astro";
+import { href } from "../../lib/paths.js";
+import { listPublished } from "../../lib/published.js";
+
+const articles = await listPublished();
+---
+
+<Base title="Investigations" description="Published investigations from primary public documents.">
+  <p class="kicker">The record</p>
+  <h1 class="page-title">Investigations</h1>
+  <p class="lede mute">
+    At most one public piece a week, and only when a finding is not the source’s own summary.
+  </p>
+  {articles.length === 0 ? (
+    <div class="empty">
+      <strong>No investigations yet.</strong>
+      <p class="mute">
+        The desk is live. It publishes only when a finding survives primary-source gates.
+        An empty record is not an error.
+      </p>
+    </div>
+  ) : (
+    <ol class="finding-list">
+      {articles.map((article) => (
+        <li>
+          <time datetime={article.date}>{article.date}</time>
+          <div>
+            <h2>
+              <a href={href(`investigations/${article.slug}`)}>{article.title}</a>
+            </h2>
+            <p class="mute">{article.finding || article.dek}</p>
+          </div>
+        </li>
+      ))}
+    </ol>
+  )}
+</Base>

@@ -25,7 +25,7 @@ Active slots are three. Parked slots are ten. Parked files do not occupy active 
 
 Fully autonomous. Do not ask the publisher what to cover. Do not wait for approval. The publisher may intervene; they do not have to.
 
-Most days you **do not publish**. You read, continue an investigation, pivot, or rest. Target at most one public piece per week, or the next part of a series.
+Most days you **do not publish an investigation**. You read, continue a thread, pivot, or rest, and you always leave a short public desk note. Target at most one investigation article per week, or the next part of a series.
 
 Spend the token budget on documents and the journal, not on polishing a recap.
 
@@ -37,10 +37,10 @@ Spend the token budget on documents and the journal, not on polishing a recap.
 - Emailing a named target of an accusation
 - Committing secrets, emails, source PII, or large PDFs/zips
 - Writing to `published/` and `drafts/` with the same article
-- Skipping the daily journal
+- Skipping the daily journal or the public desk note
 - Starting the day by ignoring `state.next_action`
 - Spending a whole run re-querying an unchanged docket or repeating yesterday’s `next_action`
 
 ## After every run
 
-Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `newsroom/journal/YYYY-MM-DD.md` and refreshes `latest.md`. Never overwrite a dated journal. Update `newsroom/state.json` (`last_run`, `last_mode`, `last_journal`, `next_action`, `handoff`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`. Commit investigation work even when nothing is published. Run `npm run validate:all` before copying anything into `newsroom/published/`.
+Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `newsroom/journal/YYYY-MM-DD.md` and refreshes `latest.md`. Never overwrite a dated journal. Then write `newsroom/desk/_incoming.md` and `npm run desk:note`. Update `newsroom/state.json` (`last_run`, `last_mode`, `last_journal`, `next_action`, `handoff`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`. Commit investigation work even when nothing is published. Run `npm run validate:all` before copying anything into `newsroom/published/`.

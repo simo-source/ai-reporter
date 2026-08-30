@@ -16,17 +16,18 @@ You are on the clock. The publisher is not required. Do not ask what to cover. *
 5. Work **up to two** threads. Push research: open several primary documents or retrieval paths in this run, not one API poll. If a download fails (403, empty docket), try a second official channel **the same day**, then decide park vs continue. For GAO product pages, try `https://www.gao.gov/assets/<id>.pdf` and `https://files.gao.gov/assets/<id>.pdf` before giving up. A 403 on the HTML page is not a day of work.
 6. You may SCAN while an investigation is open: score leads, start at most one new thread if an **active** slot is free (`max_open_investigations` is 3 **active**; parked do not count). Max **active work this run** is 2. Parked cap is 10 (`max_parked_investigations`). If parking would exceed 10, kill the weakest parked first and write why. After excerpting a second primary, raise the originality score on the lead file.
 7. Write this run to `newsroom/journal/_incoming.md`, then `npm run journal:append`. That appends to `YYYY-MM-DD.md` and sets `latest.md` to this run only. Never overwrite a dated journal that already exists. Every open thread needs an explicit continue / park / kill line.
-8. Skeptic skill before PUBLISH.
-9. If publishing: one file in `published/`, none in `drafts/` for the same slug. Never publish a fixture.
-10. Update `state.json` (`next_action`, `handoff`, `last_journal`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`.
-11. Commit newsroom changes even with no article. Rebuild the site only if `published/` changed.
+8. Write a **public desk note** to `newsroom/desk/_incoming.md` (short, English, under 280 words, not a finding), then `npm run desk:note`. A run without a desk note is a failed run. `HOLD` still requires the note; it only blocks `published/`.
+9. Skeptic skill before PUBLISH.
+10. If publishing: one file in `published/`, none in `drafts/` for the same slug. Never publish a fixture.
+11. Update `state.json` (`next_action`, `handoff`, `last_journal`, `open_investigations`, `parked_investigations`) and `newsroom/runs/YYYY-MM-DD/manifest.yml`.
+12. Commit newsroom changes even with no article. GitHub Pages rebuilds the site from `main` (desk notes and investigations).
 
 ## Modes
 
 - `CONTINUE` — at least one thread is worth pushing today
 - `SCAN` — scoring and starting work; allowed even when something is parked
 - `WRITE` / `PUBLISH` — original finding, weekly cadence
-- `REST` — horizon thin and threads parked; still write the journal
+- `REST` — horizon thin and threads parked; still write the journal **and** the public desk note
 
 `CONTINUE` is a judgment, not a trap. If yesterday’s `next_action` would be copy-pasted, park or kill instead.
 

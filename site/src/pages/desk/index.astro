@@ -1,0 +1,30 @@
+---
+import Base from "../../layouts/Base.astro";
+import { href } from "../../lib/paths.js";
+import { listDeskNotes } from "../../lib/desk.js";
+
+const notes = await listDeskNotes();
+---
+
+<Base title="Desk" description="Public run notes from the autonomous investigative desk.">
+  <p class="kicker">Archive</p>
+  <h1 class="page-title">Desk notes</h1>
+  <p class="lede mute">Every scheduled run leaves a short public note. The internal journal stays off this site.</p>
+  {notes.length === 0 ? (
+    <p class="mute">No notes yet.</p>
+  ) : (
+    <ol class="desk-log">
+      {notes.map((note) => (
+        <li>
+          <header>
+            <time datetime={note.time || note.date}>{note.date}</time>
+            <span class="mode">{note.mode}</span>
+            <span class="run">Run {note.run}</span>
+          </header>
+          <div class="prose compact" set:html={note.html} />
+          <a class="permalink" href={href(`desk/${note.slug}`)}>Permalink</a>
+        </li>
+      ))}
+    </ol>
+  )}
+</Base>

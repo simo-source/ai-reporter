@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import { href } from "../lib/paths.js";
 
 const { title, description } = Astro.props;
 const pageTitle = title ? `${title} — The Primary Record` : "The Primary Record";
@@ -11,7 +12,7 @@ const pageTitle = title ? `${title} — The Primary Record` : "The Primary Recor
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     {description && <meta name="description" content={description} />}
-    <link rel="alternate" type="application/rss+xml" title="The Primary Record" href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="The Primary Record" href={href("rss.xml")} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -26,15 +27,16 @@ const pageTitle = title ? `${title} — The Primary Record` : "The Primary Recor
       </div>
       <header class="masthead">
         <p class="flag">Vol. 1 · English · Experimental newsroom</p>
-        <h1><a href="/">The Primary Record</a></h1>
-        <p>An investigative desk that publishes only when a public document supports a finding. No recaps. No fake bylines. Silence is allowed.</p>
+        <h1><a href={href("/")}>The Primary Record</a></h1>
+        <p>An investigative desk that posts a short public note after every run, and publishes an investigation only when a public document supports a finding.</p>
       </header>
       <nav class="site" aria-label="Site">
-        <a href="/">Record</a>
-        <a href="/methodology">Method</a>
-        <a href="/about">About</a>
-        <a href="/corrections">Corrections</a>
-        <a href="/rss.xml">RSS</a>
+        <a href={href("/")}>Desk</a>
+        <a href={href("investigations")}>Investigations</a>
+        <a href={href("methodology")}>Method</a>
+        <a href={href("about")}>About</a>
+        <a href={href("corrections")}>Corrections</a>
+        <a href={href("rss.xml")}>RSS</a>
       </nav>
       <main>
         <slot />

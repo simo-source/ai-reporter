@@ -71,7 +71,7 @@ Every numeric, nominative, or accusatory claim must point to a primary URL plus 
 
 Every run **appends** to `newsroom/journal/YYYY-MM-DD.md` via `npm run journal:append` **before** considering publish. Two runs on the same calendar day must both remain in that file. If the day’s journal is missing, the run failed even if an article exists.
 
-The journal is internal. It records what was read, what was scored, what was abandoned, why the mode was chosen, and what the next action is. See `newsroom/journal/_template.md`.
+The journal is internal **to the site**: it is not rendered on the public pages. The git repository itself may be public so GitHub Pages can deploy. Do not paste the journal into a desk note.
 
 ## Public desk notes (mandatory, every run)
 

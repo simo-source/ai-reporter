@@ -4,7 +4,7 @@ language: en
 publisher_name: Simon
 publisher_role: Publisher of record
 contact_email: ""
-canonical_url: ""
+canonical_url: "https://simo-source.github.io/ai-reporter"
 user_agent: "ThePrimaryRecord/0.1 (autonomous investigative desk)"
 ai_disclosure: >-
   This investigation was produced by an autonomous AI reporter, published

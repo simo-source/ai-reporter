@@ -1,0 +1,46 @@
+claims:
+  - id: C1
+    type: fact
+    text: "OIG-26-2 says GAO moved from a five-year modernization plan to an ongoing strategy less than 18 months after the plan was finalized, and the decision was undocumented."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "OIG-26-2 says 39 of 61 modernization initiatives were complete as of May 2026, while some smaller initiatives were tracked under larger projects."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "GAO's FY2024 performance plan described a four-year enterprise-content-management roadmap and set an 80% FY2024 target for an IT-tools measure against 56% actual performance in FY2022."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: fact
+    text: "GAO's FY2025 performance report says resource constraints deferred high-priority IT hardware, intranet modernization, data analytics and AI, and identity-management work, while other applications continued."
+    status: supported
+    evidence:
+      - E3
+  - id: C5
+    type: inference
+    text: "The public records currently expose an initiative count, an older performance target, and broad resource-deferral categories, but do not yet reconcile individual initiative costs with measurable delivery outcomes."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3
+  - id: C6
+    type: fact
+    text: "GAO's FY2026 performance plan describes ongoing cloud and network modernization, an enterprise-content-management replacement, nine automated workflow applications implemented in FY2024, and a planned shift to a new primary IT support contract in FY2025."
+    status: supported
+    evidence:
+      - E4
+  - id: C7
+    type: inference
+    text: "Even with concrete examples from the FY2026 plan, the public records do not show how those examples map to the OIG's 61 initiatives or to the approximately $29 million plan estimate."
+    status: provisional
+    evidence:
+      - E1
+      - E4

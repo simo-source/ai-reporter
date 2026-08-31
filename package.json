@@ -7,6 +7,7 @@
   },
   "scripts": {
     "ingest": "node scripts/ingest/run.mjs",
+    "journal:append": "node scripts/journal-append.mjs",
     "desk:note": "node scripts/desk-note.mjs",
     "validate": "node scripts/validate-article.mjs",
     "validate:all": "node scripts/validate-article.mjs --all",

@@ -24,3 +24,16 @@ claims:
     evidence:
       - E1
       - E2
+  - id: C5
+    type: fact
+    text: "An April 22, 2026 CBO testimony reports that 33% of the Navy's SSN fleet was undergoing or awaiting maintenance, against a 20% goal, and describes a 48-boat force with at most 32 SSNs deployable."
+    status: supported
+    evidence:
+      - E7
+  - id: C6
+    type: inference
+    text: "The later CBO percentage and force size imply roughly the same 16-boat maintenance-or-awaiting-maintenance count as CRS reported for FY2024, but rounding and differing source provenance prevent treating this as a precise Navy execution trend."
+    status: provisional
+    evidence:
+      - E1
+      - E7

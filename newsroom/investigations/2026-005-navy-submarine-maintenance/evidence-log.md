@@ -15,6 +15,13 @@
 - E5, https://www.congress.gov/119/meeting/house/118229/witnesses/HHRG-119-AP02-Wstate-KilbyJ-20250514.pdf — retrieved 2026-08-30 — “80% CSR for Submarine Community.” May 2025 readiness and delay context.
 - E6, https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/DON_Press_Brief.pdf — retrieved 2026-08-30 — “Navy Fleet Readiness” and “Defense Industrial Base.” Navy public funding and readiness framing.
 
+## E7 — Congressional Budget Office, Navy shipbuilding testimony
+
+- URL: https://www.congress.gov/119/meeting/house/119209/documents/HHRG-119-AS28-20260422-SD010.pdf
+- Retrieved: 2026-08-31
+- Locator: April 22, 2026 testimony, PDF p. 10, “Effects of a Larger Fleet on Ship Maintenance.”
+- What it establishes: CBO reports the Navy's 20% goal and says 33% of the SSN fleet was undergoing or awaiting maintenance, with a 48-boat force and at most 32 SSNs deployable. It characterizes the share as the largest in any year since 2008 other than 2021.
+
 ## Interpretation boundary
 
-E1 creates a measurable comparison with the Navy's stated benchmark, but no source captured so far reports a post-FY2024 class-level outcome. Resource days, combat-surge readiness, procurement cadence, and inactive-idle days are not interchangeable measures.
+E1's FY2024 snapshot reports 16 of 47 SSNs, or 34%, in depot maintenance or awaiting maintenance. E7's April 2026 testimony reports 33% of a 48-boat force, implying roughly the same 16-boat count after rounding. This is a later comparable primary and suggests no material reduction is visible in the reported count, but it is not a Navy execution series and does not establish causation. E3's operational-day and projected inactive-idle measures remain separate.

@@ -35,3 +35,24 @@
 ## Interpretation boundary
 
 The records now expose more concrete work than the OIG summary alone: nine automated workflow applications, cloud/network migration, an enterprise-content-management replacement, and a support-contract shift. They still do not reconcile those examples to the 61-initiative count, the $29 million plan estimate, or the later broad deferral categories. This supports a research finding about public-reporting granularity, not a claim of waste, failed delivery, or improper spending.
+
+## E5 — GAO Fiscal Year 2027 Performance Plan
+
+- URL: https://www.gao.gov/assets/gao-26-900698.pdf
+- Retrieved: 2026-09-01
+- Locator: “Challenge: Meeting Our IT Needs,” pp. 31–32; “Selected Goal 4 Accomplishments,” p. 28; Table 3, p. 7.
+- What it establishes: GAO says that during FY2025 it rolled out a new time-and-attendance system, enterprise-content-management system, operating system, and PIV cards; over the prior year it migrated more than 95% of computing to a cloud environment while further consolidation remained. The plan reports FY2026 enacted appropriation of $811.894 million and FY2027 requested appropriation of $860.084 million, but does not allocate those figures to the 61 initiatives.
+
+## E6 — GAO Fiscal Year 2026 Budget Request
+
+- URL: https://www.gao.gov/assets/gao-25-108440.pdf
+- Retrieved: 2026-09-01
+- Locator: April 29, 2025 testimony, “FY 2026 Budget Request,” pp. 4–5 and Appendix I, Table 1, p. 14.
+- What it establishes: GAO's FY2026 request says internal operational needs include IT modernization, cloud data management and storage, and cybersecurity controls. Its resource table reports infrastructure operations of $145.276 million in FY2024 actual, $112.857 million under the FY2025 full-year continuing-resolution operating plan, and $188.350 million requested for FY2026; it does not identify which amounts belong to particular modernization initiatives.
+
+## E7 — GAO Cloud Procurement Practices
+
+- URL: https://www.gao.gov/assets/gao-26-107530.pdf
+- Retrieved: 2026-09-01
+- Locator: June 2026 report, Highlights and Letter, pp. 1–4.
+- What it establishes: Across 24 CFO Act agencies, GAO found that 22 primarily relied on historical procurement data for cloud decisions and that FPDS cloud data were not sufficiently precise for determining aggregated cloud spending, so GAO excluded obligated amounts from its analysis. This is a government-wide comparator, not evidence about GAO's own 61 initiatives, but it reinforces the need to distinguish budget categories, procurement data, and initiative-level costs.

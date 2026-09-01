@@ -5,3 +5,4 @@
 - 2025-06-14 — Navy Office of Legislative Affairs provided the FY2024 SSN maintenance data to CRS, according to the CRS table note.
 - 2026-01-26 — CRS issued *Navy Virginia-Class Submarine Program and AUKUS Submarine (Pillar 1) Project: Background and Issues for Congress*.
 - 2026-08-30 — Investigation opened from the 2026-08-28 inbox lead. The CRS record was retrieved and excerpted as a distinct primary; no article was drafted or published.
+- 2026-09-01 — Official Navy reporting on USS John Warner recorded an April 2, 2026 undocking with more than 95% of production work complete; the desk parked the thread because no post-April fleet/class outcome was found.

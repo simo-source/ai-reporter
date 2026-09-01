@@ -6,3 +6,4 @@
 - FY2025 — GAO's performance and accountability report said resource constraints deferred several high-priority IT efforts while cloud migration and selected applications continued.
 - May 2026 — OIG-26-2 records 39 of 61 initiatives as complete and says some smaller initiatives were tracked under larger projects.
 - 2026-08-31 — Investigation opened from the primary-document horizon after comparing the OIG audit with GAO's performance records.
+- 2026-09-01 — GAO's FY2027 performance plan and FY2026 budget request supplied new rollout milestones and agency-wide infrastructure totals; GAO-26-107530 supplied a government-wide cloud-procurement data-quality comparator. No initiative-level cost-to-milestone join was found.

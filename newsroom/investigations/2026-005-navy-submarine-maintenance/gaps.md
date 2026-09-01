@@ -6,7 +6,8 @@
 - The public record does not yet establish whether increased workers and SIOP investments caused a reduction in the backlog.
 - CBO's April 2026 testimony reports 33% of a 48-boat SSN force in or awaiting maintenance, implying roughly 16 boats, but it is not a Navy execution series and uses a rounded “currently” measure.
 - No article should be drafted from E1–E6 alone; a later execution or oversight primary must test the benchmark with a comparable measure.
+- E8 is a ship-specific April 2, 2026 undocking milestone for USS John Warner, not a post-April fleet-level outcome. Direct Navy and NAVSEA retrieval paths returned access-denied responses, and official search results did not expose the required fleet measure today.
 
 ## Decision required
 
-Continue while a distinct public Navy, NAVSEA, congressional, or budget-execution record can report a comparable class-level outcome. The CBO testimony is a new comparable primary, but it leaves the Navy's precise execution date and count unresolved. Park after two runs with the same retrieval action or after three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a recap of CRS, CBO, or GAO's summaries.
+**Parked on 2026-09-01.** E8 adds a new primary excerpt but does not resolve the class-level gap; continuing would repeat the search for a post-April fleet outcome. Reopen only when a distinct public Navy, NAVSEA, congressional, or budget-execution record reports an exact SSN fleet/class outcome after April 2026. Kill if the only available material remains ship-specific milestones or recaps of CRS, CBO, or GAO summaries.

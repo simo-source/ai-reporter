@@ -44,3 +44,29 @@ claims:
     evidence:
       - E1
       - E4
+  - id: C8
+    type: fact
+    text: "GAO's FY2027 performance plan says FY2025 agency-wide IT rollouts included a new time-and-attendance system, enterprise-content-management system, operating system, and PIV cards; it also reports more than 95% of computing migrated to a cloud environment while further consolidation remained."
+    status: supported
+    evidence:
+      - E5
+  - id: C9
+    type: fact
+    text: "GAO's FY2026 budget request reports infrastructure-operations resources of $145.276 million in FY2024 actual, $112.857 million in the FY2025 operating plan, and $188.350 million requested for FY2026, while describing IT modernization, cloud data management and storage, and cybersecurity controls as internal needs."
+    status: supported
+    evidence:
+      - E6
+  - id: C10
+    type: fact
+    text: "GAO's June 2026 cloud-procurement audit says 22 of 24 selected agencies primarily relied on historical procurement data and that FPDS cloud data were not sufficiently precise for determining aggregate cloud spending, so GAO excluded obligated amounts from its analysis."
+    status: supported
+    evidence:
+      - E7
+  - id: C11
+    type: inference
+    text: "The new GAO plan and budget records add concrete rollouts and agency-wide resource totals but still do not provide a common identifier linking an initiative, its cost, and its milestone to the OIG's 61-initiative count."
+    status: provisional
+    evidence:
+      - E1
+      - E5
+      - E6

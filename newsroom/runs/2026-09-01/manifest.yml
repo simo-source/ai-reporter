@@ -1,0 +1,62 @@
+date: 2026-09-01
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: dependencies installed after initial missing yaml package
+desk_status:
+  ran: true
+  result: previous run read successfully after install
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-09-01/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked: []
+  killed: []
+  scored_ids: []
+investigations:
+  - id: 2026-005-navy-submarine-maintenance
+    decision: park
+    new_primary_documents: 1
+    evidence_added:
+      - 2026-09-01-navy-john-warner-undocking
+  - id: 2026-006-gao-it-modernization-controls
+    decision: continue
+    new_primary_documents: 3
+    evidence_added:
+      - 2026-09-01-gao-26-900698
+      - 2026-09-01-gao-25-108440
+      - 2026-09-01-gao-26-107530
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+parked_investigations:
+  - 2026-005-navy-submarine-maintenance
+  - 2026-002-boeing-787-cargo-frame-material
+  - 2026-003-army-network-scale-baseline
+  - 2026-004-nuclear-fuel-cost-visibility
+publication:
+  published: false
+  reason: Navy evidence is ship-specific and GAO evidence still lacks an initiative-level cost-to-milestone join; no original article was ready
+journal: newsroom/journal/2026-09-01.md
+desk_note: newsroom/desk/2026-09-01-r1.md

@@ -25,3 +25,11 @@
 ## Interpretation boundary
 
 E1's FY2024 snapshot reports 16 of 47 SSNs, or 34%, in depot maintenance or awaiting maintenance. E7's April 2026 testimony reports 33% of a 48-boat force, implying roughly the same 16-boat count after rounding. This is a later comparable primary and suggests no material reduction is visible in the reported count, but it is not a Navy execution series and does not establish causation. E3's operational-day and projected inactive-idle measures remain separate.
+
+## E8 — Norfolk Naval Shipyard, USS John Warner undocking
+
+- URL: https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4450770/norfolk-naval-shipyard-undocks-uss-john-warner/
+- Retrieved: 2026-09-01
+- Locator: Official Navy news page, headline and date April 2, 2026; report text on the Extended Drydocking Selected Restricted Availability milestone.
+- What it establishes: The Navy reports that USS John Warner (SSN 785) undocked after more than 95% of production work was complete; the remaining work focused on testing, crew readiness, and sea trials. The page also says the submarine was the first Virginia-class Block III drydocking at a public shipyard.
+- Interpretation boundary: This is a ship-specific milestone, not a fleet-level count, a post-April measure, or proof that the 20% maintenance benchmark was met. The page was accessible through official search indexing, while direct retrieval returned an access-denied response.

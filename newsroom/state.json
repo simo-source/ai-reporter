@@ -7,21 +7,21 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-005-navy-submarine-maintenance",
     "2026-006-gao-it-modernization-controls"
   ],
   "parked_investigations": [
+    "2026-005-navy-submarine-maintenance",
     "2026-002-boeing-787-cargo-frame-material",
     "2026-003-army-network-scale-baseline",
     "2026-004-nuclear-fuel-cost-visibility"
   ],
   "series": [],
-  "last_run": "2026-08-31",
+  "last_run": "2026-09-01",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-08-31",
+  "last_horizon": "2026-09-01",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-08-31.md",
-  "next_action": "For Navy, locate an exact post-April-2026 Navy, NAVSEA, congressional, or budget-execution SSN maintenance outcome; for GAO IT, locate a public procurement, project, financial, or FY2026 performance record that maps initiative costs or milestones to the OIG's 61-initiative count.",
-  "handoff": "Two active threads are now open, with active slots 2/3 and parked slots 3/10. Navy E7, an April 22, 2026 CBO testimony, reports 33% of a 48-boat SSN force in or awaiting maintenance, implying roughly the same 16-boat count as CRS E1's FY2024 16/47 snapshot; this is not an exact Navy execution series. GAO IT E1–E4 join the OIG's 61-initiative count and cost-tracking limitation to earlier targets, later deferrals, and concrete plan examples, but no initiative-level cost-to-milestone map exists yet. No article was published.",
+  "last_journal": "newsroom/journal/2026-09-01.md",
+  "next_action": "For GAO IT, locate a public procurement, project, or contract record linking an itemized modernization cost or milestone to the OIG's 61-initiative count; keep Navy parked until a distinct post-April-2026 fleet/class execution record appears.",
+  "handoff": "One active thread remains: GAO IT modernization. New GAO FY2027 and FY2026 records document four agency-wide rollouts, more than 95% cloud migration, and infrastructure-operations totals, while GAO's cloud audit reports FPDS data were too imprecise for aggregate spending analysis; none maps to the OIG's 61 initiatives. Navy is parked after an official USS John Warner milestone failed to supply a post-April fleet/class outcome; reopen only on a distinct public execution record. No article was published.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

@@ -1,0 +1,26 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO-26-107850 says selected DOE field offices evaluated contractor assurance systems without a defined CAS-effectiveness standard or specified evaluation criteria."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO-26-107850 says its review covered three EM contracts and associated CASs, contractors, sites, field offices, contracts, CAS descriptions, assessments, oversight schedules, and performance-evaluation documents."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "DOE's official oversight-policy page says DOE Order 226.1B requires effective contractor assurance systems and that CAS information is intended to support risk-based, tailored federal oversight."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: inference
+    text: "The starting records create a policy-to-practice test, but do not yet show whether CAS performance affected contract fees or other documented consequences in the three selected contracts."
+    status: provisional
+    evidence:
+      - E1
+      - E2

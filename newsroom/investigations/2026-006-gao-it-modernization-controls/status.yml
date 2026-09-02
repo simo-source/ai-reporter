@@ -1,9 +1,9 @@
 id: 2026-006-gao-it-modernization-controls
 opened: 2026-08-31
-updated: 2026-09-01
+updated: 2026-09-02
 status: active
 mode: CONTINUE
-next_action: Locate a public GAO procurement, project, or contract record that links an itemized cost or milestone for the enterprise-content-management, cloud, workflow, or support-contract work to the OIG's 61-initiative count; do not treat agency-wide budget totals as initiative costs.
+next_action: Retrieve the GAORFI0002 draft statement of work or a later award/contract record through an official public channel, and identify whether it names a cost, deliverable, or milestone that can be joined to the OIG's 61-initiative count; do not treat the RFI itself or agency-wide totals as completed work.
 hypothesis: "GAO's public performance and budget records may not allow an outside reader to reconcile modernization progress with total program cost after the move from a five-year plan to an ongoing strategy."
 series: null
 part: null

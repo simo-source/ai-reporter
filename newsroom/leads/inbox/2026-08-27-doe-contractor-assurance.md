@@ -3,12 +3,12 @@
 ## Scores
 
 - Public interest: 5/5
-- Originality: 2/5
+- Originality: 3/5
 - Document-nativeness: 5/5
 - Room to grow: 5/5
 - Legal risk (subtracted): 1/5
-- Net: 16/25
-- Score note: The GAO report is a strong primary starting point, but originality remains capped at 2 until an independent DOE contract, policy, or performance record is retrieved and excerpted. The report's own conclusions are not a finding by themselves.
+- Net: 17/25
+- Score note: The GAO report is now paired with DOE's official oversight-policy page, which states the CAS requirements and the intended risk-based use of contractor performance data. Originality is no longer capped at 2, but the lead still requires contract-level fee and performance records; the GAO report's own conclusions are not a finding by themselves.
 
 ## Hypothesis
 

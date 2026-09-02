@@ -56,3 +56,24 @@ The records now expose more concrete work than the OIG summary alone: nine autom
 - Retrieved: 2026-09-01
 - Locator: June 2026 report, Highlights and Letter, pp. 1–4.
 - What it establishes: Across 24 CFO Act agencies, GAO found that 22 primarily relied on historical procurement data for cloud decisions and that FPDS cloud data were not sufficiently precise for determining aggregated cloud spending, so GAO excluded obligated amounts from its analysis. This is a government-wide comparator, not evidence about GAO's own 61 initiatives, but it reinforces the need to distinguish budget categories, procurement data, and initiative-level costs.
+
+## E8 — GAO-21-510T, Fiscal Year 2022 Budget Request
+
+- URL: https://www.gao.gov/assets/gao-21-510t.pdf
+- Retrieved: 2026-09-02
+- Locator: “Managing Our Internal Operations,” p. 22; “GAO’s Information Technology Resources.”
+- What it establishes: GAO said its FY2022 request would continue the IT-modernization plan and execute a multi-phased Cloud Smart migration. It described an enterprise-content-management solution to retire the legacy document and records system, and said the methods used to plan, project, and track IT operations and investment costs relied on manual processes and disparate data sources; requested funding would support an automated IT portfolio-management solution.
+
+## E9 — GAO Intranet Modernization and Cloud Hosting RFI
+
+- URL: https://sam.gov/opp/33ef2eba0c6d41208bbe3e2983d589d9/view
+- Retrieved: 2026-09-02
+- Locator: General Information and Description; Notice ID `GAORFI0002`; published March 26, 2025; inactive June 16, 2025.
+- What it establishes: GAO issued a presolicitation Request for Information for “GAO Intranet Modernization and Cloud Hosting” to determine a procurement approach and solicit comments on a draft statement of work. The displayed official record supplies a notice date and response date but no award amount or completed-contract milestone.
+
+## E10 — GAO-26-900644, Performance and Accountability Report
+
+- URL: https://www.gao.gov/assets/gao-26-900644.pdf
+- Retrieved: 2026-09-02
+- Locator: Part IV, “OIG Recommendations,” and Table 15.
+- What it establishes: GAO reports that data-egress fees were about $7,300 from April 2023 through March 2024 for two cloud providers. It says the OIG closed one OIG-25-1 recommendation after GAO established budget-threshold alerts and written procedures for reviewing alerts and reports; a second recommendation remained open to ensure all fees are quantified in cost estimates or excluded costs are documented.

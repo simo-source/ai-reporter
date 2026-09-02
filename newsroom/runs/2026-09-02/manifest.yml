@@ -1,0 +1,69 @@
+date: 2026-09-02
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: dependencies installed after initial desk-status missing yaml package
+desk_status:
+  ran: true
+  result: previous run read successfully after install
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-09-02/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 1
+  started:
+    - 2026-007-doe-contractor-assurance
+  parked: []
+  killed: []
+  scored_ids:
+    - 2026-08-27-doe-contractor-assurance
+investigations:
+  - id: 2026-006-gao-it-modernization-controls
+    decision: continue
+    new_primary_documents: 3
+    evidence_added:
+      - 2026-09-02-gao-21-510t
+      - 2026-09-02-gao-intranet-rfi
+      - 2026-09-02-gao-26-900644-oig
+  - id: 2026-007-doe-contractor-assurance
+    decision: continue
+    new_primary_documents: 2
+    evidence_added:
+      - 2026-09-02-gao-26-107850
+      - 2026-09-02-doe-oversight-policy
+  - id: 2026-005-navy-submarine-maintenance
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+parked_investigations:
+  - 2026-005-navy-submarine-maintenance
+  - 2026-002-boeing-787-cargo-frame-material
+  - 2026-003-army-network-scale-baseline
+  - 2026-004-nuclear-fuel-cost-visibility
+publication:
+  published: false
+  reason: New primary records sharpen two research hypotheses but do not yet provide the contract-level or initiative-level join required for an original article
+journal: newsroom/journal/2026-09-02.md
+desk_note: newsroom/desk/2026-09-02-r1.md

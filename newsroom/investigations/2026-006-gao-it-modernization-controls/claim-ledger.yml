@@ -70,3 +70,30 @@ claims:
       - E1
       - E5
       - E6
+  - id: C12
+    type: fact
+    text: "GAO's FY2022 budget request described an automated IT portfolio-management solution because the existing methods for planning, projecting, and tracking IT operations and investment costs relied on manual processes and disparate data sources."
+    status: supported
+    evidence:
+      - E8
+  - id: C13
+    type: fact
+    text: "GAO's March 2025 GAORFI0002 presolicitation sought industry input on an intranet modernization and cloud-hosting draft statement of work, but the displayed official record does not provide an award amount or completed-contract milestone."
+    status: supported
+    evidence:
+      - E9
+  - id: C14
+    type: fact
+    text: "GAO's FY2025 performance and accountability report says data-egress fees were about $7,300 for two cloud providers and describes one closed and one still-open OIG-25-1 cost-management recommendation."
+    status: supported
+    evidence:
+      - E10
+  - id: C15
+    type: inference
+    text: "The dated record now links a planned portfolio-tracking solution, a concrete modernization-related presolicitation, and a later cloud-cost control response, but still does not identify which of the 61 OIG initiatives received which cost or milestone."
+    status: provisional
+    evidence:
+      - E1
+      - E8
+      - E9
+      - E10

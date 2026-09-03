@@ -1,0 +1,57 @@
+date: 2026-09-03
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install restored the missing yaml dependency
+desk_status:
+  ran: true
+  result: previous run and handoff read successfully after install
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-09-03/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 1
+  started:
+    - 2026-08-26-dod-installation-maintenance-funding
+  parked: []
+  killed: []
+  scored_ids:
+    - 2026-08-26-dod-installation-maintenance-funding
+investigations:
+  - id: 2026-006-gao-it-modernization-controls
+    decision: park
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-007-doe-contractor-assurance
+    decision: park
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: continue
+    new_primary_documents: 3
+    evidence_added:
+      - evidence/2026-09-03-gao-26-107255.md
+      - evidence/2026-09-03-dod-fy2026-overview.md
+      - evidence/2026-09-03-dod-fy2026-o1.md
+parked_investigations:
+  - 2026-006-gao-it-modernization-controls
+  - 2026-007-doe-contractor-assurance
+  - 2026-005-navy-submarine-maintenance
+  - 2026-002-boeing-787-cargo-frame-material
+  - 2026-003-army-network-scale-baseline
+  - 2026-004-nuclear-fuel-cost-visibility
+publication:
+  published: false
+  reason: The primary records expose a denominator-comparison question but do not yet establish a publishable finding about funding performance, facility conditions, or backlog reduction.
+journal: newsroom/journal/2026-09-03.md
+desk_note: newsroom/desk/2026-09-03-r1.md

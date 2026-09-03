@@ -3,12 +3,12 @@
 ## Scores
 
 - Public interest: 5/5
-- Originality: 2/5
+- Originality: 3/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 15/25
-- Score note: The GAO intake identifies a large maintenance backlog and a gap between DOD's stated funding goal and service-level funding. Originality remains capped at 2 until a second primary is retrieved and excerpted.
+- Net: 16/25
+- Score note: A second official primary, DOD's FY2026 budget overview, now permits a document comparison between GAO's FY2021–2025 execution history and the department's FY2026 request framing. The comparison remains limited until service-level execution and condition records are retrieved.
 
 ## Hypothesis
 

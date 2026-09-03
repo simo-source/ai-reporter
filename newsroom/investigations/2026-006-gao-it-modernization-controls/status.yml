@@ -1,11 +1,11 @@
 id: 2026-006-gao-it-modernization-controls
 opened: 2026-08-31
-updated: 2026-09-02
-status: active
-mode: CONTINUE
-next_action: Retrieve the GAORFI0002 draft statement of work or a later award/contract record through an official public channel, and identify whether it names a cost, deliverable, or milestone that can be joined to the OIG's 61-initiative count; do not treat the RFI itself or agency-wide totals as completed work.
+updated: 2026-09-03
+status: parked
+mode: PARK
+next_action: Reopen only when an official public GAORFI0002 attachment, award/contract record, or project document exposes an initiative-level cost, deliverable, or milestone that can be joined to the OIG's 61-initiative count; do not repeat the unchanged presolicitation retrieval.
 hypothesis: "GAO's public performance and budget records may not allow an outside reader to reconcile modernization progress with total program cost after the move from a five-year plan to an ongoing strategy."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

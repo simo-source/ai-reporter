@@ -10,6 +10,10 @@
 - GAO's March 2025 intranet-modernization RFI is a public procurement trail, but the displayed SAM.gov record is only a presolicitation and supplies neither an award amount nor a completed-contract milestone.
 - GAO's FY2025 report documents about $7,300 in data-egress fees and a control response, but it does not identify the major system or connect that cost to an OIG modernization initiative.
 
+## 2026-09-03 thread decision
+
+Parked. Yesterday's next action was to locate the GAORFI0002 statement of work or a later award record; no distinct public attachment or award record is identified in today's intake. Repeating that retrieval would be the same action for a second day, so the thread will reopen only when a new official procurement or project record appears.
+
 ## Decision required
 
 Continue while an official public procurement record, contract, or project document can expose an initiative-level cost or milestone. The next action is to locate the GAORFI0002 statement of work or a later award record through an official channel. Park after two runs with the same retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if the only possible output is a recap of OIG-26-2.

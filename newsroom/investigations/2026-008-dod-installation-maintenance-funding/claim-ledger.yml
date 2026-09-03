@@ -1,0 +1,33 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports that DOD's deferred maintenance increased from $137 billion in FY2020 to an estimated $285 billion in FY2025."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO reports that the services generally requested around 80 percent of Facilities Sustainment Model recommendations during FY2021–FY2025, while Marine Corps requests fell from 80 percent to 40 percent over the five-year period."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "DOD's FY2026 budget overview requests $27.3 billion for Facilities Sustainment, Restoration, and Modernization and describes sustainment at an 85-percent minimum and 87-percent average."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: fact
+    text: "DOD's FY2026 O-1 exhibit lists $6.159744 billion in discretionary funding, $0.427213 billion in reconciliation funding, and $6.586957 billion total for Army O&M account 2020A activity 132, Facilities Sustainment, Restoration & Modernization."
+    status: supported
+    evidence:
+      - E3
+  - id: C5
+    type: inference
+    text: "The FY2026 budget overview's forward-looking percentages and the GAO report's FY2021–FY2025 service comparisons cannot yet be treated as one continuous performance measure because their denominator, population, and execution basis have not been joined."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3

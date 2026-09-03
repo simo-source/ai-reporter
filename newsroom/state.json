@@ -7,22 +7,23 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-006-gao-it-modernization-controls",
-    "2026-007-doe-contractor-assurance"
+    "2026-008-dod-installation-maintenance-funding"
   ],
   "parked_investigations": [
+    "2026-006-gao-it-modernization-controls",
+    "2026-007-doe-contractor-assurance",
     "2026-005-navy-submarine-maintenance",
     "2026-002-boeing-787-cargo-frame-material",
     "2026-003-army-network-scale-baseline",
     "2026-004-nuclear-fuel-cost-visibility"
   ],
   "series": [],
-  "last_run": "2026-09-02",
+  "last_run": "2026-09-03",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-02",
+  "last_horizon": "2026-09-03",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-02.md",
-  "next_action": "For GAO IT, retrieve the GAORFI0002 draft statement of work or a later award/contract record through an official public channel; for DOE CAS, retrieve the Idaho Cleanup Project End State, Los Alamos Legacy Cleanup, and Central Plateau Cleanup contract and performance-evaluation records cited by GAO. Keep Navy parked until a distinct post-April-2026 fleet/class execution record appears.",
-  "handoff": "Two active threads remain. GAO IT now compares a 2021 plan for automated portfolio tracking, a 2025 intranet-modernization presolicitation, and a later cloud-cost control response, but none maps a cost or milestone to the OIG's 61 initiatives. DOE CAS opened from GAO-26-107850 and DOE's official oversight-policy page; it needs the three sampled contracts' clauses, performance evaluations, and fee decisions. Navy and three other investigations remain parked; no article was published.",
+  "last_journal": "newsroom/journal/2026-09-03.md",
+  "next_action": "Retrieve an official military-service budget, execution, facility-condition, or work-order record that defines a comparable requirement population and period for the DOD installation-maintenance investigation; do not repeat the GAO report or generic DOD overview retrieval.",
+  "handoff": "The two inherited active threads were parked because their specified retrieval actions were unchanged from the prior run: GAO IT awaits a new procurement/project record, and DOE CAS awaits contract-level clauses, evaluations, or fee decisions. A new active DOD installation-maintenance investigation now compares GAO-26-107255, DOD's FY2026 budget overview, and the FY2026 O-1 exhibit; it has not yet joined funding percentages to execution or backlog outcomes. Four older investigations remain parked, and no article was published.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

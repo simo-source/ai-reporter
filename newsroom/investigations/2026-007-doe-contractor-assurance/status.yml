@@ -1,11 +1,11 @@
 id: 2026-007-doe-contractor-assurance
 opened: 2026-09-02
-updated: 2026-09-02
-status: active
-mode: CONTINUE
-next_action: Retrieve the official Idaho Cleanup Project End State, Los Alamos Legacy Cleanup, and Central Plateau Cleanup contract and performance-evaluation records cited by GAO-26-107850; compare fee mechanisms and documented fee decisions with DOE's CAS requirements.
+updated: 2026-09-03
+status: parked
+mode: PARK
+next_action: Reopen only when an official DOE contract, clause, performance evaluation, fee decision, or site oversight record for the three GAO-sampled contracts becomes publicly retrievable; do not repeat the unchanged contract-record retrieval.
 hypothesis: "DOE's contractor-assurance system may be formally required but operationally weak because contract incentives and performance evaluations do not translate CAS performance into clear, measurable consequences."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

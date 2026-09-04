@@ -18,12 +18,12 @@
     "2026-004-nuclear-fuel-cost-visibility"
   ],
   "series": [],
-  "last_run": "2026-09-03",
+  "last_run": "2026-09-04",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-03",
+  "last_horizon": "2026-09-04",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-03.md",
-  "next_action": "Retrieve an official military-service budget, execution, facility-condition, or work-order record that defines a comparable requirement population and period for the DOD installation-maintenance investigation; do not repeat the GAO report or generic DOD overview retrieval.",
-  "handoff": "The two inherited active threads were parked because their specified retrieval actions were unchanged from the prior run: GAO IT awaits a new procurement/project record, and DOE CAS awaits contract-level clauses, evaluations, or fee decisions. A new active DOD installation-maintenance investigation now compares GAO-26-107255, DOD's FY2026 budget overview, and the FY2026 O-1 exhibit; it has not yet joined funding percentages to execution or backlog outcomes. Four older investigations remain parked, and no article was published.",
+  "last_journal": "newsroom/journal/2026-09-04.md",
+  "next_action": "Retrieve an official service-level execution, obligation, facility-condition, or work-order record that can be paired with the Army, Navy, or Marine Corps Reserve FY2026 modeled requirement and request denominators; do not repeat the GAO report or budget-justification retrieval.",
+  "handoff": "The DOD installation-maintenance thread continued with three new official FY2026 service budget books and the DOD Financial Management Regulation. Army regular reports 91 percent of its modeled sustainment requirement, the Navy reports 85 percent subject to reconciliation, and Marine Corps Reserve reports 53 percent; these are request-side comparisons, not execution outcomes. The next gap is a same-population service-level obligation, work-order, facility-condition, or backlog record. GAO IT and DOE CAS remain parked because no new official records opened their specified paths. Four older investigations remain parked, and no article was published.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

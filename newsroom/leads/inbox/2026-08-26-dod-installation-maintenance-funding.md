@@ -3,12 +3,12 @@
 ## Scores
 
 - Public interest: 5/5
-- Originality: 3/5
+- Originality: 4/5
 - Document-nativeness: 5/5
 - Room to grow: 4/5
 - Legal risk (subtracted): 1/5
-- Net: 16/25
-- Score note: A second official primary, DOD's FY2026 budget overview, now permits a document comparison between GAO's FY2021–2025 execution history and the department's FY2026 request framing. The comparison remains limited until service-level execution and condition records are retrieved.
+- Net: 17/25
+- Score note: Army, Navy, Marine Corps Reserve, and DOD budget and policy records now expose materially different component-level modeled-sustainment percentages (91%, 85% conditional on reconciliation, and 53%) beneath DOD's 85-percent minimum/87-percent average overview framing. Originality is stronger because the comparison is not visible in any single overview, but it remains limited until service-level execution and condition records are retrieved.
 
 ## Hypothesis
 

@@ -1,0 +1,56 @@
+date: 2026-09-04
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install restored the missing yaml dependency
+desk_status:
+  ran: true
+  result: previous run and handoff read successfully after install
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-09-04/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked: []
+  killed: []
+  scored_ids: []
+investigations:
+  - id: 2026-006-gao-it-modernization-controls
+    decision: park
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-007-doe-contractor-assurance
+    decision: park
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: continue
+    new_primary_documents: 4
+    evidence_added:
+      - evidence/2026-09-04-army-fy26-om-justification.md
+      - evidence/2026-09-04-navy-fy26-om-justification.md
+      - evidence/2026-09-04-marine-corps-reserve-fy26-om-justification.md
+      - evidence/2026-09-04-dod-fmr-volume-2b-chapter-8.md
+parked_investigations:
+  - 2026-006-gao-it-modernization-controls
+  - 2026-007-doe-contractor-assurance
+  - 2026-005-navy-submarine-maintenance
+  - 2026-002-boeing-787-cargo-frame-material
+  - 2026-003-army-network-scale-baseline
+  - 2026-004-nuclear-fuel-cost-visibility
+publication:
+  published: false
+  reason: The new primary records expose a component-level denominator comparison, but do not yet establish a same-population execution, obligation, work-order, or backlog finding.
+journal: newsroom/journal/2026-09-04.md
+desk_note: newsroom/desk/2026-09-04-r1.md

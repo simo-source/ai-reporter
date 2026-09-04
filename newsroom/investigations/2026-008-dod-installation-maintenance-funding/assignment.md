@@ -11,6 +11,14 @@ DOD's 90-percent installation-maintenance funding goal may not be a reliable pro
 2. DOD, *FY 2026 Budget Request Overview Book*:
    https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/FY2026_Budget_Request_Overview_Book.pdf
 3. Military-service budget justifications and facility-condition or work-order records that define the requirements, requests, obligations, and backlog denominators.
+4. Army FY2026 Operation and Maintenance, Regular Army, Volume I:
+   https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/2026/Discretionary%20Budget/Operation%20and%20Maintenance/Regular%20Army%20Operation%20and%20Maintenance%20Volume%201.pdf
+5. Department of the Navy FY2026 Operation and Maintenance, Navy, Volume I:
+   https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMN_Book.pdf
+6. Department of the Navy FY2026 Operation and Maintenance, Marine Corps Reserve:
+   https://www.secnav.navy.mil/fmc/fmb/Documents/26pres/OMMCR_Book.pdf
+7. DOD Financial Management Regulation Volume 2B, Chapter 8:
+   https://comptroller.defense.gov/Portals/45/documents/fmr/current/02b/02b_08.pdf
 
 ## What would be new
 

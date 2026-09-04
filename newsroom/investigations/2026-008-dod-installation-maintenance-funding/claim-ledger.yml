@@ -31,3 +31,30 @@ claims:
       - E1
       - E2
       - E3
+  - id: C6
+    type: fact
+    text: "The Army regular-component FY2026 budget justification states that facility sustainment is funded at 91 percent of the DOD Facility Sustainment Model and lists $6.586957 billion total for Army O&M activity 132 FSRM."
+    status: supported
+    evidence:
+      - E4
+  - id: C7
+    type: fact
+    text: "The Navy FY2026 budget justification lists $5.678354 billion total for BSM1 and says the request would fund facility sustainment at 85 percent of the modeled requirement, conditional on the reconciliation bill."
+    status: supported
+    evidence:
+      - E5
+  - id: C8
+    type: fact
+    text: "The Marine Corps Reserve FY2026 budget justification reports a $41.846 million sustainment requirement, $22.282 million total sustainment funding including military pay, and 53 percent sustainment of FSM 26.2."
+    status: supported
+    evidence:
+      - E6
+  - id: C9
+    type: inference
+    text: "Within the FY2026 request records, published sustainment percentages vary materially by component, but the records do not yet establish whether the differences reflect distinct populations, weighting, funding sources, or execution outcomes."
+    status: provisional
+    evidence:
+      - E2
+      - E4
+      - E5
+      - E6

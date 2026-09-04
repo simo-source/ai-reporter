@@ -1,9 +1,9 @@
 id: 2026-008-dod-installation-maintenance-funding
 opened: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 status: active
 mode: CONTINUE
-next_action: Retrieve one or more official military-service budget-justification and execution records that define facility-sustainment requirements, requests, obligations, and backlog or condition measures; compare their denominators with GAO's FY2021–2025 analysis and DOD's FY2026 request framing.
+next_action: Retrieve an official service-level execution, obligation, facility-condition, or work-order record that can be paired with the Army, Navy, or Marine Corps Reserve FY2026 modeled requirement and request denominators; do not repeat the GAO report or budget-justification retrieval.
 hypothesis: "DOD's 90-percent installation-maintenance funding goal may not be a reliable proxy for reducing the facilities backlog because service budget requests, funded requirements, and executed work may measure different populations or time periods."
 series: null
 part: null

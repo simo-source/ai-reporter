@@ -33,3 +33,12 @@ E1's FY2024 snapshot reports 16 of 47 SSNs, or 34%, in depot maintenance or awai
 - Locator: Official Navy news page, headline and date April 2, 2026; report text on the Extended Drydocking Selected Restricted Availability milestone.
 - What it establishes: The Navy reports that USS John Warner (SSN 785) undocked after more than 95% of production work was complete; the remaining work focused on testing, crew readiness, and sea trials. The page also says the submarine was the first Virginia-class Block III drydocking at a public shipyard.
 - Interpretation boundary: This is a ship-specific milestone, not a fleet-level count, a post-April measure, or proof that the 20% maintenance benchmark was met. The page was accessible through official search indexing, while direct retrieval returned an access-denied response.
+
+## E9 — GAO-26-109256, Navy attack-submarine maintenance
+
+- URL: https://www.gao.gov/products/gao-26-109256
+- PDF URLs attempted: https://www.gao.gov/assets/gao-26-109256.pdf and https://files.gao.gov/assets/gao-26-109256.pdf
+- Retrieved: 2026-09-06
+- Locator: official product page, “What GAO Found” and recommendation text.
+- Captured excerpt: GAO states that the Navy lost more than 15,000 operational days over FY2016–FY2025 because of maintenance delays and active idle time, with estimated support costs of $3.4 billion. It distinguishes active idle time for operational submarines from inactive idle time for submarines awaiting decommissioning, and projects that 15 attack submarines will enter inactive idle time during FY2026–FY2030, producing more than 14,000 additional idle days and $3.1 billion in projected support costs without mitigation.
+- Boundary: These are GAO’s cross-period operational-day and projection measures, not a Navy FY2026 fleet count comparable to the CRS 34-percent or CBO 33-percent maintenance-or-awaiting-maintenance shares. The official HTML and both PDF endpoints were inaccessible to the document fetcher beyond the product-page summary; no claim is based on secondary coverage.

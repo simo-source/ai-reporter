@@ -7,23 +7,23 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-008-dod-installation-maintenance-funding"
+    "2026-008-dod-installation-maintenance-funding",
+    "2026-005-navy-submarine-maintenance"
   ],
   "parked_investigations": [
     "2026-006-gao-it-modernization-controls",
     "2026-007-doe-contractor-assurance",
-    "2026-005-navy-submarine-maintenance",
     "2026-002-boeing-787-cargo-frame-material",
     "2026-003-army-network-scale-baseline",
     "2026-004-nuclear-fuel-cost-visibility"
   ],
   "series": [],
-  "last_run": "2026-09-04",
+  "last_run": "2026-09-06",
   "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-04",
+  "last_horizon": "2026-09-06",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-04.md",
-  "next_action": "Retrieve an official service-level execution, obligation, facility-condition, or work-order record that can be paired with the Army, Navy, or Marine Corps Reserve FY2026 modeled requirement and request denominators; do not repeat the GAO report or budget-justification retrieval.",
-  "handoff": "The DOD installation-maintenance thread continued with three new official FY2026 service budget books and the DOD Financial Management Regulation. Army regular reports 91 percent of its modeled sustainment requirement, the Navy reports 85 percent subject to reconciliation, and Marine Corps Reserve reports 53 percent; these are request-side comparisons, not execution outcomes. The next gap is a same-population service-level obligation, work-order, facility-condition, or backlog record. GAO IT and DOE CAS remain parked because no new official records opened their specified paths. Four older investigations remain parked, and no article was published.",
+  "last_journal": "newsroom/journal/2026-09-06.md",
+  "next_action": "Obtain and read the Army or Navy FY2025 DD 1416 Title II O&M execution workbook from the official Comptroller archive, then test whether its account and period fields can be paired with the FY2026 modeled requirement; for the submarine thread, seek a Navy or NAVSEA fleet-level execution record without merging GAO operational-day and CRS/CBO fleet-share measures.",
+  "handoff": "The installation-maintenance thread remains active. A USACE Civil Works work-order standard identifies status, actual-cost, date, and closeout fields, and the official Comptroller archive lists Army and Navy FY2025 DD 1416 Title II O&M workbooks, but no workbook content was retrieved and no execution outcome is established. The Navy submarine thread was reopened after GAO-26-109256 supplied a distinct FY2016–FY2025 operational-day series and FY2026–FY2030 inactive-idle projection; those measures remain separate from CRS/CBO fleet shares. GAO IT and DOE CAS remain parked, as do four older investigations. No article was published.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

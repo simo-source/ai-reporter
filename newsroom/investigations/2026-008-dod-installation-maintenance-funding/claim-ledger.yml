@@ -58,3 +58,15 @@ claims:
       - E4
       - E5
       - E6
+  - id: C10
+    type: fact
+    text: "The official Comptroller FY2025 execution archive lists Army and Navy DD 1416 Title II O&M annual reports for September 30, 2025, in Excel format."
+    status: supported
+    evidence:
+      - E9
+  - id: C11
+    type: inference
+    text: "A public work-order standard can define execution and backlog fields, but the USACE Civil Works standard cannot be used as evidence of Army regular-component FSRM execution or a DOD-wide condition outcome."
+    status: provisional
+    evidence:
+      - E8

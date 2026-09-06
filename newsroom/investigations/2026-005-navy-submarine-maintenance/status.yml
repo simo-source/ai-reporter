@@ -1,11 +1,11 @@
 id: 2026-005-navy-submarine-maintenance
 opened: 2026-08-30
-updated: 2026-09-01
-status: parked
-mode: PARK
-next_action: Reopen only when a distinct public Navy, NAVSEA, congressional, or budget-execution record reports an exact post-April-2026 SSN fleet or class maintenance outcome; do not repeat generic Navy-news retrieval.
+updated: 2026-09-06
+status: active
+mode: CONTINUE
+next_action: Compare GAO's FY2016–FY2025 lost-operational-day and inactive-idle series with the CRS FY2024 34-percent and CBO April 2026 33-percent fleet shares without merging unlike measures; seek a Navy or NAVSEA fleet-level execution record next.
 hypothesis: "The Navy's FY2026 maintenance funding and shipyard-capacity response may not yet demonstrate recovery of the attack-submarine maintenance backlog against its stated 20% maintenance benchmark."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: park
+last_decision: continue

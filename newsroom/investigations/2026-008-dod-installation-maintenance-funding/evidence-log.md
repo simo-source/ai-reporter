@@ -58,3 +58,19 @@
 - Locator: Sections 2.1.2–2.1.7 and 2.2.1, pages 8-8 through 8-9.
 - Captured excerpt: The regulation defines FSRM to include recurring maintenance and repair, real-property renovation, and associated planning and design. It requires component justification levels to correspond to Facilities Data Quality Assurance program elements and directs components to account for military-personnel, host-nation, non-federal domestic, Defense Working Capital Fund, and RDT&E contributions that support facility sustainment.
 - Boundary: This is a budgeting and reporting rule, not evidence that any component met a modeled requirement or reduced a backlog. It helps identify possible denominator differences but does not resolve them.
+
+## E8 — USACE Civil Works work-order workflow and requirements
+
+- URL: https://publibrary.sec.usace.army.mil/api/download?filename=EP%201130-2-557%20-%20Workflow%20and%20Work%20Order%20Requirements%202025%2012%2009%20-%20Final.pdf&id=65e15cad-d153-4617-d282-02bbb69f94f5&preview=true&token=
+- Retrieved: 2026-09-06
+- Locator: EP 1130-2-557, 17 December 2025, sections 6 and 8, pp. 1–5; section 9, pp. 5–6; Appendix B, pp. 15–24.
+- Captured excerpt: USACE Civil Works says its Facilities and Equipment Maintenance system records work orders through identification, funding, planning, procurement, scheduling, execution, inspection, and closeout. The guidance requires status, estimated and actual labor/material/service costs, dates, failure reporting, and reasons for non-completion; it defines `WFUNDS` for valid work waiting for funding and backlog as valid work not currently in progress, complete, closed, or awaiting approval.
+- Boundary: This is an official work-order and backlog data standard for the USACE Civil Works program, not Army regular-component FSRM execution or a DOD-wide Facilities Sustainment Model result. It identifies the fields a comparable execution record should expose but supplies no service-wide obligation, closure, or condition series.
+
+## E9 — DOD FY2025 DD 1416 execution archive
+
+- URL: https://comptroller.war.gov/Budget-Execution/1416QrtlyRptsfy2025/
+- Retrieved: 2026-09-06
+- Locator: official “1416 Quarterly Reports — FY2025” page, “1416 Quarterly Report — September 30, 2025,” Title II O&M list.
+- Captured excerpt: The Comptroller archive lists Army and Navy FY2025 DD 1416 Title II O&M annual reports and states that the documents are in Excel format.
+- Boundary: The archive establishes a public execution-report path, but the workbook hrefs were not exposed in the returned document view and the original comptroller.gov page was access-denied. No execution amount or FSRM work-order result is inferred from the index alone. The next retrieval must obtain and read the Army or Navy workbook itself.

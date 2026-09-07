@@ -1,11 +1,11 @@
 id: 2026-008-dod-installation-maintenance-funding
 opened: 2026-09-03
-updated: 2026-09-06
-status: active
-mode: CONTINUE
-next_action: Obtain and read the Army or Navy FY2025 DD 1416 Title II O&M execution workbook listed in the official Comptroller archive, then test whether its account and period fields can be paired with the FY2026 modeled requirement; do not repeat the GAO report, DOD overview, or service budget-book retrieval.
+updated: 2026-09-07
+status: parked
+mode: PARK
+next_action: Reopen only when the official Comptroller archive exposes a retrievable Army or Navy FY2025 DD 1416 Title II O&M workbook, or a distinct service-level obligation, facility-condition, or work-order record.
 hypothesis: "DOD's 90-percent installation-maintenance funding goal may not be a reliable proxy for reducing the facilities backlog because service budget requests, funded requirements, and executed work may measure different populations or time periods."
 series: null
 part: null
 consecutive_continue_without_new_primary: 0
-last_decision: continue
+last_decision: park

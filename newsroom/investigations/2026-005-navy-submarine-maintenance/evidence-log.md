@@ -42,3 +42,9 @@ E1's FY2024 snapshot reports 16 of 47 SSNs, or 34%, in depot maintenance or awai
 - Locator: official product page, “What GAO Found” and recommendation text.
 - Captured excerpt: GAO states that the Navy lost more than 15,000 operational days over FY2016–FY2025 because of maintenance delays and active idle time, with estimated support costs of $3.4 billion. It distinguishes active idle time for operational submarines from inactive idle time for submarines awaiting decommissioning, and projects that 15 attack submarines will enter inactive idle time during FY2026–FY2030, producing more than 14,000 additional idle days and $3.1 billion in projected support costs without mitigation.
 - Boundary: These are GAO’s cross-period operational-day and projection measures, not a Navy FY2026 fleet count comparable to the CRS 34-percent or CBO 33-percent maintenance-or-awaiting-maintenance shares. The official HTML and both PDF endpoints were inaccessible to the document fetcher beyond the product-page summary; no claim is based on secondary coverage.
+
+## 2026-09-07 comparison
+
+The CRS record reports 16 of 47 SSNs in depot maintenance or awaiting depot maintenance in FY2024 (34%, rounded). CBO's April 22, 2026 testimony reports 33% of a 48-boat SSN force in or awaiting maintenance; applying that rounded share to 48 yields about 15.8 boats, consistent with roughly 16 boats but not a precise count. The two records therefore show no material reduction in the reported scale, but their denominators, dates, and provenance do not establish a Navy execution trend or causation.
+
+GAO's more-than-15,000 lost operational days in FY2016–FY2025 and projected more-than-14,000 inactive-idle days for 15 submarines in FY2026–FY2030 are a separate readiness-cost and time measure. They add context to the maintenance problem but cannot be merged with the CRS/CBO fleet-share snapshots or used as a post-FY2024 fleet percentage.

@@ -10,3 +10,7 @@
 ## Decision required
 
 Continue while an official DD 1416 execution workbook or service-level obligation, facility-condition, or work-order record can pair with the service request denominators. Park after two days with the same direct-workbook retrieval action or three consecutive continue decisions without a new primary excerpt. Kill if only budget percentages and generic workflow policy can be compared without an outcome measure, or if service records cannot identify a comparable population and period.
+
+## 2026-09-07 decision
+
+**Park.** The 2026-09-07 horizon supplied no new Army or Navy execution workbook, obligation record, facility-condition record, or work-order result. The next action would have repeated the same inaccessible DD 1416 workbook retrieval from 2026-09-06, so the thread is blocked rather than disproven. Reopen only when the workbook or another distinct service-level outcome record is publicly retrievable.

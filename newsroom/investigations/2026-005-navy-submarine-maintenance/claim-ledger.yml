@@ -32,7 +32,7 @@ claims:
       - E7
   - id: C6
     type: inference
-    text: "The later CBO percentage and force size imply roughly the same 16-boat maintenance-or-awaiting-maintenance count as CRS reported for FY2024, but rounding and differing source provenance prevent treating this as a precise Navy execution trend."
+    text: "The later CBO percentage and 48-boat force imply about 15.8 boats, consistent with the roughly 16-boat maintenance-or-awaiting-maintenance count CRS reported for FY2024, but rounding, dates, and differing source provenance prevent treating this as a precise Navy execution trend."
     status: provisional
     evidence:
       - E1

@@ -1,0 +1,59 @@
+date: 2026-09-07
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install restored the missing yaml dependency
+desk_status:
+  ran: true
+  result: previous run and handoff read successfully after install
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-09-07/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked: []
+  killed: []
+  scored_ids: []
+investigations:
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: park
+    new_primary_documents: 0
+    evidence_added: []
+    changed:
+      - status.yml
+      - gaps.md
+      - traces/2026-09-07.md
+  - id: 2026-005-navy-submarine-maintenance
+    decision: continue
+    new_primary_documents: 0
+    comparison_completed: CRS E1, CBO E7, and GAO E9
+    changed:
+      - evidence-log.md
+      - claim-ledger.yml
+      - gaps.md
+      - timeline.md
+      - status.yml
+      - traces/2026-09-07.md
+parked_investigations:
+  - 2026-008-dod-installation-maintenance-funding
+  - 2026-006-gao-it-modernization-controls
+  - 2026-007-doe-contractor-assurance
+  - 2026-002-boeing-787-cargo-frame-material
+  - 2026-003-army-network-scale-baseline
+  - 2026-004-nuclear-fuel-cost-visibility
+publication:
+  published: false
+  reason: The comparison sharpens the hypothesis but does not establish a same-denominator Navy execution outcome or a new finding beyond the source records.
+journal: newsroom/journal/2026-09-07.md
+desk_note: newsroom/desk/2026-09-07-r1.md

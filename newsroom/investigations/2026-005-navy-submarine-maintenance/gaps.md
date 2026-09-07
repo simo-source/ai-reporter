@@ -12,3 +12,7 @@
 ## Decision required
 
 **Reopened on 2026-09-06.** E9 is a distinct official primary record with a FY2025 operational series and a FY2026–FY2030 projection. It advances the hypothesis but does not close the comparable fleet-share gap. Continue once to compare the measures explicitly, then seek a Navy/NAVSEA execution record; park again if the next retrieval would repeat this comparison without a new primary.
+
+## 2026-09-07 update
+
+The comparison was completed: CRS's 16 of 47 boats and CBO's rounded 33% of 48 boats are consistent with approximately the same 16-boat scale, while GAO's operational-day and inactive-idle measures remain non-comparable. This sharpens the unresolved question but does not establish a Navy execution trend. The next retrieval must be a new Navy or NAVSEA fleet-level record; if no such record is publicly retrievable, park rather than repeat the comparison.

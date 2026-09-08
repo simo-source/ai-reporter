@@ -1,0 +1,26 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO-26-109096 reports 438 fully or partially terminated DHS contracts from January 20 through September 30, 2025, with more than $1.6 billion obligated before termination and a net deobligation of more than $92 million afterward."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "DHS's FY2025 Agency Financial Report states that the department terminated over 500 contracts and reported $175 million in contract savings."
+    status: supported
+    evidence:
+      - E2
+  - id: C3
+    type: fact
+    text: "DHS's transparency page directs the public to a list of terminated contracts and contracting-activity files."
+    status: supported
+    evidence:
+      - E3
+  - id: C4
+    type: inference
+    text: "The GAO and DHS figures are not yet shown to be comparable because their dates, populations, and savings definitions differ."
+    status: provisional
+    evidence:
+      - E1
+      - E2

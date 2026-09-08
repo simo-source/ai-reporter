@@ -7,9 +7,10 @@
   "max_active_workstreams_per_run": 2,
   "min_days_between_publishes": 6,
   "open_investigations": [
-    "2026-005-navy-submarine-maintenance"
+    "2026-009-dhs-contract-termination-savings"
   ],
   "parked_investigations": [
+    "2026-005-navy-submarine-maintenance",
     "2026-008-dod-installation-maintenance-funding",
     "2026-006-gao-it-modernization-controls",
     "2026-007-doe-contractor-assurance",
@@ -18,12 +19,12 @@
     "2026-004-nuclear-fuel-cost-visibility"
   ],
   "series": [],
-  "last_run": "2026-09-07",
-  "last_mode": "CONTINUE",
-  "last_horizon": "2026-09-07",
+  "last_run": "2026-09-08",
+  "last_mode": "SCAN",
+  "last_horizon": "2026-09-08",
   "last_published_at": null,
-  "last_journal": "newsroom/journal/2026-09-07.md",
-  "next_action": "Seek a new Navy or NAVSEA fleet-level execution record with a dated SSN maintenance-or-awaiting-maintenance count or stable denominator; do not repeat the CRS/CBO comparison or GAO product retrieval.",
-  "handoff": "The installation-maintenance thread was parked because the public horizon added no retrievable DD 1416 workbook or other service-level outcome; reopen only when that condition changes. The submarine thread remains active after a comparison of CRS's FY2024 34% snapshot with CBO's rounded April 2026 33% share, while GAO's operational-day and inactive-idle measures remain separate. No article was published, and all five older parked investigations remain unchanged.",
+  "last_journal": "newsroom/journal/2026-09-08.md",
+  "next_action": "Retrieve the DHS terminated-contract spreadsheet and component-level files, then reconcile dates, populations, termination status, deobligations, settlements, and savings definitions with GAO-26-109096 and the FY2025 Agency Financial Report.",
+  "handoff": "The submarine-maintenance thread was parked because the 2026-09-08 horizon supplied no new public Navy or NAVSEA fleet-level execution record with a comparable measure; reopen only when that condition changes. A new DHS contract-termination investigation is active after capturing GAO-26-109096 and DHS's FY2025 Agency Financial Report as separate primaries. Their aggregate figures are not treated as a contradiction until the official DHS termination spreadsheet and contract-level files are read. No article was published.",
   "notes": "Explore daily. Publish at most weekly. Journal every run. Publisher 2026-08-20: do not continue the NASA OIG recap (PR #1 / 2026-001). Publisher 2026-08-30: max 3 active, max 10 parked; parked do not block new investigations; kill parked to make room. Absence of KILL/HOLD does not mean publish today."
 }

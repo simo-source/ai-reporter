@@ -16,3 +16,7 @@
 ## 2026-09-07 update
 
 The comparison was completed: CRS's 16 of 47 boats and CBO's rounded 33% of 48 boats are consistent with approximately the same 16-boat scale, while GAO's operational-day and inactive-idle measures remain non-comparable. This sharpens the unresolved question but does not establish a Navy execution trend. The next retrieval must be a new Navy or NAVSEA fleet-level record; if no such record is publicly retrievable, park rather than repeat the comparison.
+
+## 2026-09-08 decision
+
+**Park.** Today's horizon supplied no new Navy or NAVSEA fleet-level execution record with the required dated maintenance-or-awaiting-maintenance count or stable denominator. The next action would have repeated the same search and inaccessible retrieval paths from 2026-09-07, so the thread is blocked rather than disproven. Reopen only when that public execution record appears.

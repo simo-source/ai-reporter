@@ -24,3 +24,15 @@ claims:
     evidence:
       - E1
       - E2
+  - id: C5
+    type: fact
+    text: "DHS's transparency page identifies a spreadsheet of terminated contract actions and component-level contracting-activity files."
+    status: supported
+    evidence:
+      - E4
+  - id: C6
+    type: fact
+    text: "The sampled public DHS component attachment provides procurement scope and performance-period information but no termination, deobligation, settlement, or savings amount."
+    status: supported
+    evidence:
+      - E5

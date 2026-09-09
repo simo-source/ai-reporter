@@ -23,3 +23,19 @@
 - Locator: page heading and introductory paragraph.
 - Captured excerpt: DHS says the page provides information on actions taken to reduce spending and directs readers to a “List of Terminated Contracts” spreadsheet and contracting-activity files.
 - Why it matters: Identifies the next official record needed for contract-level reconciliation.
+
+## E4 — DHS transparency page and component contract records
+
+- URLs: https://www.dhs.gov/cpo-transparency-contract-actions-reduce-spending and the component publication pages listed in `evidence/2026-09-09-dhs-transparency-and-component-records.md`
+- Retrieved: 2026-09-09
+- Locator: transparency-page body, spreadsheet button, and component-page attachment tables.
+- Captured excerpt: DHS identifies an XLSX list of terminated contracts and component-level files. The official XLSX target returned 403 through several same-day URL variants; the component pages remained readable and listed individual contract attachments with dates.
+- Why it matters: Shows the underlying record path is official but leaves the population-level spreadsheet unavailable.
+
+## E5 — DHS CISA component contract sample
+
+- URL: https://www.dhs.gov/sites/default/files/2025-03/25_0303_cpo_CISA-Contract-70RCSA21FR0000079-LinkedIn-licenses.pdf
+- Retrieved: 2026-09-09
+- Locator: Statement of Work, sections 1.2–2.6 and period-of-performance table.
+- Captured excerpt: The public attachment describes the CISA LinkedIn subscription scope and a base period plus three option periods ending September 17, 2025. It does not state a termination, deobligation, settlement, or savings amount.
+- Why it matters: Confirms that sampled component files provide procurement scope and dates but not the fields needed to reconcile the two aggregate claims.

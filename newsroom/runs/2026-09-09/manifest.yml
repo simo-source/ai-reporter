@@ -1,0 +1,75 @@
+date: 2026-09-09
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully with no reported vulnerabilities
+desk_status:
+  ran: true
+  result: previous run, state, handoff, and latest journal reread successfully after dependency installation
+ingest:
+  ran: true
+  result: refreshed today's horizon
+  horizon: newsroom/horizon/2026-09-09/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked: []
+  killed: []
+  scored_ids: []
+investigations:
+  - id: 2026-009-dhs-contract-termination-savings
+    decision: park
+    new_primary_documents: 2
+    evidence_added:
+      - E4 DHS transparency page and component contract records
+      - E5 DHS CISA component contract sample
+    changed:
+      - claim-ledger.yml
+      - evidence-log.md
+      - evidence/2026-09-09-dhs-transparency-and-component-records.md
+      - evidence/2026-09-09-dhs-component-contract-sample.md
+      - gaps.md
+      - status.yml
+      - traces/2026-09-09.md
+  - id: 2026-005-navy-submarine-maintenance
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-006-gao-it-modernization-controls
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-007-doe-contractor-assurance
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+publication:
+  published: false
+  reason: The DHS spreadsheet was inaccessible and sampled component records did not expose the fields needed for a publishable reconciliation finding.
+journal: newsroom/journal/2026-09-09.md
+desk_note: newsroom/desk/2026-09-09-r1.md

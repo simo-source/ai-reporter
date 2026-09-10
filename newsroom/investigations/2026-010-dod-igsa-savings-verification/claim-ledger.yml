@@ -1,0 +1,33 @@
+claims:
+  - id: C1
+    type: fact
+    text: "GAO reports 316 active intergovernmental support agreements as of December 2025, up from 45 in 2018."
+    status: supported
+    evidence:
+      - E1
+  - id: C2
+    type: fact
+    text: "GAO says the Navy, Marine Corps, and Air Force did not have procedures to verify actual IGSA costs and savings after agreements began."
+    status: supported
+    evidence:
+      - E1
+  - id: C3
+    type: fact
+    text: "10 U.S.C. § 2679(e) requires each Secretary concerned to make at least 25 percent of realized installation-level IGSA savings available to the installation commander and to certify specified amounts and uses annually to congressional defense committees."
+    status: supported
+    evidence:
+      - E2
+  - id: C4
+    type: fact
+    text: "DoD Instruction 4000.19 requires support-agreement cost information to be quantifiable, measurable, and reasonably attributable, and requires annual review of estimated costs for reimbursable support."
+    status: supported
+    evidence:
+      - E3
+  - id: C5
+    type: inference
+    text: "The relationship between GAO's reported verification gap and the statute's annual savings-recapture certification is unresolved until service-level certifications or agreement records are retrieved."
+    status: provisional
+    evidence:
+      - E1
+      - E2
+      - E3

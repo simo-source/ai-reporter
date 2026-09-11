@@ -5,6 +5,8 @@
 - The Army's 402 Sourcewell task-order records and the Navy–University of Hawaii agreement are described by GAO, but the underlying approval, cost, invoice, and closeout records have not been retrieved.
 - The scope of GAO's statement that Navy, Marine Corps, and Air Force headquarters do not verify actual costs and savings must be compared with the statutory certification process and any service-specific guidance.
 - The relationship between DoD Instruction 4000.19's annual review of reimbursable cost estimates and § 2679(e)'s annual certification of realized savings is unresolved.
+- Army Regulation 5-9 describes twice-yearly program reports, quarterly installation-provider reports, approval letters, cost-benefit analyses, and six-year retention, but the public Army pages reviewed do not expose those records for Fort Leonard Wood.
+- The June 2026 Army announcement reports approximately $2.9 million in combined cost savings and cost avoidances across nine Fort Leonard Wood IGSAs, but does not separate projected, avoided, and realized amounts or identify the statutory installation-level recapture and approved uses.
 
 ## Decision required
 

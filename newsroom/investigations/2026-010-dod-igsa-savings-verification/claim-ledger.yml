@@ -31,3 +31,23 @@ claims:
       - E1
       - E2
       - E3
+  - id: C6
+    type: fact
+    text: "Army Regulation 5-9 requires an IGSA cost-benefit analysis, approval documentation, periodic reporting, six-year record retention, and separate IGSA manager and technical-representative roles."
+    status: supported
+    evidence:
+      - E4
+  - id: C7
+    type: fact
+    text: "An official Army announcement says Fort Leonard Wood had nine active IGSAs in June 2026 and reports approximately $2.9 million in annual cost savings and cost avoidances across them."
+    status: supported
+    evidence:
+      - E5
+  - id: C8
+    type: inference
+    text: "The public Fort Leonard Wood announcement does not, on its face, provide the records needed to distinguish projected or avoided amounts from realized savings or to trace the statutory installation-level recapture."
+    status: provisional
+    evidence:
+      - E2
+      - E4
+      - E5

@@ -39,3 +39,27 @@
 - Locator: paragraphs beginning “A new Intergovernmental Support Agreement is now active,” “Under the new lawn care IGSA,” and “The new grounds maintenance agreement.”
 - Excerpt: The Army says the lawn-care IGSA began June 1, 2026, covers more than 1,600 acres, is renewable for up to nine years, and is one of nine active Fort Leonard Wood IGSAs. It reports approximately $2.9 million in annual cost savings and cost avoidances across those agreements.
 - Boundary: The announcement does not identify the nine agreements, separate projected from realized savings, provide a cost-benefit analysis or approval letter, quantify the 25-percent installation-level amount, or identify sustainment, restoration, and modernization uses.
+
+## E6 — IMCOM FY21 Narrative Funding Guidance
+
+- URL: https://home.army.mil/daegu/3116/2028/0255/FY21_IMCOM_Narrative_Funding_Guidance_Final_1_FEB_2021.pdf
+- Retrieved: 2026-09-12
+- Locator: PDF pages 9–12, section II.A, paragraphs 2–5.
+- Excerpt: The guidance requires annual financial-impact review of reimbursable installation agreements and formal documentation in the agreement file. For IGSAs, it directs the garrison Resource Management Office to record obligations within 10 days of signature, use a unique IGSA number and GFEBS project structure, attach the signed agreement as supporting documentation, process invoices through GFEBS, and periodically reconcile execution with supporting documentation.
+- Boundary: These are Army financial-control and recordkeeping instructions, not proof that Fort Leonard Wood's nine active IGSAs were recorded, reconciled, or publicly reported with realized savings and statutory recapture amounts.
+
+## E7 — Army Community Partnership Program page
+
+- URL: https://dcsg9.army.mil/Army_Community_Partnership_Program
+- Retrieved: 2026-09-12
+- Locator: “How the Partnership Works” and “Partnership Benefits” sections for Fort Bragg; page marked “Current as of 5 January 2024.”
+- Excerpt: The Army page says Fort Bragg's IGSA custodial and facilities-maintenance work was verified by a coordinating representative before execution, invoices were validated and entered in GFEBS as miscellaneous payments, and the two IGSAs had produced a combined $486,000 in realized cost savings over their life.
+- Boundary: This is an older Fort Bragg example, not a Fort Leonard Wood record and not the annual certification required by 10 U.S.C. § 2679(e)(3). It demonstrates that the Army can describe realized savings alongside an execution control, but does not validate the later $2.9 million Fort Leonard Wood aggregate.
+
+## E8 — Fort Leonard Wood Garrison Policy 13
+
+- URL: https://home.army.mil/wood/download_file/force/9443/771
+- Retrieved: 2026-09-12
+- Locator: “Purpose,” “Applicability,” “Format and Content,” and “Procedures” sections, PDF pages 1–2.
+- Excerpt: The policy makes the Garrison Commander the signature authority for MOAs and MOUs involving garrison organizations. It requires the Support Agreements Manager to coordinate development, legal and budget review, fiscal-viability determination, and final signatures; the signed agreement is returned for execution and retained in a central repository.
+- Boundary: The policy governs MOAs and MOUs generally and does not disclose the nine Fort Leonard Wood IGSA agreements, their cost-benefit analyses, approval letters, payment records, or statutory recapture amounts.

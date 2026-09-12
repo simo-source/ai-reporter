@@ -1,0 +1,82 @@
+date: 2026-09-12
+mode: CONTINUE
+preflight:
+  exit_code: 0
+  action: AUTONOMOUS
+install:
+  ran: true
+  result: npm install completed successfully; yaml dependency installed and audit reported no vulnerabilities
+desk_status:
+  ran: true
+  result: previous run and latest journal reread successfully after dependency installation
+ingest:
+  ran: true
+  result: refreshed today's primary-document horizon
+  horizon: newsroom/horizon/2026-09-12/BRIEF.md
+  sources:
+    - sec-edgar
+    - federal-register
+    - gao
+    - courtlistener
+    - uk-legislation
+leads:
+  scored: 0
+  started: []
+  parked: []
+  killed: []
+  scored_ids: []
+investigations:
+  - id: 2026-010-dod-igsa-savings-verification
+    decision: continue
+    new_primary_documents: 3
+    evidence_added:
+      - E6 IMCOM FY21 IGSA controls
+      - E7 Army Fort Bragg realized-savings example
+      - E8 Fort Leonard Wood Garrison Policy 13
+    changed:
+      - claim-ledger.yml
+      - evidence-log.md
+      - evidence/2026-09-12-imcom-fy21-igsa-controls.md
+      - evidence/2026-09-12-army-partnerships-page.md
+      - evidence/2026-09-12-flw-garrison-policy-13.md
+      - gaps.md
+      - status.yml
+      - timeline.md
+      - traces/2026-09-12.md
+  - id: 2026-005-navy-submarine-maintenance
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-008-dod-installation-maintenance-funding
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-006-gao-it-modernization-controls
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-007-doe-contractor-assurance
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-002-boeing-787-cargo-frame-material
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-003-army-network-scale-baseline
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-004-nuclear-fuel-cost-visibility
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+  - id: 2026-009-dhs-contract-termination-savings
+    decision: remain parked
+    new_primary_documents: 0
+    evidence_added: []
+publication:
+  published: false
+  reason: The new Army records sharpen the retrieval target but do not connect Fort Leonard Wood's approximately $2.9 million aggregate to agreement-level realized savings, statutory installation-level recapture, and approved uses.
+journal: newsroom/journal/2026-09-12.md
+desk_note: newsroom/desk/2026-09-12-r1.md
